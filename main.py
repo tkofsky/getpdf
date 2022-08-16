@@ -8,6 +8,7 @@ from pathlib import Path
 cnt=0
 zerosize =0
 toggle=0
+#111
 with open('xml apps.dat', encoding='latin-1') as f:  #in
 
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
