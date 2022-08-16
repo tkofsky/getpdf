@@ -16,7 +16,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
         sn=str(row[1])
         dte=str(row[2])
       #111112sffdsfsds s w
-#ewrwerwe 225 5555 ewrwerwe
+#ewrwerwe 225 5555 ewrwerwe comm2
         dte=dte[0:4]+"-"+dte[4:6]+"-"+dte[6:8]
         url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn="+sn+"&date="+dte+"&USPTO-API-KEY=p0U59nBx9u2WE0tFzednzmHXv9NbkThe"
         #url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=90815289&date=20220326&USPTO-API-KEY=1csin1EnVbBiVYlYqhxPZLThC9s4LjwW"
