@@ -14,15 +14,15 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(8.0) #5.1 #15.1
+        time.sleep(2.5) #5.1 #15.1
         sn=str(row[1])
         dte=str(row[2])
-      #111112sffdsfsds s w kk
-#ewrwerwe 225 5555 ewrwerwe comm2
+#234234242341
+
         dte=dte[0:4]+"-"+dte[4:6]+"-"+dte[6:8]
 
         if toggle==1:
-            print ("toggle1")
+           # print ("toggle1")
             url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn="+sn+"&date="+dte+"&USPTO-API-KEY=p0U59nBx9u2WE0tFzednzmHXv9NbkThe"
         #url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=90815289&date=20220326&USPTO-API-KEY=1csin1EnVbBiVYlYqhxPZLThC9s4LjwW"
         #url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=90813837&date=2022-03-24&USPTO-API-KEY=1csin1EnVbBiVYlYqhxPZLThC9s4LjwW"
@@ -34,7 +34,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
         }
             toggle=0
         else:
-            print("toggle0")
+            #print("toggle0")
             url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=" + sn + "&date=" + dte + "&USPTO-API-KEY=hMtewl5gpVnSU5oCjGhffQJRPzzbuQa8"
             payload = {}
             headers = {
