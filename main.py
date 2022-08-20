@@ -14,11 +14,12 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(2.6) #5.1 #15.1
+        time.sleep(8.0) #5.1 #15.1
         sn=str(row[1])
         dte=str(row[2])
 #234234242341
-
+       # sn="97124717"
+       # dte="20220802"
         dte=dte[0:4]+"-"+dte[4:6]+"-"+dte[6:8]
 
         if toggle==1:
