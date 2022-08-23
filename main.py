@@ -44,9 +44,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
             }
             toggle=1
 
-#serwererererwrwrerrwr
-#imer#u r
-#1Jlxj8XsmbqWXEJyLE1X2CaejNK2qIct
+
 
         response = requests.request("GET", url, headers=headers, data=payload)
         print (response)
