@@ -49,7 +49,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
         response = requests.request("GET", url, headers=headers, data=payload)
         print (response)
         print (sn)
-        print (sn)
+
         if response.status_code!=404:
             filename = sn+".pdf"
             htmldir=Path("files/")
