@@ -14,7 +14,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(5.1) #5.1 #15.1
+        time.sleep(2.6) #5.1 #15.1
         sn=str(row[1])
         dte=str(row[2])
 #23423
@@ -49,7 +49,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
         response = requests.request("GET", url, headers=headers, data=payload)
         print (response)
         print (sn)
-
+        print (sn)
         if response.status_code!=404:
             filename = sn+".pdf"
             htmldir=Path("files/")
