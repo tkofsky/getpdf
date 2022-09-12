@@ -14,7 +14,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(7.6) #5.1 #15.1
+        time.sleep(2.6) #5.1 #15.1 5/3 = 1.7
         sn=str(row[1])
         dte=str(row[2])
 
