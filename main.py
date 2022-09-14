@@ -14,12 +14,12 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(2.6) #5.1 #15.1 5/3 = 1.7
+        time.sleep(1.7) #5.1 #15.1 5/3 = 1.7
         sn=str(row[1])
         dte=str(row[2])
 
         dte=dte[0:4]+"-"+dte[4:6]+"-"+dte[6:8]
-
+        toggle=3
         if toggle==1:
            # print ("toggle1")
             url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn="+sn+"&date="+dte+"&USPTO-API-KEY=p0U59nBx9u2WE0tFzednzmHXv9NbkThe"
@@ -31,8 +31,8 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
             'USPTO-API-KEY': 'p0U59nBx9u2WE0tFzednzmHXv9NbkThe',
             'Cookie': 'TS01b2ceaa=01874167c7092c3ccdc9e0fb4fbc51a8fb587127a556b024f727d3c426d9a4333cbb86fd42ea9318b6b10a86c145f4164d0f7f8b30'
         }
-            toggle=0
-        else:
+            toggle=2
+        elif toggle==2:
             #print("toggle0")
             url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=" + sn + "&date=" + dte + "&USPTO-API-KEY=hMtewl5gpVnSU5oCjGhffQJRPzzbuQa8"
             payload = {}
@@ -40,8 +40,16 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
                 'USPTO-API-KEY': 'hMtewl5gpVnSU5oCjGhffQJRPzzbuQa8',
                 'Cookie': 'TS01b2ceaa=01874167c753dbf5751b58b7ffef05b2c7318a59da9beefbc678177cdad1e398c7629f0de3478f52406d8daa510e06accc0e58063c'
             }
+            toggle=3
+        elif toggle==3:
+            #print("toggle0")
+            url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn=" + sn + "&date=" + dte + "&USPTO-API-KEY=b5gQljPDz10SXyQljqvk2Tz0FDRMH3uz"
+            payload = {}
+            headers = {
+                'USPTO-API-KEY': 'b5gQljPDz10SXyQljqvk2Tz0FDRMH3uz',
+                'Cookie': 'TS01b2ceaa=01874167c70e2f905e3fe4234528f7fd901d5003245e754aece424261f01187dae529bfb3429199e59dc4760b5041caf9b76559a67'
+            }
             toggle=1
-
 
 
         response = requests.request("GET", url, headers=headers, data=payload)
@@ -60,7 +68,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
             htmldir = Path("files/")
             pdffiletouse = htmldir / filename
             file=Path(pdffiletouse)
-            if file.exists() and file.stat().st_size > 20000: #1: # check if size is > 200000 bytes and it downloaded correctly
+            if file.exists() and file.stat().st_size > 23000: #1: # check if size is > 200000 bytes and it downloaded correctly
                 with fitz.open(pdffiletouse) as doc: ## open PDF
                     text = ""
                     for page in doc:
