@@ -7,19 +7,23 @@ countx=0
 from pathlib import Path
 cnt=0
 zerosize =0
-toggle=0
+toggle=1
 #12
+exetime=0
+starttime =0
 with open('xml apps.dat', encoding='latin-1') as f:  #in
 
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
-        time.sleep(1.7) #5.1 #15.1 5/3 = 1.7
+        starttime = time.time()
+        #time.sleep(5.1) #5.1 #15.1 5/3 = 1.7 and 15/3 = 5.1 time.sleep(1.7-exetime)
+        time.sleep(5.1-exetime)
         sn=str(row[1])
         dte=str(row[2])
 
         dte=dte[0:4]+"-"+dte[4:6]+"-"+dte[6:8]
-        toggle=3
+
         if toggle==1:
            # print ("toggle1")
             url = "https://tsdrapi.uspto.gov/ts/cd/casedocs/bundle.pdf?sn="+sn+"&date="+dte+"&USPTO-API-KEY=p0U59nBx9u2WE0tFzednzmHXv9NbkThe"
@@ -98,6 +102,10 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
             with open(filetouse, "a", encoding="utf-8") as f:  ## write as TXT file
                 f.write(text)
                 f.write("\n")
+        exetime = time.time() - starttime
+
+
+
 
 print ("***************")
 print (cnt)
