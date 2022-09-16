@@ -18,11 +18,11 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
         countx+=1
 
         #time.sleep(5.1) #5.1 #15.1 5/3 = 1.7 and 15/3 = 5.1 time.sleep(1.7-exetime)
-        print ("original:",exetime)
+        #print ("exe time:",exetime)
         if exetime > 5.1:
             exetime = 5.1
         #print("real:", exetime)
-        print ("waiting for",5.1-exetime)
+        #print ("waiting for",5.1-exetime)
         time.sleep(5.1-exetime)
 
         starttime = time.time()
