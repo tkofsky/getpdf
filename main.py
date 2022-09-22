@@ -12,7 +12,7 @@ toggle=1
 exetime=0
 starttime =0
 with open('xml apps.dat', encoding='latin-1') as f:  #in
-#wqw
+#wqwsdrsr
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
         countx+=1
