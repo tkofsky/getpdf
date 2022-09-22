@@ -1,0 +1,638 @@
+PTO- 1957
+Approved for use through 11/30/2023. OMB 0651-0050
+U.S. Patent and Trademark Office; U.S. DEPARTMENT OF COMMERCE
+Under the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it contains a valid OMB control number
+Response to Office Action
+The table below presents the data as entered.
+Input Field
+Entered
+SERIAL NUMBER
+97119746
+LAW OFFICE ASSIGNED
+LAW OFFICE 127
+MARK SECTION
+MARK
+mark
+LITERAL ELEMENT
+IMPACT QUICKSCAN
+STANDARD CHARACTERS
+YES
+USPTO-GENERATED IMAGE
+YES
+MARK STATEMENT
+The mark consists of standard characters, without claim to any particular font style,
+size or color.
+GOODS AND/OR SERVICES SECTION (041)(class deleted)
+GOODS AND/OR SERVICES SECTION (035) (class added)Original Class (041)
+INTERNATIONAL CLASS
+035
+DESCRIPTION
+Business Consulting service in the field of environmental, social and governance (ESG) standards
+        WEBPAGE URL
+None Provided
+        WEBPAGE DATE OF ACCESS
+None Provided
+FILING BASIS
+Section 1(b)
+GOODS AND/OR SERVICES SECTION (036)(class added)
+INTERNATIONAL CLASS
+036
+DESCRIPTION
+Financial Consulting service in the field of environmental, social and governance (ESG) standards
+        WEBPAGE URL
+None Provided
+        WEBPAGE DATE OF ACCESS
+None Provided
+FILING BASIS
+Section 1(b)
+GOODS AND/OR SERVICES SECTION (042)(class added)
+INTERNATIONAL CLASS
+042
+DESCRIPTION
+Consulting service in the field of environmental science
+        WEBPAGE URL
+None Provided
+        WEBPAGE DATE OF ACCESS
+None Provided
+FILING BASIS
+Section 1(b)
+ATTORNEY INFORMATION (current)NAME
+Peter Cousins
+ATTORNEY BAR MEMBERSHIP NUMBER
+XXX
+YEAR OF ADMISSION
+XXXX
+U.S. STATE/ COMMONWEALTH/ TERRITORY
+XX
+STREET
+665 FIFTH AVENUE
+CITY
+NEW YORK
+STATE
+New York
+POSTAL CODE
+10022
+COUNTRY/REGION/JURISDICTION/U.S. TERRITORY
+United States
+PHONE
+212-688-5151
+EMAIL
+pcousins@gibney.com
+ATTORNEY INFORMATION (proposed)
+NAME
+Peter Cousins
+ATTORNEY BAR MEMBERSHIP NUMBER
+XXX
+YEAR OF ADMISSION
+XXXX
+U.S. STATE/ COMMONWEALTH/ TERRITORY
+XX
+STREET
+650 FIFTH AVENUE
+CITY
+NEW YORK
+STATE
+New York
+POSTAL CODE
+10019
+COUNTRY/REGION/JURISDICTION/U.S. TERRITORY
+United States
+PHONE
+212-688-5151
+EMAIL
+pcousins@gibney.com
+CORRESPONDENCE INFORMATION (current)
+NAME
+PETER COUSINS
+PRIMARY EMAIL ADDRESS FOR CORRESPONDENCE
+pcousins@gibney.com
+SECONDARY EMAIL ADDRESS(ES) (COURTESY COPIES)
+trademark@gibney.com
+CORRESPONDENCE INFORMATION (proposed)
+NAME
+Peter Cousins
+PRIMARY EMAIL ADDRESS FOR CORRESPONDENCE
+pcousins@gibney.com
+SECONDARY EMAIL ADDRESS(ES) (COURTESY COPIES)
+trademark@gibney.com
+PAYMENT SECTION
+APPLICATION FOR REGISTRATION PER CLASS
+350
+NUMBER OF CLASSES
+2
+TOTAL FEES DUE
+700
+SIGNATURE SECTION
+DECLARATION SIGNATURE
+/Peter Cousins/
+SIGNATORY'S NAME
+Peter CousinsSIGNATORY'S POSITION
+Attorney of record
+SIGNATORY'S PHONE NUMBER
+212-705-9836
+DATE SIGNED
+08/24/2022
+SIGNATURE METHOD
+Sent to third party for signature
+RESPONSE SIGNATURE
+/Peter Cousins/
+SIGNATORY'S NAME
+Peter Cousins
+SIGNATORY'S POSITION
+Attorney
+SIGNATORY'S PHONE NUMBER
+212 705 9836
+DATE SIGNED
+08/24/2022
+ROLE OF AUTHORIZED SIGNATORY
+Authorized U.S.-Licensed Attorney
+SIGNATURE METHOD
+Sent to third party for signature
+FILING INFORMATION SECTION
+SUBMIT DATE
+Wed Aug 24 16:56:43 ET 2022
+TEAS STAMP
+USPTO/ROA-XX.XX.XXX.XXX-2
+0220824165645139090-97119
+746-800f4d17fbb877a2d8687
+b6ac92ca4d71f2fd26d17c642
+637e8efbf1411aa9eea2-CC-5
+6433483-20220824155548659
+055
+PTO- 1957
+Approved for use through 11/30/2023. OMB 0651-0050
+U.S. Patent and Trademark Office; U.S. DEPARTMENT OF COMMERCE
+Under the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it contains a valid OMB control number
+Response to Office Action
+To the Commissioner for Trademarks:
+Application serial no. 97119746 IMPACT QUICKSCAN(Standard Characters, see https://tmng-al.uspto.gov/resting2/api/img/97119746/large)
+has been amended as follows:
+CLASSIFICATION AND LISTING OF GOODS/SERVICES
+Applicant hereby deletes the following class of goods/services from the application.
+Class 041 for Consulting service in the field of environmental, social and governance (ESG) standards
+Applicant hereby adds the following class of goods/services to the application: 
+New: Class 035 (Original Class: 041 ) for Business Consulting service in the field of environmental, social and governance (ESG) standards
+Filing Basis: Section 1(b), Intent to Use: For a trademark or service mark application: The applicant believes the applicant is entitled to use
+the mark in commerce on or in connection with the goods or services specified in the application; the applicant has a bona fide intention to use
+the mark in commerce and had a bona fide intention to use the mark in commerce as of the application filing date. For a collective trademark,
+collective service mark, collective membership mark, or certification mark application: The applicant has a bona fide intention, and is entitled,
+to exercise legitimate control over the use of the mark in commerce and had a bona fide intention, and was entitled, to exercise legitimate control
+over the use of the mark in commerce as of the application filing date. For a certification mark application: The applicant will not engage in the
+production or marketing of the goods/services to which the mark is applied, except to advertise or promote recognition of the certification
+program or of the goods/services that meet the certification standards of the applicant.
+Webpage URL: None ProvidedWebpage Date of Access: None Provided
+Applicant hereby adds the following class of goods/services to the application: 
+New: Class 036 for Financial Consulting service in the field of environmental, social and governance (ESG) standards
+Filing Basis: Section 1(b), Intent to Use: For a trademark or service mark application: The applicant believes the applicant is entitled to use
+the mark in commerce on or in connection with the goods or services specified in the application; the applicant has a bona fide intention to use
+the mark in commerce and had a bona fide intention to use the mark in commerce as of the application filing date. For a collective trademark,
+collective service mark, collective membership mark, or certification mark application: The applicant has a bona fide intention, and is entitled,
+to exercise legitimate control over the use of the mark in commerce and had a bona fide intention, and was entitled, to exercise legitimate control
+over the use of the mark in commerce as of the application filing date. For a certification mark application: The applicant will not engage in the
+production or marketing of the goods/services to which the mark is applied, except to advertise or promote recognition of the certification
+program or of the goods/services that meet the certification standards of the applicant.
+Webpage URL: None Provided
+Webpage Date of Access: None Provided
+Applicant hereby adds the following class of goods/services to the application: 
+New: Class 042 for Consulting service in the field of environmental science
+Filing Basis: Section 1(b), Intent to Use: For a trademark or service mark application: The applicant believes the applicant is entitled to use
+the mark in commerce on or in connection with the goods or services specified in the application; the applicant has a bona fide intention to use
+the mark in commerce and had a bona fide intention to use the mark in commerce as of the application filing date. For a collective trademark,
+collective service mark, collective membership mark, or certification mark application: The applicant has a bona fide intention, and is entitled,
+to exercise legitimate control over the use of the mark in commerce and had a bona fide intention, and was entitled, to exercise legitimate control
+over the use of the mark in commerce as of the application filing date. For a certification mark application: The applicant will not engage in the
+production or marketing of the goods/services to which the mark is applied, except to advertise or promote recognition of the certification
+program or of the goods/services that meet the certification standards of the applicant.
+Webpage URL: None Provided
+Webpage Date of Access: None Provided
+The owner's/holder's current attorney information: Peter Cousins. Peter Cousins, is a member of the XX bar, admitted to the bar in XXXX, bar
+membership no. XXX, is located at
+      665 FIFTH AVENUE
+      NEW YORK, New York 10022
+      United States
+      The phone number is 212-688-5151.
+      The email address is pcousins@gibney.com
+The owner's/holder's proposed attorney information: Peter Cousins. Peter Cousins, is a member of the XX bar, admitted to the bar in XXXX, bar
+membership no. XXX, is located at
+      650 FIFTH AVENUE
+      NEW YORK, New York 10019
+      United States
+      The phone number is 212-688-5151.
+      The email address is pcousins@gibney.com
+Peter Cousins submitted the following statement: The attorney of record is an active member in good standing of the bar of the highest court of a
+U.S. state, the District of Columbia, or any U.S. Commonwealth or territory.
+Correspondence Information (current): 
+      PETER COUSINS
+      PRIMARY EMAIL FOR CORRESPONDENCE: pcousins@gibney.com
+      SECONDARY EMAIL ADDRESS(ES) (COURTESY COPIES): trademark@gibney.com
+Correspondence Information (proposed): 
+      Peter CousinsPRIMARY EMAIL FOR CORRESPONDENCE: pcousins@gibney.com
+      SECONDARY EMAIL ADDRESS(ES) (COURTESY COPIES): trademark@gibney.com
+Requirement for Email and Electronic Filing: I understand that a valid email address must be maintained by the owner/holder and the
+owner's/holder's attorney, if appointed, and that all official trademark correspondence must be submitted via the Trademark Electronic
+Application System (TEAS).
+FEE(S)
+Fee(s) in the amount of $700 is being submitted.
+SIGNATURE(S)
+Declaration Signature
+DECLARATION: The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both,
+under 18 U.S.C. § 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or
+any registration resulting therefrom, declares that, if the applicant submitted the application or allegation of use (AOU) unsigned, all
+statements in the application or AOU and this submission based on the signatory's own knowledge are true, and all statements in the
+application or AOU and this submission made on information and belief are believed to be true.
+STATEMENTS FOR UNSIGNED SECTION 1(a) APPLICATION/AOU: If the applicant filed an unsigned application under 15 U.S.C.
+§1051(a) or AOU under 15 U.S.C. §1051(c), the signatory additionally believes that: the applicant is the owner of the mark sought to be
+registered; the mark is in use in commerce and was in use in commerce as of the filing date of the application or AOU on or in connection with
+the goods/services/collective membership organization in the application or AOU; the original specimen(s), if applicable, shows the mark in use
+in commerce as of the filing date of the application or AOU on or in connection with the goods/services/collective membership organization in
+the application or AOU; for a collective trademark, collective service mark, collective membership mark application, or certification mark
+application, the applicant is exercising legitimate control over the use of the mark in commerce and was exercising legitimate control over the
+use of the mark in commerce as of the filing date of the application or AOU; for a certification mark application, the applicant is not engaged in
+the production or marketing of the goods/services to which the mark is applied, except to advertise or promote recognition of the certification
+program or of the goods/services that meet the certification standards of the applicant. To the best of the signatory's knowledge and belief, no
+other persons, except, if applicable, authorized users, members, and/or concurrent users, have the right to use the mark in commerce,
+either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services/collective
+membership organization of such other persons, to cause confusion or mistake, or to deceive.
+STATEMENTS FOR UNSIGNED SECTION 1(b)/SECTION 44 APPLICATION AND FOR SECTION 66(a)
+COLLECTIVE/CERTIFICATION MARK APPLICATION: If the applicant filed an unsigned application under 15 U.S.C. §§ 1051(b),
+1126(d), and/or 1126(e), or filed a collective/certification mark application under 15 U.S.C. §1141f(a), the signatory additionally believes that:
+for a trademark or service mark application, the applicant is entitled to use the mark in commerce on or in connection with the goods/services
+specified in the application; the applicant has a bona fide intention to use the mark in commerce and had a bona fide intention to use the mark in
+commerce as of the application filing date; for a collective trademark, collective service mark, collective membership mark, or certification
+mark application, the applicant has a bona fide intention, and is entitled, to exercise legitimate control over the use of the mark in commerce and
+had a bona fide intention, and was entitled, to exercise legitimate control over the use of the mark in commerce as of the application filing date;
+the signatory is properly authorized to execute the declaration on behalf of the applicant; for a certification mark application, the applicant will
+not engage in the production or marketing of the goods/services to which the mark is applied, except to advertise or promote recognition of the
+certification program or of the goods/services that meet the certification standards of the applicant. To the best of the signatory's knowledge
+and belief, no other persons, except, if applicable, authorized users, members, and/or concurrent users, have the right to use the mark in
+commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the
+goods/services/collective membership organization of such other persons, to cause confusion or mistake, or to deceive.
+Signature: /Peter Cousins/      Date: 08/24/2022
+Signatory's Name: Peter Cousins
+Signatory's Position: Attorney of record
+Signatory's Phone Number: 212-705-9836
+Signature method: Sent to third party for signature
+Response Signature
+Signature: /Peter Cousins/     Date: 08/24/2022
+Signatory's Name: Peter CousinsSignatory's Position: Attorney
+Signatory's Phone Number: 212 705 9836 Signature method: Sent to third party for signature
+The signatory has confirmed that he/she is a U.S.-licensed attorney who is an active member in good standing of the bar of the highest court of a
+U.S. state (including the District of Columbia and any U.S. Commonwealth or territory); and he/she is currently the owner's/holder's attorney or
+an associate thereof; and to the best of his/her knowledge, if prior to his/her appointment another U.S.-licensed attorney not currently associated
+with his/her company/firm previously represented the owner/holder in this matter: the owner/holder has revoked their power of attorney by a
+signed revocation or substitute power of attorney with the USPTO; the USPTO has granted that attorney's withdrawal request; the owner/holder
+has filed a power of attorney appointing him/her in this matter; or the owner's/holder's appointed U.S.-licensed attorney has filed a power of
+attorney appointing him/her as an associate attorney in this matter.
+Mailing Address:    PETER COUSINS
+   
+   
+   665 FIFTH AVENUE
+   NEW YORK, New York 10022
+Mailing Address:    Peter Cousins
+   
+   650 FIFTH AVENUE
+   NEW YORK, New York 10019
+        
+PAYMENT: 97119746
+PAYMENT DATE: 08/24/2022
+        
+Serial Number: 97119746
+Internet Transmission Date: Wed Aug 24 16:56:43 ET 2022
+TEAS Stamp: USPTO/ROA-XX.XX.XXX.XXX-2022082416564513
+9090-97119746-800f4d17fbb877a2d8687b6ac9
+2ca4d71f2fd26d17c642637e8efbf1411aa9eea2
+-CC-56433483-20220824155548659055To:
+Peter Cousins(pcousins@gibney.com)
+Subject:
+U.S. Trademark Application Serial No. 97119746 - IMPACT QUICKSCAN
+Sent:
+August 24, 2022 11:24:12 AM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97119746
+Mark:  IMPACT QUICKSCAN
+Correspondence Address:  
+PETER COUSINS 
+665 FIFTH AVENUE 
+NEW YORK NY 10022 UNITED STATES
+Applicant:  PKF O'Connor Davies, LLP
+Reference/Docket No. N/A
+Correspondence Email Address:  pcousins@gibney.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 24, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney.  
+Applicant must respond timely and completely to the issues below.  15 U.S.C. §1062(b); 37 C.F.R. 
+§§2.62(a), 2.65(a); TMEP §§711, 718.03.
+ 
+DATABASE SEARCHThe trademark examining attorney has searched the USPTO database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d). 15 
+U.S.C. §1052(d); TMEP §704.02.
+ 
+SUMMARY OF ISSUES:
+Amended Identification of Services Required
+•
+Multiple Class Application Requirements
+•
+ 
+ 
+AMENDED IDENTIFICATION OF SERVICES REQUIRED
+ 
+The identification of services is indefinite and must be clarified because the exact nature of the services 
+is not clear and could include services in multiple classes. See 37 C.F.R. §2.32(a)(6); TMEP §1402.01. 
+Applicant must amend the identification to specify the common commercial or generic name of the 
+services and classify the services correctly. See TMEP §1402.01. If the services have no common 
+commercial or generic name, applicant must describe or explain the nature of the services using clear 
+and succinct language. See id.
+ 
+Applicant may substitute the following wording, if accurate:
+ 
+Class 035: Business Consulting service in the field of environmental, social and governance (ESG) 
+standards
+ 
+Class 036: Financial  Consulting service in the field of environmental, social and governance (ESG) 
+standards
+ 
+Class 042: Consulting service in the field of environmental science
+ 
+Applicant may amend the identification to clarify or limit the services, but not to broaden or expand the 
+services beyond those in the original application or as acceptably amended. See 37 C.F.R. §2.71(a); 
+TMEP §1402.06. Generally, any deleted services may not later be reinserted. See TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See 
+TMEP §1402.04.
+ 
+Applicant should also note the following additional requirement. 
+ 
+ 
+MULTIPLE CLASS APPLICATION REQUIREMENTS
+ 
+The fee for adding classes to a TEAS Standard application is $350 per class. See 37 C.F.R. 
+§2.6(a)(1)(iii). For more information about adding classes to an application, see the Multiple-class 
+Application webpage.
+ 
+The application identifies goods and/or services in more than one international class; therefore, 
+applicant must satisfy all the requirements below for each international class based on Trademark Act 
+Section 1(b):(1)  List the goods and/or services by their international class number in consecutive 
+numerical order, starting with the lowest numbered class.
+ 
+(2)  Submit a filing fee for each international class not covered by the fee already paid (view 
+the USPTO’s current fee schedule).  The application identifies goods and/or services that are 
+classified in at least three classes; however, applicant submitted a fee sufficient for only one 
+class.  Applicant must either submit the filing fees for the classes not covered by the submitted 
+fees or restrict the application to the number of classes covered by the fees already paid.
+ 
+See 37 C.F.R. §2.86(a); TMEP §§1403.01, 1403.02(c).
+ 
+For an overview of the requirements for a Section 1(b) multiple-class application and how to satisfy the 
+requirements online using the Trademark Electronic Application System (TEAS) form, see the 
+Multiple-class Application webpage.
+ 
+ 
+RESPONDING TO THIS OFFICE ACTION
+ 
+Response guidelines.  For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action.  For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above.  For a 
+requirement, applicant should set forth the changes or statements.  Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+Assistance. Please call or email the assigned trademark examining attorney with questions about this 
+Office action.  Although an examining attorney cannot provide legal advice, the examining attorney can 
+provide additional explanation about the refusal(s) and/or requirement(s) in this Office action.  See 
+TMEP §§705.02, 709.06.  The USPTO does not accept emails as responses to Office actions; however, 
+emails can be used for informal communications and are included in the application record.  See 37 
+C.F.R. §§2.62(c), 2.191; TMEP §§304.01-.02, 709.04-.05. 
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record.  See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05. 
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Carolyn Detmer/
+Carolyn Detmer
+Trademark Examining Attorney 
+Law Office 127
+(571) 272-2722
+carolyn.detmer1@uspto.govRESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 24, 2022 for  
+U.S. Trademark Application Serial No.  97119746
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: Carolyn Detmer
+Statistics for Case
+97119746
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97119746[sn]
+1
+0
+1
+1
+0:00
+2
+"PKF O'Connor Davies"[on]
+0
+0
+0
+0
+0:00
+3
+"PKF O Connor Davies"[on]
+2
+0
+2
+2
+0:00
+4
+*mp{v}{"ckqx"}t*[bi,ti] and live[ld]
+2911
+0
+0
+0
+0:00
+5
+*{"ckqx"}{"uw"}{"iey"}{"ckqx"}*[bi,ti] and li
+ve[ld]
+5690
+0
+0
+0
+0:13
+6
+*{"scz"}{"ckqx"}{v}n*[bi,ti] and live[ld]
+26059
+0
+0
+0
+0:21
+7
+4 and (5 6)
+11
+0
+11
+11
+0:16
+8
+5 and 6
+67
+0
+67
+67
+0:14
+9
+4 and "035"[cc]
+1947
+0
+0
+0
+0:00
+10 4 and ("035" a b 200)[ic]
+800
+0
+0
+0
+0:01
+11 *imp{v}{"ckqx"}t*[bi,ti] and live[ld]
+2547
+0
+0
+0
+0:00
+12 11 and ("035" a b 200)[ic]
+768
+0
+0
+0
+0:00
+13 *impa{"ckqx"}t*[bi,ti] and live[ld]
+2544
+0
+0
+0
+0:00
+14 *impact*[bi,ti] and live[ld]
+2539
+0
+0
+0
+0:01
+15 *impact[bi,ti] and live[ld]
+2391
+0
+0
+0
+0:01
+16 15 and ("035" a b 200)[ic]
+720
+0
+0
+0
+0:00
+17 impact[bi,ti] and live[ld]
+2362
+0
+0
+0
+0:01
+18 17 and ("035" a b 200)[ic]
+704
+0
+400
+400
+0:00
+19 17 and ("036" a b 200)[ic]
+397
+0
+397
+397
+0:01
+20 17 and ("042" a b 200)[ic]
+374
+0
+374
+374
+0:01
+21 18 not (19 20)
+464
+0
+464
+464
+0:01
+Session started 08/24/2022 11:07 am
+Session ended 08/24/2022 11:18 am
+Total search duration 71.00
+Session duration 11 minutes 15 seconds
+Adjacency Level 1
+Near Level 1

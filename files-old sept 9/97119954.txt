@@ -1,0 +1,311 @@
+To:
+I. Edward Marquette(trademarks.marquette@kutakrock.com)
+Subject:
+U.S. Trademark Application Serial No. 97119954 - HIGHWIRE
+Sent:
+August 23, 2022 04:09:24 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97119954
+Mark:  HIGHWIRE
+Correspondence Address:  
+I. EDWARD MARQUETTE 
+KUTAK ROCK LLP 
+2300 MAIN STREET 
+SUITE 800 
+KANSAS CITY MO 64108 UNITED STATES
+Applicant:  ConstructSecure, Inc.
+Reference/Docket No. N/A
+Correspondence Email Address:  trademarks.marquette@kutakrock.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+INTRODUCTION
+ 
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a),2.65(a); TMEP §§711, 718.03.
+ 
+SEARCH OF USPTO DATABASE OF MARKS
+ 
+The trademark examining attorney has searched the USPTO database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d). 15 
+U.S.C. §1052(d); TMEP §704.02.
+ 
+SUMMARY OF ISSUES:
+ 
+CLASSIFICATION AND IDENTIFICATION OF GOODS
+•
+ 
+ 
+CLASSIFICATION AND IDENTIFICATION OF GOODS
+ 
+Applicant has classified “Operating, managing, and maintaining a web-based marketplace for 
+identifying new contractor partners and project leads in connection with facilities construction and 
+operation” in International Class 045; however, the proper classification, properly amended, is 
+International Class 035. Therefore, applicant may respond by (1) adding International Class 035 to the 
+application and reclassifying these goods and/or services in the proper international class, (2) deleting 
+“Operating, managing, and maintaining a web-based marketplace for identifying new contractor 
+partners and project leads in connection with facilities construction and operation” from the application, 
+or (3) deleting the remainder of the items in the identification and reclassifying the specified goods 
+and/or services in the proper international class. See 37 C.F.R. §§2.86(a), 6.1; TMEP §§1403.02 et seq. 
+If applicant adds one or more international classes to the application, applicant must comply with the 
+multiple-class requirements specified in this Office action.
+ 
+The identification of services is indefinite and too broad because it references providing online 
+information services without indicating the subject matter of such information and could identify 
+services in more than one international class. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.03, 
+1402.11(a)(ii). The subject matter of the information being provided determines classification of these 
+services. TMEP §1402.11(a)(ii). For example, “providing information in the field of real estate via the 
+Internet” is classified in International Class 36; “providing consumer product information via the 
+Internet” is classified in International Class 35; and “providing information in the fields of forensic 
+science via the Internet” is classified in International Class 42.
+ 
+Therefore, applicant must amend the identification to specify the subject matter of the information 
+being provided via the Internet, and the proper classification. Id.
+ 
+Applicant may adopt the following wording, if accurate (suggestions in bold italics, deletions in 
+strikethrough): 
+ 
+“Provision of an online marketplace for buyers and sellers of construction services, namely, 
+identifying new contractor partners and project leads in connection with facilities construction and 
+operation” in International Class 035.  
+ 
+“Providing financial viability risk information in the field of facilities construction and contracting 
+via a website” in International Class 036.“Providing facilities construction and contracting information related to sustainability, and quality 
+via a website” in International Class 037.
+ 
+“Non Downloadable Software made available on a software as a service basis Software as a Service 
+(SaaS) services featuring non-downloadable software for gathering and assessing information 
+pertaining to facilities construction and operation, namely, safety risk information, financial viability 
+risk information, sustainability information, and quality information, both during the construction phase 
+of the facility and during its operations” in International Class 042.
+ 
+“Providing information in the field of construction and contractor safety via a website Operating, 
+managing, and maintaining a web-based network for furnishing information pertaining to facilities 
+construction and contracting and facilities operation, namely, information related to safety risks, 
+financial viability risks, sustainability, and quality; Operating, managing, and maintaining a web-
+based marketplace for identifying new contractor partners and project leads in connection with 
+facilities construction and operation” in International Class 045.
+Scope Advisory 
+ 
+Applicant’s goods and/or services may be clarified or limited, but may not be expanded beyond those 
+originally itemized in the application or as acceptably amended. See 37 C.F.R. §2.71(a); TMEP 
+§1402.06. Applicant may clarify or limit the identification by inserting qualifying language or deleting 
+items to result in a more specific identification; however, applicant may not substitute different goods 
+and/or services or add goods and/or services not found or encompassed by those in the original 
+application or as acceptably amended. See TMEP §1402.06(a)-(b). The scope of the goods and/or 
+services sets the outer limit for any changes to the identification and is generally determined by the 
+ordinary meaning of the wording in the identification. TMEP §§1402.06(b), 1402.07(a)-(b). Any 
+acceptable changes to the goods and/or services will further limit scope, and once goods and/or services 
+are deleted, they are not permitted to be reinserted. TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See 
+TMEP §1402.04.
+ 
+Multiple-Class Application Requirements 
+ 
+The application identifies goods and/or services in more than one international class; therefore, 
+applicant must satisfy all the requirements below for each international class based on Trademark Act 
+Section 1(b):
+ 
+(1)  List the goods and/or services by their international class number in consecutive 
+numerical order, starting with the lowest numbered class.
+ 
+(2)  Submit a filing fee for each international class not covered by the fee(s) already paid 
+(view the USPTO’s current fee schedule).  The application identifies goods and/or services that 
+are classified in at least five (5) classes; however, applicant submitted a fee(s) sufficient for only 
+two (2) class(es).  Applicant must either submit the filing fees for the classes not covered by the 
+submitted fees or restrict the application to the number of classes covered by the fees already 
+paid.
+ 
+See 37 C.F.R. §2.86(a); TMEP §§1403.01, 1403.02(c).For an overview of the requirements for a Section 1(b) multiple-class application and how to satisfy the 
+requirements online using the Trademark Electronic Application System (TEAS) form, see the 
+Multiple-class Application webpage.
+ 
+The fee for adding classes to a TEAS Standard application is $350 per class. See 37 C.F.R. 
+§2.6(a)(1)(iii). For more information about adding classes to an application, see the Multiple-class 
+Application webpage.
+ 
+RESPONSE GUIDELINES 
+ 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/David Hutchison/
+David Hutchison
+Trademark Examining Attorney 
+Law Office 123 
+ 
+(571) 272-6571
+david.hutchison@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+•ability to timely respond.
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97119954
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: David Hutchison
+Statistics for Case
+97119954
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+*w{"iy"}re*[bi,ti] not dead[ld]
+2795
+0
+0
+0
+0:01
+2
+*h{"iy"}{"gh"0:2}w{"iy"}re*[bi,ti] not dead[l
+d]
+13
+0
+13
+13
+0:01
+3
+*h{"iy"}{"gh"0:2}*[bi,ti] not dead[ld]
+210883
+0
+0
+0
+0:02
+4
+1 and 3
+93
+0
+93
+93
+0:01
+5
+1 and ("035" "036" "037" "042")[cc]
+1480
+0
+0
+0
+0:01
+6
+1 and ("035" "036" "037" "042" a b "200")[ic]
+972
+0
+0
+0
+0:01
+7
+1 and ("035" a b "200")[ic]
+471
+0
+471
+471
+0:01
+8
+1 and ("036" a b "200")[ic]
+138
+0
+138
+138
+0:01
+9
+1 and ("037" a b "200")[ic]
+161
+0
+161
+161
+0:01
+10 1 and ("042" a b "200")[ic]
+428
+0
+428
+428
+0:01
+Session started 08/23/2022 2:43 pm
+Session ended 08/23/2022 3:39 pm
+Total search duration 11.00
+Session duration 56 minutes 1 seconds
+Adjacency Level 1
+Near Level 1

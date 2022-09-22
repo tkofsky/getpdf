@@ -1,0 +1,699 @@
+To:
+Blue water capital(mikewrawlins@gmail.com)
+Subject:
+U.S. Trademark Application Serial No. 97120716 - FLEETSMARTS
+Sent:
+August 23, 2022 11:43:42 AM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+4884276
+97435716
+4741777
+5428868
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97120716
+Mark:  FLEETSMARTS
+Correspondence Address:  
+BLUE WATER CAPITAL 
+1109 ALEXANDER COURT 
+GRANTSVILLE UT 84029 UNITED STATES
+Applicant:  Blue water capital
+Reference/Docket No. N/A
+Correspondence Email Address:  mikewrawlins@gmail.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a),2.65(a); TMEP §§711, 718.03.
+ 
+SUMMARY OF ISSUES
+ 
+Section 2(d) Likelihood of Confusion Refusal (Reg. Nos. 4884276, 5428868, and 4741777)
+•
+Prior Pending Application may be Bar to Registration (Serial No. 97435716)
+•
+Specimen Refusal
+•
+Identification and Classification of Goods and Services Requirement
+•
+Multiple Class Application Requirement
+•
+ 
+SECTION 2(d) REFUSAL - LIKELIHOOD OF CONFUSION
+ 
+Registration of the applied-for mark is refused because of a likelihood of confusion with the marks in 
+U.S. Registration Nos. 5428868, 4884276, and 4741777. Trademark Act Section 2(d), 15 U.S.C. 
+§1052(d); see TMEP §§1207.01 et seq. See the attached registrations.
+ 
+Trademark Act Section 2(d) bars registration of an applied-for mark that is so similar to a registered 
+mark that it is likely consumers would be confused, mistaken, or deceived as to the commercial source 
+of the goods and/or services of the parties. See 15 U.S.C. §1052(d). Likelihood of confusion is 
+determined on a case-by-case basis by applying the factors set forth in In re E. I. du Pont de Nemours 
+& Co., 476 F.2d 1357, 1361, 177 USPQ 563, 567 (C.C.P.A. 1973) (called the “du Pont factors”). In re 
+i.am.symbolic, llc, 866 F.3d 1315, 1322, 123 USPQ2d 1744, 1747 (Fed. Cir. 2017). Any evidence of 
+record related to those factors need be considered; however, “not all of the DuPont factors are relevant 
+or of similar weight in every case.” In re Guild Mortg. Co., 912 F.3d 1376, 1379, 129 USPQ2d 1160, 
+1162 (Fed. Cir. 2019) (quoting In re Dixie Rests., Inc., 105 F.3d 1405, 1406, 41 USPQ2d 1531, 1533 
+(Fed. Cir. 1997)).
+ 
+Although not all du Pont factors may be relevant, there are generally two key considerations in any 
+likelihood of confusion analysis: (1) the similarities between the compared marks and (2) the 
+relatedness of the compared goods and/or services. See In re i.am.symbolic, llc, 866 F.3d at 1322, 123 
+USPQ2d at 1747 (quoting Herbko Int’l, Inc. v. Kappa Books, Inc., 308 F.3d 1156, 1164-65, 64 
+USPQ2d 1375, 1380 (Fed. Cir. 2002)); Federated Foods, Inc. v. Fort Howard Paper Co., 544 F.2d 
+1098, 1103, 192 USPQ 24, 29 (C.C.P.A. 1976) (“The fundamental inquiry mandated by [Section] 2(d) 
+goes to the cumulative effect of differences in the essential characteristics of the goods [or services] and 
+differences in the marks.”); TMEP §1207.01.
+ 
+The applicant’s mark is FLEETSMARTS for Software, transportation services.  The registrant’s marks 
+are: 
+ 
+4884276
+FLEET-SMART for Rental of light duty vehicles, namely, light duty trucks, off road utility vehicles or 
+similar equipment for use in construction and related industrial and commercial applications 
+ 
+4741777
+SMARTFLEET for Automated vehicle tracking and vehicle fleet management services, namely, 
+vehicle fleet tracking services utilizing GPS location tracking capabilities and communications 
+technologies to provide real time vehicle location information, including detailed maps, images and 
+addresses showing where vehicles are and have been5428868 
+FLEET SMARTHUB
+Computer software for use in the field of fleet vehicle management; computer software used to track, 
+store, monitor, and transmit fleet vehicle data; computer software used to remit payment of invoices 
+ 
+Comparison of the Marks 
+ 
+Marks are compared in their entireties for similarities in appearance, sound, connotation, and 
+commercial impression. Stone Lion Capital Partners, LP v. Lion Capital LLP, 746 F.3d 1317, 1321, 
+110 USPQ2d 1157, 1160 (Fed. Cir. 2014) (quoting Palm Bay Imps., Inc. v. Veuve Clicquot Ponsardin 
+Maison Fondee En 1772, 396 F.3d 1369, 1371, 73 USPQ2d 1689, 1691 (Fed. Cir. 2005)); TMEP 
+§1207.01(b)-(b)(v). “Similarity in any one of these elements may be sufficient to find the marks 
+confusingly similar.” In re Inn at St. John’s, LLC, 126 USPQ2d 1742, 1746 (TTAB 2018) (citing In re 
+Davia, 110 USPQ2d 1810, 1812 (TTAB 2014)), aff’d per curiam, 777 F. App’x 516, 2019 BL 343921 
+(Fed. Cir. 2019); TMEP §1207.01(b).
+ 
+As to FLEET-SMART and FLEET SMARTHUB 
+ 
+The applicant’s mark FLEETSMARTS, is similar to the registered marks FLEET-SMART and FLEET 
+SMARTHUB, because all contain the similar terms FLEET and SMART.  Marks may be confusingly 
+similar in appearance where similar terms or phrases or similar parts of terms or phrases appear in the 
+compared marks and create a similar overall commercial impression. See Crocker Nat’l Bank v. 
+Canadian Imperial Bank of Commerce, 228 USPQ 689, 690-91 (TTAB 1986), aff’d sub nom. 
+Canadian Imperial Bank of Commerce v. Wells Fargo Bank, Nat’l Ass’n, 811 F.2d 1490, 1495, 1 
+USPQ2d 1813, 1817 (Fed. Cir. 1987) (holding COMMCASH and COMMUNICASH confusingly 
+similar); In re Corning Glass Works, 229 USPQ 65, 66 (TTAB 1985) (holding CONFIRM and 
+CONFIRMCELLS confusingly similar); In re Pellerin Milnor Corp., 221 USPQ 558, 560 (TTAB 
+1983) (holding MILTRON and MILLTRONICS confusingly similar); TMEP §1207.01(b)(ii)-(iii).
+ 
+As to SMARTFLEET
+ 
+Confusion is likely between two marks consisting of reverse combinations of the same elements if they 
+convey the same meaning or create substantially similar commercial impressions. TMEP 
+§1207.01(b)(vii); see, e.g., In re Wine Soc’y of Am. Inc., 12 USPQ2d 1139, 1142 (TTAB 1989) 
+(holding THE WINE SOCIETY OF AMERICA and design for wine club membership services 
+including the supplying of printed materials likely to be confused with AMERICAN WINE SOCIETY 
+1967 and design for newsletters, bulletins, and journals); In re Nationwide Indus. Inc., 6 USPQ2d 1882, 
+1884 (TTAB 1988) (holding RUST BUSTER for a rust-penetrating spray lubricant likely to be 
+confused with BUST RUST for a penetrating oil).  Here FLEETSMARTS and SMARTFLEET are 
+essentially a transposition of terms with substantially similar commercial impressions.
+ 
+Comparison of the Goods and Services 
+ 
+The compared goods and/or services need not be identical or even competitive to find a likelihood of 
+confusion. See On-line Careline Inc. v. Am. Online Inc., 229 F.3d 1080, 1086, 56 USPQ2d 1471, 1475 
+(Fed. Cir. 2000); Recot, Inc. v. Becton, 214 F.3d 1322, 1329, 54 USPQ2d 1894, 1898 (Fed. Cir. 2000); 
+TMEP §1207.01(a)(i). They need only be “related in some manner and/or if the circumstances 
+surrounding their marketing are such that they could give rise to the mistaken belief that [the goods 
+and/or services] emanate from the same source.” Coach Servs., Inc. v. Triumph Learning LLC, 668F.3d 1356, 1369, 101 USPQ2d 1713, 1722 (Fed. Cir. 2012) (quoting 7-Eleven Inc. v. Wechsler, 83 
+USPQ2d 1715, 1724 (TTAB 2007)); TMEP §1207.01(a)(i).
+ 
+The applicant’s goods are closely related to the registrant’s goods as they both are software and 
+transportation related services likely to travel through the same channels of trade to the same classes of 
+purchasers. Determining likelihood of confusion is based on the description of the goods and/or 
+services stated in the application and registration at issue, not on extrinsic evidence of actual use.  See 
+In re Detroit Athletic Co., 903 F.3d 1297, 1307, 128 USPQ2d 1047, 1052 (Fed. Cir. 2018) (citing In re 
+i.am.symbolic, llc, 866 F.3d 1315, 1325, 123 USPQ2d 1744, 1749 (Fed. Cir. 2017)).  
+ 
+In this case, the application use(s) broad wording to describe software and transportation related 
+services, which presumably encompasses all goods and/or services of the type described, including 
+registrant(s)’s more narrow transportation services and software.  See, e.g., In re Solid State Design 
+Inc., 125 USPQ2d 1409, 1412-15 (TTAB 2018); Sw. Mgmt., Inc. v. Ocinomled, Ltd., 115 USPQ2d 
+1007, 1025 (TTAB 2015).  Thus, applicant’s and registrant’s goods and services are legally identical.  
+See, e.g., In re i.am.symbolic, llc, 127 USPQ2d 1627, 1629 (TTAB 2018) (citing Tuxedo Monopoly, 
+Inc. v. Gen. Mills Fun Grp., Inc., 648 F.2d 1335, 1336, 209 USPQ 986, 988 (C.C.P.A. 1981); Inter 
+IKEA Sys. B.V. v. Akea, LLC, 110 USPQ2d 1734, 1745 (TTAB 2014); Baseball Am. Inc. v. Powerplay 
+Sports Ltd., 71 USPQ2d 1844, 1847 n.9 (TTAB 2004)).
+ 
+Additionally, the goods and/or services of the parties have no restrictions as to nature, type, channels of 
+trade, or classes of purchasers and are “presumed to travel in the same channels of trade to the same 
+class of purchasers.”  In re Viterra Inc., 671 F.3d 1358, 1362, 101 USPQ2d 1905, 1908 (Fed. Cir. 
+2012) (quoting Hewlett-Packard Co. v. Packard Press, Inc., 281 F.3d 1261, 1268, 62 USPQ2d 1001, 
+1005 (Fed. Cir. 2002)).  Thus, applicant’s and registrant’s goods and/or services are related.
+ 
+The overriding concern is not only to prevent buyer confusion as to the source of the goods and/or 
+services, but to protect the registrant from adverse commercial impact due to use of a similar mark by a 
+newcomer. See In re Shell Oil Co., 992 F.2d 1204, 1208, 26 USPQ2d 1687, 1690 (Fed. Cir. 1993). 
+Therefore, any doubt regarding a likelihood of confusion determination is resolved in favor of the 
+registrant. TMEP §1207.01(d)(i); see Hewlett-Packard Co. v. Packard Press, Inc., 281 F.3d 1261, 
+1265, 62 USPQ2d 1001, 1003 (Fed. Cir. 2002); In re Hyper Shoppes (Ohio), Inc., 837 F.2d 463, 464-
+65, 6 USPQ2d 1025, 1026 (Fed. Cir. 1988).
+ 
+Accordingly, because confusion as to source is likely, registration is refused under Trademark Action 
+Section 2(d) based on a likelihood of confusion. 
+ 
+Although applicant’s mark has been refused registration, applicant may respond to the refusal(s) by 
+submitting evidence and arguments in support of registration. 
+ 
+PRIOR PENDING APPLICATION MAY BE BAR TO REGISTRATION
+ 
+The filing date of pending U.S. Application Serial No. 97435716 precedes applicant’s filing date.  See 
+attached referenced application.  If the mark in the referenced application registers, applicant’s mark 
+may be refused registration under Trademark Act Section 2(d) because of a likelihood of confusion 
+between the two marks.  See 15 U.S.C. §1052(d); 37 C.F.R. §2.83; TMEP §§1208 et seq.  Therefore, 
+upon receipt of applicant’s response to this Office action, action on this application may be suspended 
+pending final disposition of the earlier-filed referenced application.In response to this Office action, applicant may present arguments in support of registration by 
+addressing the issue of the potential conflict between applicant’s mark and the mark in the referenced 
+application.  Applicant’s election not to submit arguments at this time in no way limits applicant’s right 
+to address this issue later if a refusal under Section 2(d) issues.
+ 
+If applicant responds to the refusal(s), applicant must also respond to the requirement(s) set forth 
+below.
+ 
+INFORMALITIES 
+ 
+SPECIMEN REFUSAL - MERE DEPICTION OF MARK 
+ 
+Specimen is merely a drawing or depiction of the mark. Registration is refused because the 
+specimen is merely a photocopy of the drawing or a depiction of the applied-for mark and does not 
+show the applied-for mark as actually used in commerce with the goods and/or services in International 
+Class(es) 039, 009, and 042. Trademark Act Sections 1 and 45, 15 U.S.C. §§1051, 1127; 37 C.F.R. 
+§§2.34(a)(1)(iv), 2.56(a), (c); In re Chica, 84 USPQ2d 1845, 1848 (TTAB 2007); TMEP §§904, 
+904.07(a), 1301.04(g)(i). An application based on Trademark Act Section 1(a) must include a specimen 
+showing the applied-for mark as actually used in commerce for each international class of goods and/or 
+services identified in the application or amendment to allege use. 15 U.S.C. §1051(a)(1); 37 C.F.R. 
+§§2.34(a)(1)(iv), 2.56(a); TMEP §§904, 904.07(a).
+ 
+Examples of specimens.  Specimens for goods include a photograph of (1) the actual goods bearing 
+the mark; (2) an actual container, packaging, tag or label for the goods bearing the mark; or (3) a point-
+of-sale display showing the mark directly associated with the goods.  See 37 C.F.R. §2.56(b)(1), (c); 
+TMEP §904.03(a)-(m).  A webpage specimen submitted as a display associated with the goods must 
+show the mark in association with a picture or textual description of the goods and include information 
+necessary for ordering the goods.  TMEP §904.03(i); see 37 C.F.R. §2.56(b)(1), (c). 
+ 
+Specimens for services must show a direct association between the mark and the services and include: 
+(1) copies of advertising and marketing material, (2) a photograph of business signage or billboards, or 
+(3) materials showing the mark in the sale, rendering, or advertising of the services.  See 37 C.F.R. 
+§2.56(b)(2), (c); TMEP §1301.04(a), (h)(iv)(C). 
+ 
+Any webpage printout or screenshot submitted as a specimen must include the webpage’s URL and the 
+date it was accessed or printed on the specimen itself, within the TEAS form that submits the specimen, 
+or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. §1746 in a later-filed response.  See 37 
+C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+Response options. Applicant may respond to this refusal by satisfying one of the following for each 
+applicable international class:
+ 
+(1)        Submit a different specimen (a verified “substitute” specimen) that (a) was 
+in actual use in commerce at least as early as the filing date of the application or prior to 
+the filing of an amendment to allege use and (b) shows the mark in actual use in commerce 
+for the goods and/or services identified in the application or amendment to allege use. A 
+“verified substitute specimen” is a specimen that is accompanied by the following 
+statement made in a signed affidavit or supported by a declaration under 37 C.F.R. §2.20: 
+“The substitute (or new, or originally submitted, if appropriate) specimen(s) was/were inuse in commerce at least as early as the filing date of the application or prior to the filing of 
+the amendment to allege use.” The substitute specimen cannot be accepted without this 
+statement.
+ 
+(2)        Amend the filing basis to intent to use under Section 1(b) (which includes 
+withdrawing an amendment to allege use, if one was filed), as no specimen is required 
+before publication. This option will later necessitate additional fee(s) and filing 
+requirements, including a specimen.
+ 
+For an overview of the response options referenced above and instructions on how to satisfy these 
+options using the online Trademark Electronic Application System (TEAS) form, see the Specimen 
+webpage.
+ 
+IDENTIFICATION AND CLASSIFICATION OF SERVICES REQUIREMENT
+ 
+The identification of services is indefinite and must be clarified. See 37 C.F.R. §2.32(a)(6); TMEP 
+§1402.01. Applicant must amend the identification to specify the common commercial or generic name 
+of the services. See TMEP §1402.01. If the services have no common commercial or generic name, 
+applicant must describe or explain the nature of the services using clear and succinct language. See id.
+ 
+The wording in the identification is indefinite for the following reasons:
+ 
+The identification for software is indefinite and too broad and must be clarified because the wording 
+does not make clear the (1) nature or (2) format of the software and could identify goods and/or 
+services in two international classes – as a product in International Class 9 or a service in International 
+Class 42. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.03(d), 1402.11(a). Specifically, applicant must 
+indicate the purpose or function of the software, and if content- or field-specific, the content or field of 
+use of the software. TMEP §1402.03(d). Additionally, applicant must indicate whether the software’s 
+format is downloadable, recorded, or online non-downloadable. See id. Downloadable and recorded 
+goods are in International Class 9, whereas providing their temporary, online non-downloadable use is 
+a service in International Class 42. See TMEP §§1402.03(d), 1402.11(a)(xii).
+ 
+The USPTO requires such specificity in order for a trademark examining attorney to examine the 
+application properly and make appropriate decisions concerning possible conflicts between the 
+applicant’s mark and other marks. See In re N.A.D. Inc., 57 USPQ2d 1872, 1874 (TTAB 2000); TMEP 
+§1402.03(d).
+ 
+"Transportation services," is indefinite as it may include services in more than one international class. 
+ 
+Applicant may substitute the following wording, if accurate (changes in bold):
+ 
+Class 009: downloadable software for transportation logistics planning
+ 
+Class 035: Transportation logistics services, namely, arranging the transportation of goods for 
+others
+ 
+Class 039: transportation consulting services
+ 
+Class 042: online non-downloadable software for transportation logistics planningApplicant must amend the application to classify the goods and/or services in the International 
+Classes shown above. See 37 C.F.R. §§2.32(a)(7), 2.85; TMEP §§1401.02(a), 1401.03(b). 
+ 
+Applicant may amend the identification to clarify or limit the goods and/or services, but not to broaden 
+or expand the goods and/or services beyond those in the original application or as acceptably amended. 
+See 37 C.F.R. §2.71(a); TMEP §1402.06. Generally, any deleted goods and/or services may not later be 
+reinserted. See TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See 
+TMEP §1402.04.
+ 
+MULTIPLE CLASS APPLICATION REQUIREMENT 
+ 
+The application references goods and/or services based on use in commerce in more than one 
+international class; therefore, applicant must satisfy all the requirements below for each international 
+class:
+ 
+(1)        List the goods and/or services by their international class number in 
+consecutive numerical order, starting with the lowest numbered class (for example, 
+International Class 3: perfume; International Class 18: cosmetic bags sold empty).
+ 
+(2)        Submit a filing fee for each international class not covered by the fee(s) 
+already paid (view the USPTO’s current fee schedule). Specifically, the application 
+identifies goods and/or services based on use in commerce that are classified in at least 4 
+classes; however, applicant submitted a fee(s) sufficient for only 1 class(es). Applicant 
+must either (a) submit the filing fees for the classes not covered by the submitted fees or 
+(b) restrict the application to the number of classes covered by the fees already paid.
+ 
+(3)        Submit verified dates of first use of the mark anywhere and in commerce 
+for each international class. See more information about verified dates of use.
+ 
+(4)        Submit a specimen for each international class. The current specimen is 
+not acceptable for any international class. See more information about specimens.
+ 
+Examples of specimens.  Specimens for goods include a photograph of (1) the actual 
+goods bearing the mark; (2) an actual container, packaging, tag or label for the goods 
+bearing the mark; or (3) a point-of-sale display showing the mark directly associated with 
+the goods.  See 37 C.F.R. §2.56(b)(1), (c); TMEP §904.03(a)-(m).  A webpage specimen 
+submitted as a display associated with the goods must show the mark in association with a 
+picture or textual description of the goods and include information necessary for ordering 
+the goods.  TMEP §904.03(i); see 37 C.F.R. §2.56(b)(1), (c). 
+ 
+Specimens for services must show a direct association between the mark and the services 
+and include: (1) copies of advertising and marketing material, (2) a photograph of business 
+signage or billboards, or (3) materials showing the mark in the sale, rendering, or 
+advertising of the services.  See 37 C.F.R. §2.56(b)(2), (c); TMEP §1301.04(a), (h)(iv)(C).Any webpage printout or screenshot submitted as a specimen must include the webpage’s 
+URL and the date it was accessed or printed on the specimen itself, within the TEAS form 
+that submits the specimen, or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. 
+§1746 in a later-filed response. See 37 C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+(5)        Submit a verified statement that “The specimen was in use in commerce 
+on or in connection with the goods and/or services listed in the application at least as 
+early as the filing date of the application.” See more information about verification.
+ 
+See 37 C.F.R. §2.86(a); TMEP §§1403.01, 1403.02(c).
+ 
+For an overview of the requirements for a Section 1(a) multiple-class application and how to satisfy the 
+requirements online using the Trademark Electronic Application System (TEAS) form, see the 
+Multiple-class Application webpage.
+ 
+PRO SE RESPONSE GUIDELINES
+ 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+TELEPHONE OR EMAIL FOR CLARIFICATION 
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+APPLICANT MAY WISH TO SEEK TRADEMARK COUNSEL 
+ 
+Because of the legal technicalities and strict deadlines of the trademark application process, applicant is 
+encouraged to hire a private attorney who specializes in trademark matters to assist in this process. The 
+assigned trademark examining attorney can provide only limited assistance explaining the content of an 
+Office action and the application process. USPTO staff cannot provide legal advice or statements about 
+an applicant’s legal rights. TMEP §§705.02, 709.06. See Hiring a U.S.-licensed trademark attorney for 
+more information.
+ 
+How to respond.  Click to file a response to this nonfinal Office action./Kapil Bhanot/
+Kapil Bhanot
+Trademark Examining Attorney 
+Law Office 108
+(571) 270-1516
+kapil.bhanot@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•Print: Tue Aug 23 2022
+86492658
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+FLEET-SMART
+Translation
+Goods/Services
+IC 037. US 100 103 106.G & S: Rental of light duty vehicles, namely, light duty trucks, off road utility 
+vehicles or similar equipment for use in construction and related industrial and commercial applications. 
+FIRST USE: 20140825. FIRST USE IN COMMERCE: 20140915
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+86492658
+Filing Date
+20141230
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20151027
+Registration Number
+4884276
+Date Registered
+20160112
+Owner
+(REGISTRANT) Flex Fleet Rental, LLC LIMITED LIABILITY COMPANY UTAH 2855 E. Cottonwood 
+Parkway, Suite 100 Cottonwood Heights UTAH 84121
+Priority Date
+Disclaimer Statement
+Description of Mark
+Type of Mark
+SERVICE MARK
+RegisterPRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Randall B. BatemanPrint: Tue Aug 23 2022
+97435716
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+SMARTFLEET
+Translation
+Goods/Services
+IC 009. US 021 023 026 036 038.G & S: Downloadable computer software to control oil and gas 
+fracturing operations; downloadable computer software for real-time imaging of geological formations 
+during fracturing services; downloadable software for use in data visualization in the oil and gas industry; 
+fracturing control system comprised of sensors that take reservoir measurements and hardware and 
+software to interpret the measurements and provide pumping controls. FIRST USE: 20201015. FIRST 
+USE IN COMMERCE: 20201015
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+97435716
+Filing Date
+20220531
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+Registration Number
+Date Registered
+Owner
+(APPLICANT) Halliburton Energy Services, Inc. CORPORATION DELAWARE 3000 N. Sam Houston Pkwy 
+E. Houston TEXAS 77032
+Priority Date
+Disclaimer Statement
+Description of Mark
+Type of Mark
+TRADEMARK
+RegisterPRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Benjamin R. FordPrint: Tue Aug 23 2022
+86179106
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+SMARTFLEET
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Automated vehicle tracking and vehicle fleet management services, 
+namely, vehicle fleet tracking services utilizing GPS location tracking capabilities and communications 
+technologies to provide real time vehicle location information, including detailed maps, images and 
+addresses showing where vehicles are and have been. FIRST USE: 20080100. FIRST USE IN 
+COMMERCE: 20080100
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+86179106
+Filing Date
+20140129
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20150310
+Registration Number
+4741777
+Date Registered
+20150526
+Owner
+(REGISTRANT) SMART FLEET LLC LIMITED LIABILITY COMPANY NEW JERSEY 2517 Highway 35 
+Suite B304 Manasquan NEW JERSEY 08736
+Priority Date
+Disclaimer Statement
+Description of Mark
+Type of MarkSERVICE MARK
+Register
+PRINCIPAL-2(F)
+Live Dead Indicator
+LIVE
+Attorney of RecordPrint: Tue Aug 23 2022
+86842746
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+FLEET SMARTHUB
+Translation
+Goods/Services
+IC 009. US 021 023 026 036 038.G & S: Computer software for use in the field of fleet vehicle 
+management; computer software used to track, store, monitor, and transmit fleet vehicle data; computer 
+software used to remit payment of invoices. FIRST USE: 20171128. FIRST USE IN COMMERCE: 
+20171128
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+86842746
+Filing Date
+20151208
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20170509
+Registration Number
+5428868
+Date Registered
+20180320
+Owner
+(REGISTRANT) WEX Inc. CORPORATION DELAWARE 97 Darling Avenue South Portland MAINE 
+041062301
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "FLEET" APART FROM THE MARK AS 
+SHOWN
+Description of Mark
+Type of MarkTRADEMARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Matthew D. SteinUnited States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97120716
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: Kapil Bhanot
+Statistics for Case
+97120716
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97120716[sn]
+1
+0
+0
+0
+0:01
+2
+(*fle{"ea"}t* *phle{"ea"}t*)[bi,ti] not dead[ld]
+1160
+0
+0
+0
+0:01
+3
+*sm{v}rt*[bi,ti] not dead[ld]
+16084
+0
+0
+0
+0:02
+4
+2 and 3
+15
+0
+15
+15
+0:00
+5
+*fleet*[bi,ti] not dead[ld]
+1152
+0
+0
+0
+0:01
+6
+5 and ("009" "042" "039")[cc]
+958
+0
+0
+0
+0:03
+7
+5 and ("009" "042" "039" a b "200")[ic]
+505
+0
+505
+505
+0:02
+8
+*smart*[bi,ti] not dead[ld]
+16073
+0
+0
+0
+0:01
+9
+8 and ("009" "042" "039" a b "200")[ic]
+6364
+0
+0
+0
+0:01
+10 *smarts*[bi,ti] not dead[ld]
+943
+0
+440
+440
+0:02
+11 10 and ("009" "042" "039")[cc]
+706
+0
+0
+0
+0:00
+12 10 and ("009" "042" "039" a b "200")[ic]
+439
+0
+439
+439
+0:00
+13 *fl{v:2}t$sm{v}rt*[bi,ti] not dead[ld]
+3
+0
+3
+3
+0:00
+Session started 08/23/2022 6:08 am
+Session ended 08/23/2022 6:25 am
+Total search duration 14.00
+Session duration 16 minutes 52 seconds
+Adjacency Level 1
+Near Level 1

@@ -1,0 +1,554 @@
+To:
+Strategic Communications, Inc.(tmapplicationfilings@amerilawyer.com)
+Subject:
+U.S. Trademark Application Serial No. 97120255 - STRATEGIC.AI
+Sent:
+August 25, 2022 10:09:39 AM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+screencapture-www-marketingaiinstitute-com-blog-5-ways-your-ai-projects-fail-part-2-
+strategic-ai-failures-16614359710451
+screencapture-www-technossus-com-2021-03-how-to-identify-strategic-ai-use-cases-
+16614360453791
+screencapture-www-comparebusinessproducts-com-resources-item-6-strategic-ai-
+enhancements-for-your-crm-16614360736871
+screencapture-striatumtech-com-vidora-strategic-ai-16614360894711
+screencapture-www-worldscientific-com-doi-10-1142-9781800611337_0003-
+16614361159941
+screencapture-www-kungfu-ai-16614361369601
+screencapture-bernardmarr-com-how-to-develop-an-artificial-intelligence-strategy-9-things-
+every-business-must-include-16614361872771
+screencapture-grabb-ai-api-16614362710491
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97120255
+Mark:  STRATEGIC.AI
+Correspondence Address:  
+STRATEGIC COMMUNICATIONS, INC. 
+12232 BLACK WALNUT COURT 
+JACKSONVILLE FL 32226 UNITED STATES
+Applicant:  Strategic Communications, Inc.
+Reference/Docket No. N/A
+Correspondence Email Address:  tmapplicationfilings@amerilawyer.com
+ 
+ 
+NONFINAL OFFICE ACTIONThe USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 25, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney.  
+Applicant must respond timely and completely to the issues below.  15 U.S.C. §1062(b); 37 C.F.R. 
+§§2.62(a), 2.65(a); TMEP §§711, 718.03.
+ 
+SEARCH OF USPTO DATABASE OF MARKS
+ 
+The trademark examining attorney searched the USPTO database of registered and pending marks and 
+found no conflicting marks that would bar registration under Trademark Act Section 2(d).  15 U.S.C. 
+§1052(d); TMEP §704.02.
+ 
+SUMMARY OF ISSUES:
+Disclaimer Required
+•
+Amendments to the Identification Required
+•
+Amendments to the Description of the Mark Required 
+•
+Amendments to the Color Claim Required 
+•
+ 
+ 
+DISCLAIMER REQUIRED
+ 
+Applicant must disclaim the wording “STRATEGIC AI” because it is merely descriptive of a quality, 
+characteristic, function, feature, purpose, or use of applicant’s services.  See 15 U.S.C. §1052(e)(1); 
+DuoProSS Meditech Corp. v. Inviro Med. Devices, Ltd., 695 F.3d 1247, 1251, 103 USPQ2d 1753, 1755 
+(Fed. Cir. 2012); TMEP §§1213, 1213.03(a). 
+ 
+A “disclaimer” is a statement in the application record that an applicant does not claim exclusive rights 
+to an unregistrable component of the mark. See Schwarzkopf v. John H. Breck, Inc., 340 F.2d 978, 979-
+80, 144 USPQ 433, 433 (C.C.P.A. 1965); TMEP §1213. A disclaimer does not physically remove the 
+disclaimed matter from the mark or otherwise affect the appearance of the mark. See Schwarzkopf v. 
+John H. Breck, Inc., 340 F.2d at 979, 144 USPQ2d at 433; TMEP §1213.
+ 
+The services in the present application are for "cx automation and business continuity technical 
+advisors".  The attached evidence from technology providers demonstrates that "strategic AI" is a type 
+and method of providing automation and technology advice using artificial intelligence or 
+"AI".  See https://www.marketingaiinstitute.com/blog/5-ways-your-ai-projects-fail-part-2-strategic-ai-
+failures; https://www.technossus.com/2021/03/how-to-identify-strategic-ai-use-
+cases/; https://www.comparebusinessproducts.com/resources/item/6-strategic-ai-enhancements-for-
+your-crm; https://striatumtech.com/vidora-strategic-
+ai/; https://www.worldscientific.com/doi/10.1142/9781800611337_0003; https://www.kungfu.ai/; https://bernardmarr.com/how-
+to-develop-an-artificial-intelligence-strategy-9-things-every-business-must-
+include/; https://grabb.ai/api/.  Thus, the wording “STRATEGIC.AI” in the applied-for mark 
+immediately names and merely describes a quality, characteristic, function, feature, purpose, and use of 
+applicant’s services.The wording “STRATEGIC.AI” must appear in its correct spelling, i.e., “STRATEGIC AI” in the 
+disclaimer. See In re Omaha Nat’l Corp., 819 F.2d 1117, 1119, 2 USPQ2d 1859, 1861 (Fed. Cir. 1987); 
+In re Carlson, 91 USPQ2d 1198, 1203 (TTAB 2009); TMEP §1213.08(c).
+ 
+Applicant may respond to this issue by submitting a disclaimer in the following format: 
+ 
+No claim is made to the exclusive right to use “STRATEGIC AI” apart from the mark as 
+shown. 
+ 
+For an overview of disclaimers and instructions on how to provide one using the Trademark Electronic 
+Application System (TEAS), see the Disclaimer webpage. 
+ 
+ 
+AMENDMENTS TO THE IDENTIFICATION REQUIRED 
+ 
+The identification of services is indefinite and must be amended to specify the common commercial or 
+generic name of the services. See 37 C.F.R. §2.32(a)(6); TMEP §1402.01.If the services have no 
+common commercial or generic name, applicant must describe or explain the nature of the services 
+using clear and succinct language. See id.  First, the wording "cx automation" must be amended to state 
+the common commercial or generic name of these customer experience automation services.  Second, 
+the wording "business continuity technical advisors" must also be amended to indicate the common 
+commercial or generic name of the business continuity technical advisement services. 
+ 
+See the bold text below for acceptable options for amendments.  
+ 
+Applicant may amend the identification to clarify or limit the services, but not to broaden or expand the 
+services beyond those in the original application or as acceptably amended. See 37 C.F.R. §2.71(a); 
+TMEP §1402.06. Generally, any deleted services may not later be reinserted. See TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying services in trademark applications, please see the 
+USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See TMEP 
+§1402.04.
+ 
+Applicant may adopt the following wording, if accurate:   
+ 
+International Class 042:  Providing customer experience (CX) automation through 
+a data automation and collection service using proprietary software to evaluate, 
+analyze and collect service data; business continuity technical advisors for computer 
+disaster recovery planning, namely, providing technical advice relating to operation 
+of computers, electronic data back-up services, and recovery of computer data for 
+business continuity  
+ 
+ 
+AMENDMENTS TO THE DESCRIPTION OF THE MARK REQUIRED 
+ 
+Applicant must submit an amended description of the mark that agrees with the mark on the drawing. 
+37 C.F.R. §2.37; see TMEP §§808.01, 808.02. The current description is inconsistent with the mark on 
+the drawing and thus is inaccurate. 37 C.F.R. §2.37; see TMEP §§808.01, 808.02. Descriptions must beaccurate and identify only those literal and design elements appearing in the mark. See 37 C.F.R. §2.37; 
+TMEP §§808.02, 808.03(d).
+ 
+When an applicant submits a drawing showing the mark in color, applicant’s color claim and 
+description must reference all the colors in the mark, including black, white and/or gray. TMEP 
+§807.07(d); see 37 C.F.R. §§2.37, 2.52(b)(1). If portions of white are not a color feature of the mark, 
+applicant must provide a statement in the description that the additional white represents background, 
+outlining, shading and/or transparent areas and are not part of the mark. TMEP §807.07(d).
+ 
+The following description is suggested, if accurate:  
+ 
+The mark consists of a design of a blue and white globe depicting continents and 
+meridians and parallels, with blue shadowing under the globe and with three, white 
+curved lines outlined in blue, intersecting the globe, to the left of the stylized wording 
+"STRATEGIC.AI" in blue, with blue, white and gray outlining and shadowing.  The 
+other white is not claimed as a feature of the mark and represents background and 
+transparent areas. 
+ 
+ 
+AMENDMENTS TO THE COLOR CLAIM REQUIRED 
+ 
+In connection with the above description for a color drawing, a complete list of all the colors claimed as 
+a feature of the mark must be proveded.  As noted above, the applied-for mark drawing also appears to 
+contain the color gray.  Therefore, applicant must provide a corrected color claim that lists all the colors 
+in the mark drawing. See 37 C.F.R. §2.52(b)(1); TMEP §807.07(a)-(a)(i).  
+ 
+The following corrected color claim is suggested, if accurate: 
+ 
+The colors blue, white and gray are claimed as a feature of the mark. 
+ 
+TMEP §807.07(a)(i).
+ 
+ 
+RESPONSE GUIDELINES
+ 
+For this application to proceed, applicant must explicitly address each refusal and/or requirement in this 
+Office action. For a refusal, applicant may provide written arguments and evidence against the refusal, 
+and may have other response options if specified above. For a requirement, applicant should set forth 
+the changes or statements. Please see “Responding to Office Actions” and the informational video 
+“Response to Office Action” for more information and tips on responding.
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action.  
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action.  See TMEP 
+§§705.02, 709.06. 
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record.  See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.Applicant May Seek Legal Counsel
+ 
+Because of the legal technicalities and strict deadlines of the trademark application process, applicant is 
+encouraged to hire a private attorney who specializes in trademark matters to assist in this process. The 
+assigned trademark examining attorney can provide only limited assistance explaining the content of an 
+Office action and the application process. USPTO staff cannot provide legal advice or statements about 
+an applicant’s legal rights. TMEP §§705.02, 709.06. See Hiring a U.S.-licensed trademark attorney for 
+more information.
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Rebecca T. Caysido/
+Trademark Examining Attorney 
+Law Office 123
+(571) 270-0926
+rebecca.caysido@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 25, 2022 for  
+U.S. Trademark Application Serial No.  97120255
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: Rebecca Caysido
+Statistics for Case
+97120255
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97120255[sn]
+1
+0
+1
+1
+0:00
+2
+*STRATEGIC.AI*[bi,ti]
+1
+0
+1
+1
+0:00
+3
+"STRATEGIC AI"[bi,ti]
+2
+1
+1
+1
+P/0:01
+4
+*STRATEGIC*[bi,ti]
+2917
+0
+0
+0
+0:03
+5
+*strategic*[bi,ti] and live[ld]
+889
+0
+0
+0
+0:01
+6
+("A I" *AI* "AI" "artificial intelligence")[bi,ti] 
+not dead[ld]
+145324
+0
+0
+0
+P/0:05
+7
+5 and 6
+22
+0
+22
+22
+0:01
+8
+*{"scz"}{"t":3}{"r":3}{v0:4}{"t":3}{v0:4}{"g
+j"}*[bi,ti] and live[ld]
+2735
+0
+0
+0
+0:16
+9
+("A I" *AI* "AI" "artificial intelligence" *n{"
+t":3}{v0:2}l* *r{"t":3}{v0:2}{"fp":3}{"h"0:
+3}{v0:4}{"scz"}*)[bi,ti] not dead[ld]
+171427
+0
+0
+0
+0:06
+10 8 and 9
+112
+0
+112
+112
+0:16
+11 8 and "042"[cc]
+2500
+0
+0
+0
+0:13
+12 8 and ("037" "035" "042" A B "200")[ic]
+1428
+0
+0
+0
+0:15
+13 8 and ("037")[ic]
+40
+0
+40
+40
+2:04
+14 8 and ("035")[ic]
+1187
+0
+0
+0
+0:48
+15 8 and ("042")[ic]
+363
+0
+363
+363
+0:34
+16 8 and (A B "200")[ic]
+2
+0
+2
+2
+0:14
+17 *{"scz"}{"t":3}{"r":3}{v0:4}{"t":3}{v0:4}{"g
+j":4}{v0:4}{"ckxq"}*[bi,ti] and live[ld]
+907
+0
+0
+0
+0:13
+18 *{"scz"}{"t":3}{"r":3}{v0:4}{"t":3}{v0:4}{"g
+j":4}{v0:4}{"ckxq"}*[bi,ti] and live[ld]
+907
+0
+0
+0
+0:14
+19 18 and "042"[cc]
+838
+0
+0
+0
+0:13
+20 18 and ("037" "035" "042" A B "200")[ic]
+487
+0
+0
+0
+0:14
+21 18 and ("037")[ic]
+26
+0
+26
+26
+0:13
+22 18 and ("035")[ic]
+392
+0
+392
+392
+0:50
+23 18 and ("042")[ic]
+128
+0
+128
+128
+0:35
+24 18 and (A B "200")[ic]
+0
+0
+0
+0
+0:17
+25 5 and "042"[cc]
+827
+0
+0
+0
+0:00
+26 5 and "042"[cc]
+827
+0
+0
+0
+0:21
+27 5 and ("037" "035" "042" A B "200")[ic]
+480
+0
+0
+0
+0:00
+28 5 and ("037" A B "200")[ic]
+26
+0
+26
+26
+0:00
+29 5 and ("035")[ic]
+385
+0
+385
+385
+0:00
+30 5 and ("042")[ic]
+127
+0
+127
+127
+0:00Statistics for Case
+97120255
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+31 010701[dc] and live[ld]
+6290
+0
+0
+0
+0:02
+32 261709[dc] and live[ld]
+70974
+0
+0
+0
+0:01
+33 31 and 32
+466
+0
+2
+466
+0:03
+34 31 and "042"[cc]
+4025
+0
+0
+0
+0:01
+35 31 and ("037" "035" "042" A B "200")[ic]
+2015
+0
+0
+0
+0:02
+36 31 and ("037" A B "200")[ic]
+332
+0
+1
+332
+0:03
+37 31 and ("035")[ic]
+1329
+0
+0
+0
+0:01
+38 31 and ("042")[ic]
+699
+0
+2
+699
+0:01
+39 37 not (36 38)
+1099
+0
+0
+0
+0:01
+40 "Strategic Communications"[ow]
+63
+5
+14
+14
+P/0:02
+41 17 and 9
+37
+0
+37
+37
+0:15
+Session started 08/25/2022 8:31 am
+Session ended 08/25/2022 9:07 am
+Total search duration 519.00
+Session duration 35 minutes 46 seconds
+Adjacency Level 1
+Near Level 1Note To The File
+STRATEGIC.AI
+Searched
+Google
+•
+ 
+Serial Number: 97120255  
+Date: 08/25/2022 8:31 am  
+Created by: Rebecca Caysido

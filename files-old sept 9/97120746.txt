@@ -1,0 +1,307 @@
+To:
+Functionize, Inc(gary@functionize.com)
+Subject:
+U.S. Trademark Application Serial No. 97120746 - TEST DEBT
+Sent:
+August 23, 2022 06:55:30 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+screencapture-testuff-com-software-testing-debt-crisis-16612937428971
+screencapture-qeunit-com-blog-test-debt-fundamentals-what-why-warning-signs-
+16612937786981
+screencapture-www-kiwiqa-com-understanding-technical-debt-in-software-testing-
+16612945633781
+screencapture-www-functionize-com-blog-test-debt-explained-why-your-team-has-no-spare-
+test-capacity-16612952030201
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97120746
+Mark:  TEST DEBT
+Correspondence Address:  
+FUNCTIONIZE, INC 
+1255 TREAT BLVD SUITE 300 
+WALNUT CREEK CA 94597 UNITED STATES
+Applicant:  Functionize, Inc
+Reference/Docket No. N/A
+Correspondence Email Address:  gary@functionize.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.Issue date:  August 23, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney.  
+Applicant must respond timely and completely to the issues below.  15 U.S.C. §1062(b); 37 C.F.R. 
+§§2.62(a), 2.65(a); TMEP §§711, 718.03.
+ 
+SEARCH OF USPTO DATABASE OF MARKS
+ 
+The trademark examining attorney searched the USPTO database of registered and pending marks and 
+found no conflicting marks that would bar registration under Trademark Act Section 2(d).  15 U.S.C. 
+§1052(d); TMEP §704.02.
+ 
+However, applicant must respond to the issues set forth below.
+ 
+SUMMARY OF ISSUES:
+ 
+Section 2(e)(1) Refusal - Merely Descriptive 
+•
+Identification of Services - Partially Indefinite
+•
+ 
+SECTION 2(e)(1) REFUSAL - MERELY DESCRIPTIVE 
+ 
+Registration 
+is 
+refused 
+because 
+the 
+applied-for 
+mark 
+merely 
+describes 
+a purpose 
+of 
+applicant’s services.  Trademark Act Section 2(e)(1), 15 U.S.C. §1052(e)(1); see TMEP §§1209.01(b), 
+1209.03 et seq.
+ 
+A mark is merely descriptive if it describes an ingredient, quality, characteristic, function, feature, 
+purpose, or use of an applicant’s goods and/or services.  TMEP §1209.01(b); see, e.g., In re TriVita, 
+Inc., 783 F.3d 872, 874, 114 USPQ2d 1574, 1575 (Fed. Cir. 2015) (quoting In re Oppedahl & Larson 
+LLP, 373 F.3d 1171, 1173, 71 USPQ2d 1370, 1371 (Fed. Cir. 2004)); In re Steelbuilding.com, 415 F.3d 
+1293, 1297, 75 USPQ2d 1420, 1421 (Fed. Cir. 2005) (citing Estate of P.D. Beckwith, Inc. v. Comm’r of 
+Patents, 252 U.S. 538, 543 (1920)). 
+ 
+In the present case, applicant has applied to register the mark “TEST DEBT” for use in connection with 
+“AI-powered software as a service (SAAS) testing platform.”
+ 
+According to the attached evidence, the wording “test debt” (or technical debt) commonly refers to, 
+generally, the needs of software test automation surpassing the time or capacity available to meet those 
+needs.” See attached evidence.  Applicant's website states, "Functionize has been an AI company from 
+day one. Our approach has been to apply machine learning and other AI approaches to solve the 
+problems with test debt." (Emphasis added) See attached evidence.
+ 
+Therefore, the mark TEST DEBT, merely describes the purpose of applicant’s services, namely, to 
+improve test automation by reducing testing maintenance and increasing overall test coverage.  
+Accordingly, the proposed mark is merely descriptive, and registration is refused on the Principal 
+Register under Section 2(e)(1) of the Lanham Act.
+ 
+Although applicant’s mark has been refused registration, applicant may respond to the refusal by 
+submitting evidence and arguments in support of registration.SUPPLEMENTAL REGISTER - ADVISORY  
+ 
+The applied-for mark has been refused registration on the Principal Register. Applicant may respond to 
+the refusal by submitting evidence and arguments in support of registration and/or by amending the 
+application to seek registration on the Supplemental Register. See 15 U.S.C. §1091; 37 C.F.R. §§2.47, 
+2.75(a); TMEP §§801.02(b), 816. Amending to the Supplemental Register does not preclude applicant 
+from submitting evidence and arguments against the refusal(s). TMEP §816.04.  
+ 
+IDENTIFICATION OF  SERVICES 
+ 
+The identification for software in International Class 42 is indefinite and must be clarified to specify the 
+purpose or function of the software and its content or field of use, if content- or field- specific. See 37 
+C.F.R. §2.32(a)(6); TMEP §§1402.03(d), 1402.11(a). The USPTO requires such specificity in order for 
+a trademark examining attorney to examine the application properly and make appropriate decisions 
+concerning possible conflicts between the applicant’s mark and other marks. See In re N.A.D. Inc., 57 
+USPQ2d 1872, 1874 (TTAB 2000); TMEP §1402.03(d).
+ 
+Applicant may adopt the following identification, if accurate (please note that suggested amendments 
+are in bold italics and suggested deletions are in strikethrough):
+ 
+International Class 42
+ 
+"AI-powered software as a service (SAAS) testing platform featuring software for __{indicate 
+function of software, e.g., database management, etc.}."
+ 
+Applicant’s services may be clarified or limited, but may not be expanded beyond those originally 
+itemized in the application or as acceptably amended.  See 37 C.F.R. §2.71(a); TMEP §1402.06.  
+Applicant may clarify or limit the identification by inserting qualifying language or deleting items to 
+result in a more specific identification; however, applicant may not substitute different goods and/or 
+services or add goods and/or services not found or encompassed by those in the original application or 
+as acceptably amended.  See TMEP §1402.06(a)-(b).  The scope of the goods and/or services sets the 
+outer limit for any changes to the identification and is generally determined by the ordinary meaning of 
+the wording in the identification.  TMEP §§1402.06(b), 1402.07(a)-(b).  Any acceptable changes to the 
+goods and/or services will further limit scope, and once goods and/or services are deleted, they are not 
+permitted to be reinserted.  TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual.  See 
+TMEP §1402.04.
+ 
+RESPONSE GUIDELINES
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ASSISTANCE
+ 
+Because of the legal technicalities and strict deadlines of the trademark application process, applicant is 
+encouraged to hire a private attorney who specializes in trademark matters to assist in this process.  The 
+assigned trademark examining attorney can provide only limited assistance explaining the content of anOffice action and the application process.  USPTO staff cannot provide legal advice or statements about 
+an applicant’s legal rights.  TMEP §§705.02, 709.06.  See Hiring a U.S.-licensed trademark attorney for 
+more information. 
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action.  
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action.  See TMEP 
+§§705.02, 709.06.  The USPTO does not accept emails as responses to Office actions; however, emails 
+can be used for informal communications and are included in the application record.  See 37 C.F.R. 
+§§2.62(c), 2.191; TMEP §§304.01-.02, 709.04-.05. 
+ 
+ 
+ 
+/Kimberly Parks/
+Kimberly Parks
+(571) 272-6129
+kimberly.parks@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97120746
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•Note To The File
+TEST DEBT
+Searched
+Google
+•
+OneLook
+•
+applicant's website
+•
+ 
+Serial Number: 97120746  
+Date: 08/23/2022 6:54 pm  
+Created by: Kimberly ParksUser: Kimberly Parks
+Statistics for Case
+97120746
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97120746[sn]
+1
+0
+0
+0
+0:00
+2
+*te{"sz"}t*[bi,ti]not dead[ld]
+4647
+0
+0
+0
+0:01
+3
+*debt*[bi,ti]not dead[ld]
+336
+0
+0
+0
+0:02
+4
+2 and 3
+1
+0
+1
+1
+0:00
+5
+3 and ("042")[cc]
+291
+0
+0
+0
+0:00
+6
+3 and (a b "042" "200")[ic]
+36
+0
+36
+36
+0:00
+7
+3 and (a b "009" "200")[ic] not 6
+30
+0
+30
+30
+0:01
+8
+2 and (a b "009" "200")[ic] not 6
+930
+0
+0
+0
+0:02
+9
+2 and (a b "042" "200")[ic] not 6
+942
+0
+0
+0
+0:01
+Session started 08/23/2022 5:49 pm
+Session ended 08/23/2022 6:52 pm
+Total search duration 7.00
+Session duration 1 hours 3 minutes 5 seconds
+Adjacency Level 1
+Near Level 1
