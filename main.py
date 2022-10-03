@@ -8,7 +8,7 @@ from pathlib import Path
 cnt=0
 zerosize =0
 toggle=1
-#1235
+#12356
 exetime=0
 starttime =0
 with open('xml apps.dat', encoding='latin-1') as f:  #in
@@ -20,11 +20,11 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
 
         #time.sleep(5.1) #5.1 #15.1 5/3 = 1.7 and 15/3 = 5.1 time.sleep(1.7-exetime)
         #print ("exe time:",exetime)
-        if exetime > 1.7:
-            exetime = 1.7
+        if exetime > 5.1:
+            exetime = 5.1
         #print("real:", exetime)
         #print ("waiting for",5.1-exetime)
-        time.sleep(1.7-exetime)
+        time.sleep(5.7-exetime)
 
         starttime = time.time()
 
