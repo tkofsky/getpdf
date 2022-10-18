@@ -12,7 +12,7 @@ toggle=1
 exetime=0
 starttime =0
 with open('xml apps.dat', encoding='latin-1') as f:  #in
-#wqwsdrsrerewr8778
+#
 
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
@@ -24,7 +24,7 @@ with open('xml apps.dat', encoding='latin-1') as f:  #in
             exetime = 5.1
         #print("real:", exetime)
         #print ("waiting for",5.1-exetime)
-        time.sleep(5.7-exetime)
+        time.sleep(5.1-exetime)
 
         starttime = time.time()
 
