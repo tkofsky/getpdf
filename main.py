@@ -14,7 +14,7 @@ exetime=0
 starttime =0
 with open('xml apps.dat', encoding='latin-1') as f:  #in
 #
-#
+#WE WEQWQEWEQWE
 
     sreader=csv.reader(f, delimiter=' ', quotechar='"')
     for row in sreader:
