@@ -1,0 +1,831 @@
+To:
+Gordon E Gray III(geg@grayiplaw.com)
+Subject:
+U.S. Trademark Application Serial No. 97118941 - GIFTCOIN - GIFTCHAT 3
+Sent:
+August 22, 2022 09:46:54 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+5011040
+screencapture-bitcoinke-io-2022-04-top-10-platforms-for-crowdfunding-in-crypto-
+16611869802191
+screencapture-www-comparethecloud-net-articles-how-blockchain-is-revolutionising-the-
+crowdfunding-landscape-16611870395601
+screencapture-opengeekslab-com-blog-blockchain-technology-in-crowdfunding-
+16611871264151
+screencapture-pixelplex-io-work-ethereum-based-platform-for-crowdfunding-and-icos-
+16611925131251
+screencapture-www-vent-finance-16611927992461
+screencapture-rarefnd-com-16611931059611
+6069448
+5938891
+6267276
+5632718
+5835629
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118941
+Mark:  GIFTCOIN
+Correspondence Address:  
+GORDON E GRAY III 
+GRAY LAW FIRM 
+4401 N. ATLANTIC AVE. 
+2ND FLOOR 
+LONG BEACH CA 90807 UNITED STATES
+Applicant:  GIFTCHAT, INC.
+Reference/Docket No. GIFTCHAT 3
+Correspondence Email Address:  geg@grayiplaw.comNONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 22, 2022
+ 
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issues below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a), 
+2.65(a); TMEP §§711, 718.03.
+ 
+Summary of Issues 
+ 
+Section 2(d) Refusal - Likelihood of Confusion
+•
+Identification of Goods and Services 
+•
+Request for Information
+•
+ 
+Section 2(d) Refusal - Likelihood of Confusion 
+ 
+Registration of the applied-for mark is refused because of a likelihood of confusion with the mark in 
+U.S. Registration No. 5011040 (GIFTED COIN). Trademark Act Section 2(d), 15 U.S.C. §1052(d); see 
+TMEP §§1207.01 et seq. See the attached registration.  
+ 
+Trademark Act Section 2(d) bars registration of an applied-for mark that is so similar to a registered 
+mark that it is likely consumers would be confused, mistaken, or deceived as to the commercial source 
+of the goods and/or services of the parties. See 15 U.S.C. §1052(d). Likelihood of confusion is 
+determined on a case-by-case basis by applying the factors set forth in In re E. I. du Pont de Nemours 
+& Co., 476 F.2d 1357, 1361, 177 USPQ 563, 567 (C.C.P.A. 1973) (called the “du Pont factors”). In re 
+i.am.symbolic, llc, 866 F.3d 1315, 1322, 123 USPQ2d 1744, 1747 (Fed. Cir. 2017). Any evidence of 
+record related to those factors need be considered; however, “not all of the DuPont factors are relevant 
+or of similar weight in every case.” In re Guild Mortg. Co., 912 F.3d 1376, 1379, 129 USPQ2d 1160, 
+1162 (Fed. Cir. 2019) (quoting In re Dixie Rests., Inc., 105 F.3d 1405, 1406, 41 USPQ2d 1531, 1533 
+(Fed. Cir. 1997)).
+ 
+Although not all du Pont factors may be relevant, there are generally two key considerations in any 
+likelihood of confusion analysis: (1) the similarities between the compared marks and (2) the 
+relatedness of the compared goods and/or services. See In re i.am.symbolic, llc, 866 F.3d at 1322, 123 
+USPQ2d at 1747 (quoting Herbko Int’l, Inc. v. Kappa Books, Inc., 308 F.3d 1156, 1164-65, 64 
+USPQ2d 1375, 1380 (Fed. Cir. 2002)); Federated Foods, Inc. v. Fort Howard Paper Co., 544 F.2d 
+1098, 1103, 192 USPQ 24, 29 (C.C.P.A. 1976) (“The fundamental inquiry mandated by [Section] 2(d) 
+goes to the cumulative effect of differences in the essential characteristics of the goods [or services] and 
+differences in the marks.”); TMEP §1207.01.
+ 
+Applicant has applied for the mark GIFTCOIN in standard characters for:"Downloadable computer application software for blockchain-based platforms, namely, software 
+for distributed applications and software using a consensus engine incorporating blockchain 
+technology for securing data with cryptographic information; downloadable computer software 
+platforms for developing and building of distributed software applications and distributed 
+computing platforms; downloadable computer software platforms for blockchains" in 
+International Class 9; and
+•
+"Cryptocurrency exchange services featuring blockchain technology" in International Class 36. 
+•
+ 
+Registrant's mark is GIFTED COIN in standard characters for "Crowdfunding services in the nature of 
+accepting and administering monetary contributions from a group of individuals" in International Class 
+36. 
+ 
+Comparison of the Marks 
+ 
+Applicant’s mark and the cited U.S. Registration No. 5011040 (GIFTED COIN) are likely to be 
+confused due to their similarity. 
+ 
+Marks are compared in their entireties for similarities in appearance, sound, connotation, and 
+commercial impression. Stone Lion Capital Partners, LP v. Lion Capital LLP, 746 F.3d 1317, 1321, 
+110 USPQ2d 1157, 1160 (Fed. Cir. 2014) (quoting Palm Bay Imps., Inc. v. Veuve Clicquot Ponsardin 
+Maison Fondee En 1772, 396 F.3d 1369, 1371, 73 USPQ2d 1689, 1691 (Fed. Cir. 2005)); TMEP 
+§1207.01(b)-(b)(v). “Similarity in any one of these elements may be sufficient to find the marks 
+confusingly similar.” In re Inn at St. John’s, LLC, 126 USPQ2d 1742, 1746 (TTAB 2018) (citing In re 
+Davia, 110 USPQ2d 1810, 1812 (TTAB 2014)), aff’d per curiam, 777 F. App’x 516, 2019 BL 343921 
+(Fed. Cir. 2019); TMEP §1207.01(b).
+ 
+In the present case, there is a likelihood of confusion because of the shared and similar wording in the 
+marks.  Marks may be confusingly similar in appearance where similar terms or phrases or similar parts 
+of terms or phrases appear in the compared marks and create a similar overall commercial impression. 
+See Crocker Nat’l Bank v. Canadian Imperial Bank of Commerce, 228 USPQ 689, 690-91 (TTAB 
+1986), aff’d sub nom. Canadian Imperial Bank of Commerce v. Wells Fargo Bank, Nat’l Ass’n, 811 
+F.2d 1490, 1495, 1 USPQ2d 1813, 1817 (Fed. Cir. 1987) (holding COMMCASH and 
+COMMUNICASH confusingly similar); In re Corning Glass Works, 229 USPQ 65, 66 (TTAB 1985) 
+(holding CONFIRM and CONFIRMCELLS confusingly similar); In re Pellerin Milnor Corp., 221 
+USPQ 558, 560 (TTAB 1983) (holding MILTRON and MILLTRONICS confusingly similar); TMEP 
+§1207.01(b)(ii)-(iii).  Here, the marks begin with the similar wording "GIFT" or "GIFTED", followed 
+by the wording "COIN".  This shared and similar wording creates a similar look and sound, as well as a 
+similar commercial impression centered on the concept of a coin presented as a gift to others. 
+ 
+Therefore, as the marks look and sound similar and create a similar commercial impression, they are 
+confusingly similar. 
+ 
+Comparison of the Goods and Services 
+ 
+The compared goods and/or services need not be identical or even competitive to find a likelihood of 
+confusion. See On-line Careline Inc. v. Am. Online Inc., 229 F.3d 1080, 1086, 56 USPQ2d 1471, 1475 
+(Fed. Cir. 2000); Recot, Inc. v. Becton, 214 F.3d 1322, 1329, 54 USPQ2d 1894, 1898 (Fed. Cir. 2000); 
+TMEP §1207.01(a)(i). They need only be “related in some manner and/or if the circumstances 
+surrounding their marketing are such that they could give rise to the mistaken belief that [the goodsand/or services] emanate from the same source.” Coach Servs., Inc. v. Triumph Learning LLC, 668 
+F.3d 1356, 1369, 101 USPQ2d 1713, 1722 (Fed. Cir. 2012) (quoting 7-Eleven Inc. v. Wechsler, 83 
+USPQ2d 1715, 1724 (TTAB 2007)); TMEP §1207.01(a)(i).
+ 
+As 
+shown 
+from 
+the 
+attached 
+websites 
+from bitcoinke.io, comparethecloud.net, opengeekslab.com, pixelplex.io, vent.finance, 
+and rarefnd.com, it is quite common for the same parties to provide software/software platforms using 
+blockchain technology, cryptocurrency services, and crowdfunding services under the same mark.  This 
+evidence establishes that the same entity commonly provides the relevant goods and/or services and 
+markets the goods and/or services under the same mark, that the relevant goods and/or services are sold 
+or provided through the same trade channels and used by the same classes of consumers in the same 
+fields of use, and that the goods and/or services are similar or complementary in terms of purpose or 
+function (as blockchain software platforms and services are commonly used to provide crowdfunding 
+services). Thus, applicant’s and registrant’s goods and/or services are considered related for likelihood 
+of confusion purposes. See, e.g., In re Davey Prods. Pty Ltd., 92 USPQ2d 1198, 1202-04 (TTAB 
+2009); In re Toshiba Med. Sys. Corp., 91 USPQ2d 1266, 1268-69, 1271-72 (TTAB 2009).
+ 
+Also, the trademark examining attorney has attached evidence from the USPTO’s X-Search database 
+consisting of a number of third-party marks registered for use in connection with the same or similar 
+goods and/or services as those of both applicant and registrant in this case. This evidence shows that the 
+goods and/or services listed therein, namely software for developing software applications, 
+cryptocurrency services, and crowdfunding services, are of a kind that may emanate from a single 
+source under a single mark. See In re I-Coat Co., 126 USPQ2d 1730, 1737 (TTAB 2018) (citing In re 
+Infinity Broad. Corp., 60 USPQ2d 1214, 1217-18 (TTAB 2001); In re Albert Trostel & Sons Co., 29 
+USPQ2d 1783, 1785-86 (TTAB 1993); In re Mucky Duck Mustard Co., 6 USPQ2d 1467, 1470 n.6 
+(TTAB 1988)); TMEP §1207.01(d)(iii).  
+ 
+Therefore, the goods and services are related.
+ 
+Because the marks are similar and the goods and services are related, there is a likelihood of confusion 
+and applicant’s mark is not entitled to registration. 
+ 
+Although applicant’s mark has been refused registration, applicant may respond to the refusal by 
+submitting evidence and arguments in support of registration. However, if applicant responds to the 
+refusal, applicant must also respond to the requirements set forth below.
+ 
+Identification of Goods and Services
+ 
+The identification of goods and services is indefinite and must be clarified for the following reasons: 
+ 
+The Class 9 wording "downloadable computer software platforms for blockchains" is unclear as 
+to the nature of the goods and must specify the function of the software in relation to 
+"blockchains" (such as managing cryptocurrency transactions using blockchain technology, see 
+suggestion below).
+•
+ 
+See 37 C.F.R. §2.32(a)(6); TMEP §1402.01.
+ 
+Applicant may adopt the following identification, if accurate (changes in bold):International Class 9: Downloadable computer application software for blockchain-based 
+platforms, namely, software for distributed applications and software using a consensus engine 
+incorporating blockchain technology for securing data with cryptographic information; 
+downloadable computer software platforms for developing and building of distributed software 
+applications and distributed computing platforms; downloadable computer software platforms for 
+{specify the function of the software in relation to blockchains, e.g., managing 
+cryptocurrency transactions using blockchain technology, etc.}
+ 
+International Class 36: Cryptocurrency exchange services featuring blockchain technology 
+ 
+Applicant’s goods and/or services may be clarified or limited, but may not be expanded beyond those 
+originally itemized in the application or as acceptably amended. See 37 C.F.R. §2.71(a); TMEP 
+§1402.06. Applicant may clarify or limit the identification by inserting qualifying language or deleting 
+items to result in a more specific identification; however, applicant may not substitute different goods 
+and/or services or add goods and/or services not found or encompassed by those in the original 
+application or as acceptably amended. See TMEP §1402.06(a)-(b). The scope of the goods and/or 
+services sets the outer limit for any changes to the identification and is generally determined by the 
+ordinary meaning of the wording in the identification. TMEP §§1402.06(b), 1402.07(a)-(b). Any 
+acceptable changes to the goods and/or services will further limit scope, and once goods and/or services 
+are deleted, they are not permitted to be reinserted. TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See 
+TMEP §1402.04.
+ 
+Request for Information
+ 
+To permit proper examination of the application, applicant must submit additional information about 
+applicant’s goods and services. See 37 C.F.R. §2.61(b); TMEP §§814, 1402.01(e). Specifically, 
+applicant must submit answers to the following questions:
+ 
+Is applicant's software used to trade, manage, or transfer cryptocurrency coins or tokens?
+•
+Is applicant's software used to trade, mange, exchange, or otherwise provide gifts, including but 
+not limited to gifts in the form of cryptocurrency coins or tokens?
+•
+Is applicant's software used to solicit, collect, or enable donations or charitable gifts, or to 
+provide a platform for charitable gift giving? 
+•
+Is applicant's software used to develop or build platforms for donations or charitable gift giving, 
+or to develop or build platforms for trading, managing, or transferring cryptocurrency coins or 
+tokens?
+•
+Are applicant's cryptocurrency exchange services used to trade, manage, transfer, or 
+exchange cryptocurrency coins or tokens? 
+•
+Are applicant's cryptocurrency exchange services used to exchange gifts, including but not 
+limited to gifts in the form of cryptocurrency coins or tokens?
+•
+Are applicant's cryptocurrency exchange services related to donations or charitable gift giving via 
+cryptocurrency or blockchain technology?
+•
+ 
+Factual information about the goods must clearly indicate how they operate, their salient features, and 
+their prospective customers and channels of trade. Factual information about the services must clearly 
+indicate what the services are and how they are rendered, their salient features, and their prospectivecustomers and channels of trade. Conclusory statements will not satisfy this requirement for 
+information.
+ 
+If applicant submits webpage evidence to satisfy this requirement, applicant must provide (1) an image 
+of the webpage, (2) the date it was accessed or printed, and (3) the complete URL address. In re ADCO 
+Indus.-Techs., L.P., 2020 USPQ2d 53786, at *2 (TTAB 2020) (citing In re I-Coat Co., 126 USPQ2d 
+1730, 1733 (TTAB 2018)); TMEP §710.01(b). Providing only a website address or hyperlink to the 
+webpage is not sufficient to make the materials of record. In re ADCO Indus.-Techs., L.P., 2020 
+USPQ2d 53786, at *2 (citing In re Olin Corp., 124 USPQ2d 1327, 1331 n.15 (TTAB 2017); In re HSB 
+Solomon Assocs., LLC, 102 USPQ2d 1269, 1274 (TTAB 2012); TBMP §1208.03); TMEP §814.
+ 
+Applicant has a duty to respond directly and completely to this requirement for information. See In re 
+Ocean Tech., Inc., 2019 USPQ2d 450686, at *2 (TTAB 2019) (citing In re AOP LLC, 107 USPQ2d 
+1644, 1651 (TTAB 2013)); TMEP §814. Failure to comply with a requirement for information is an 
+independent ground for refusing registration. In re SICPA Holding SA, 2021 USPQ2d 613, at *6 
+(TTAB 2021) (citing In re Cheezwhse.com, Inc., 85 USPQ2d 1917, 1919 (TTAB 2008); In re DTI 
+P’ship LLP, 67 USPQ2d 1699, 1701-02 (TTAB 2003); TMEP §814).
+ 
+Response Guidelines
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Jessica Hilliard/
+Jessica Hilliard
+(571) 272-4031
+jessica.hilliard@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•Print: Mon Aug 22 2022
+86682763
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+GIFTED COIN
+Translation
+Goods/Services
+IC 036. US 100 101 102.G & S: Crowdfunding services in the nature of accepting and administering 
+monetary contributions from a group of individuals. FIRST USE: 20150617. FIRST USE IN 
+COMMERCE: 20150617
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+86682763
+Filing Date
+20150703
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20160517
+Registration Number
+5011040
+Date Registered
+20160802
+Owner
+(REGISTRANT) Gifted Coin, Inc. CORPORATION FLORIDA 8805 Tamiami Trail North, #243 Naples 
+FLORIDA 34108
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "COIN" APART FROM THE MARK AS 
+SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+RegisterPRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of RecordPrint: Mon Aug 22 2022
+88699605
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Mark Punctuated
+F FANBASE
+Translation
+Goods/Services
+IC 036. US 100 101 102.G & S: Crowdfunding services in the nature of providing financing from money 
+collected from individuals; Cryptocurrency exchange services; Cryptocurrency exchange services 
+featuring blockchain; Cryptocurrency payment processing; Cryptocurrency trading services; Trading of 
+securities index futures; Advising others concerning investments in intellectual property assets and 
+intangible business assets, both directly and indirectly through other entities; Agencies for brokerage of 
+securities trading in overseas securities markets and of transactions on commission of overseas market 
+securities futures; Agencies or brokerage for trading of securities, securities index futures, securities 
+options, and overseas market securities futures; Broker-dealer financial services in the field of digital 
+assets and intellectual property such as music, film, tv shows, web series, characters, animations, 
+literature, books, journalism, comics, video games, magazines, magazine articles, ezines, still images, 
+music videos, virtual reality, augmented reality and digital media; Brokerage in the field of 
+cryptocurrency, crowdfunding, digital collectibles, fractionalized ownership, securities, royalty-tracking, 
+royalty-sharing, technology, dividends and digital assets; Brokerage of shares or stocks and other 
+securities; Brokerage services for stocks and bonds; Collecting license fees on behalf of independent 
+writers and publishers and making payments to the copyright owners of the music; Computer analyses of 
+stock exchange information; Corporate finance services, namely, consultation in the field of asset sales; 
+Currency exchange and advice; Currency exchange services; Currency trading; Electronic financial 
+trading services; Electronic foreign exchange payment processing; Financial asset management; Financial 
+exchange; Financial and investment services, namely, asset and investment acquisition, consultation, 
+advisory and development; Financial brokerage services for cryptocurrency trading; Financial calculation 
+services for others, namely, royalty calculation; Financial consultation in the field of cryptocurrency; 
+Financial custody services, namely, maintaining possession of financial assets for others for financial 
+management purposes; Financial information in the nature of rates of exchange; Financial information 
+provided by electronic means in the field of digital collectibles, intellectual property, digital assets, digital 
+media assets, tokenized assets, patents, trademarks and copyrights; Financial securities exchange services; 
+Financial services, namely, administration of transactions involving funds drawn from securities, stocks, 
+funds, equities, bonds, cash, or other types of financial investments in retirement plans using a check or 
+negotiable order of withdrawal over a global data network; Financial services, namely, administration of 
+transactions involving funds drawn from securities, stocks, funds, equities, bonds, cash, or other types of 
+financial investments in retirement plans using a credit or debit card over a global data network; Financial 
+services, namely, assisting others with the completion of financial transactions for stocks, bonds, 
+securities and equities; Financial services, namely, conducting a securities and derivatives exchange; 
+Financial services, namely, coordination, within a single account, of an investment portfolio's 
+maintenance, trading, rebalancing, and tax management needs; Financial services, namely, dealing in 
+securities as a market maker and in trading commodities, securities, options, futures, equities and fixed 
+income products in the United States and overseas market securities; Financial services, namely, 
+•operation and management of hedge funds, commodity pools and other collective investment vehicles, 
+and trading for others of securities, options, futures, derivatives, debt instruments and commodities; 
+Financial services, namely, proprietary trading in commodities, securities, options, futures, equities and 
+fixed income products in the United States and overseas market securities; Financial services, namely, 
+providing for the exchange of foreign currency, commodities, financial derivatives, interest rate products, 
+and equities via the internet and intranet systems; Fund investment services featuring the trading of an 
+account holder's securities according to previously established criteria in order to maintain a 
+predetermined level of payments to the account holder; Investment services, namely, asset acquisition, 
+consultation, development and management services; Monetary exchange; Monetary exchange 
+operations; Money exchange services; On-line trading of options on the options exchange market; On-
+line escrow service for exchange of services; On-line real-time currency trading; Organization of online 
+stock exchanges for the benefit of the trade of stocks and other financial securities; Organization of stock 
+exchanges for the benefit of the trade of stocks and other financial values; Providing stock/securities 
+market information; Providing a web site featuring the ratings, reviews and recommendations on stocks, 
+bonds, mutual funds and other financial instruments posted by users; Providing financial services with 
+respect to securities and other financial instruments and products, namely, trading of and investments in 
+securities and financial instruments and products for others; Provision of a financial exchange for the 
+trading of securities, shares and options and other derivative products; Securities exchange price 
+quotations; Securities trade execution services; Securities trading and investing services for others via the 
+internet; Stock exchange information services; Stock exchange price quotations. FIRST USE: 20180129. 
+FIRST USE IN COMMERCE: 20190129
+Mark Drawing Code
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Design Code
+011502 260117 260121 261701 261704 270104 270305
+Serial Number
+88699605
+Filing Date
+20191120
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20200317
+Registration Number
+6069448
+Date Registered
+20200602
+Owner
+(REGISTRANT) Fanbase Exchange Co. AKA FNBSX CORPORATION PENNSYLVANIA 1811 N Howard 
+St Philadelphia PENNSYLVANIA 19122
+Priority Date
+Disclaimer StatementDescription of Mark
+Color is not claimed as a feature of the mark. The mark consists of two concentric circles with a stylized 
+lightning bolt forming an "F" in the middle to the left of a vertical line with the stylized word "fanbase" to the 
+right of the line.
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of RecordPrint: Mon Aug 22 2022
+87881331
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Mark Punctuated
+F FANBASE
+Translation
+Goods/Services
+IC 036. US 100 101 102.G & S: Crowdfunding services in the nature of accepting and administering 
+monetary contributions from a group of individuals; Crowdfunding services in the nature of providing 
+financing from money collected from individuals; Cryptocurrency exchange services; Cryptocurrency 
+trading services. FIRST USE: 20191021. FIRST USE IN COMMERCE: 20191021
+•
+Mark Drawing Code
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Design Code
+011502 260101 260117
+Serial Number
+87881331
+Filing Date
+20180417
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20190312
+Registration Number
+5938891
+Date Registered
+20191217
+Owner
+(REGISTRANT) Fanbase Exchange DBA FNBSX CORPORATION PENNSYLVANIA 1811 N Howard St 
+Philadelphia PENNSYLVANIA 19122
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "FANBASE" APART FROM THE MARKAS SHOWN
+Description of Mark
+The color(s) royal blue and white is/are claimed as a feature of the mark. The mark consists of a stylized letter 
+"F" in the color royal blue resembling a lightning bolt within concentric white and royal blue circles with the 
+word "FANBASE" underneath in white stylized letters all on a square royal blue background. The square shape 
+of the background is not claimed as a feature of the mark.
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Richard S. FinkelsteinPrint: Mon Aug 22 2022
+88319997
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Mark Punctuated
+HAITIAN DOLLAR L'UNION FAIT LA FORCE 5 GOUD = 1 HAITIAN DOLLAR HARD TO THE BONE 
+H$ ZOE
+Translation
+The English translation of "L'Fait La Force" in the mark is "Unity is Strength".
+Goods/Services
+IC 036. US 100 101 102.G & S: Charitable services, namely, providing financial support to people from 
+disadvantaged countries for the purpose of facilitating educational opportunities; Crowdfunding services 
+in the nature of accepting and administering monetary contributions from a group of individuals; 
+Cryptocurrency exchange services; Cryptocurrency payment processing; Financial services, namely, 
+providing a virtual currency for use by members of an on-line community via a global computer network; 
+Financial services, namely, providing electronic transfer of a virtual currency for use by members of an 
+on-line community via a global computer network; Issue of tokens of value. FIRST USE: 20200101. 
+FIRST USE IN COMMERCE: 20200517
+•
+Mark Drawing Code
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Design Code
+011518 021107 050103 090501 230102 240901 260117 260121 261701 261705
+Serial Number
+88319997
+Filing Date
+20190228
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20190618
+Registration Number
+6267276
+Date Registered20210209
+Owner
+(REGISTRANT) Luma, Honson INDIVIDUAL UNITED STATES 4723 Glenarm Ave Baltimore 
+MARYLAND 21206
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "HAITIAN DOLLAR" APART FROM THE 
+MARK AS SHOWN
+Description of Mark
+The color(s) blue, gold, red, green, black, white, and brown is/are claimed as a feature of the mark. The mark 
+consists of the overall shape of the mark is circular, having an inner circle colored with a gold background, 
+bordered on the outside by a thin black circular ring, the thin black circular ring bordered on the outside by an 
+outermost circular ring, the outermost circular ring having an upper half with a background color of blue, and a 
+lower half having a background color of red, the center portion of the lower half and the upper half circle 
+having the words "L'Union Fait La Force" written thereon in the color white, the left and right side portions 
+where the the upper half of the outermost circular ring joins each having the words "L'Union Fait La Force" 
+written thereon in the color white, the lower left quadrant of the inner circle having a fist and forearm, colored 
+in black, the fist and forearm protrude from the thin black circular ring, the fingers of the fist being outlined in 
+brown color, the fist grasping the brown colored trunk of a palm tree, the brown trunk outlined in black, the 
+palm tree having six leaves colored in green and outlined in black at a lower portion thereof, three leaves of the 
+palm tree pointing to right and three leaves of the palm tree pointing to the left, the palm tree generally located 
+in the center of the inner circle, a blue cap having a a brown colored pole extending up from the center of the 
+palm tree between the two uppermost leaves, a blue cap having a red horizontal stripe in a lower portion 
+thereof, immediately above the blue cap below the words "Haitian Dollar" is a "H$" of green color with black 
+trim, a rectangular shaped flag beneath the leaves on the right side of the tree having a brown pole extending at 
+45 degrees to the right and from the finger of the fist, the upper half of the flag colored in blue, the lower half of 
+the flag colored in red, a center of the flag having a white rectangular shape with a generally triangular shape 
+disposed in the center, the triangle shape having the colors read, blue gold and green, the left of the palm tree 
+having three brown colored spears pointed upward, the blades of the spears colored in white, the wrist of the fist 
+having the letters "Zoe" written in red, each of the letters having a blood droplet connected to a lower portion 
+thereof, the upper center portion of the inner circle having the words "Haitian Dollar" written thereon, the lower 
+right quadrant of the inner circle having the words "Hard To The Bone" in red written along the border of the 
+black circular ring, the left side quadrant of the inner circle having the words "5 Goud = 1 Haitian Dollar" 
+written in red. The entire background is in black.
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Percy L. SquarePrint: Mon Aug 22 2022
+87909627
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+AGATE
+Translation
+Goods/Services
+IC 036. US 100 101 102.G & S: Crowdfunding services in the nature of providing financing from money 
+collected from individuals; Cryptocurrency exchange services; Cryptocurrency trading services; Financial 
+investment in the field of blockchain and cryptocurrency; Financial services, namely, investment fund 
+transfer and transaction services; Financial advice and consultancy services; Financial exchange; 
+Financial information provided by electronic means in the field of blockchain and cryptocurrency; 
+Financial securities exchange services; Investment by electronic means; On-line trading of financial 
+instruments, shares, options and other derivative products; Payment and funds verification services; 
+Payment processing services, namely, credit card and debit card transaction processing services; Credit 
+and cash card payment processing services; Electronic foreign exchange payment processing; Financial 
+consultation in the field of cryptocurrency; Financial services, namely, providing a virtual currency for 
+use by members of an on-line community via a global computer network; Financial services, namely, 
+providing electronic transfer of a virtual currency for use by members of an on-line community via a 
+global computer network; Financial transaction services, namely, providing secure commercial 
+transactions and payment options; Financial transaction services, namely, providing secure commercial 
+transactions and payment options using a mobile device at a point of sale; Online banking services 
+accessible by means of downloadable mobile applications; Providing an internet website portal in the 
+field of financial transaction and payment processing services; Providing electronic processing of ACH 
+and credit card transactions and electronic payments via a global computer network; Providing electronic 
+processing of credit card transactions and electronic payments via a global computer network. FIRST 
+USE: 20180101. FIRST USE IN COMMERCE: 20180101
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+87909627
+Filing Date
+20180507
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date20181002
+Registration Number
+5632718
+Date Registered
+20181218
+Owner
+(REGISTRANT) Hamed Taghvaei INDIVIDUAL AUSTRALIA Unit :12 4-6 Park Ave, Waitara, NSW 
+AUSTRALIA 2077
+Priority Date
+Disclaimer Statement
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of RecordPrint: Mon Aug 22 2022
+87845489
+(2) DESIGN ONLY
+Mark Punctuated
+Translation
+Goods/Services
+IC 009. US 021 023 026 036 038.G & S: Recording apparatus for transmission or reproduction of sound 
+or images, Digital recording media, namely, blank magnetic data carriers; Mechanisms for coin-operated 
+apparatus; Data processing equipment and computers; Computer software for encryption; computer 
+software for document management; computer software for database management; computer software for 
+producing financial models; computer software for authorizing access to databases; computer software for 
+spreadsheet management; computer software for use as a cryptocurrency wallet; computer software, 
+namely, software development tools for the creation of mobile internet applications and client interfaces; 
+computer e-commerce software to allow users to perform electronic business transactions via a global 
+computer network; computer software, namely, electronic financial platform that accommodates multiple 
+types of payment and debt transactions in an integrated mobile device and web based environment; 
+computer antivirus software; computer chatbot software for simulating conversations; Recorded computer 
+software for encryption; recorded computer software for document management; recorded computer 
+software for database management; recorded computer software for producing financial models; recorded 
+computer software for authorizing access to databases; computer software for spreadsheet management; 
+recorded computer software for use as a cryptocurrency wallet; recorded computer software, namely, 
+software development tools for the creation of mobile internet applications and client interfaces; recorded 
+computer e-commerce software to allow users to perform electronic business transactions via a global 
+computer network; recorded computer software, namely, electronic financial platform that accommodates 
+multiple types of payment and debt transactions in an integrated mobile device and web based 
+environment; recorded computer antivirus software; recorded computer chatbot software for simulating 
+conversations; electronic publications, namely, newspapers and magazines, downloadable to mobile 
+devices tablets and computers; Downloadable mobile applications for mobile devices, tablets and 
+computers for encryption; Downloadable mobile applications for mobile devices, tablets and computers 
+for document management; Downloadable mobile applications for mobile devices, tablets and computers 
+for database management; Downloadable mobile applications for mobile devices, tablets and computers 
+for producing financial models; Downloadable mobile applications for mobile devices, tablets and 
+computers for authorizing access to databases; Downloadable mobile applications for mobile devices, 
+tablets and computers for spreadsheet management; Downloadable mobile applications for mobile 
+devices, tablets and computers for use as a cryptocurrency wallet; Downloadable mobile applications for 
+mobile devices, tablets and computers, namely, software development tools for the creation of mobile 
+internet applications and client interfaces; Downloadable mobile applications for mobile devices, tablets 
+and computers, namely, computer e-commerce software to allow users to perform electronic business 
+transactions via a global computer network; Downloadable mobile applications for mobile devices, 
+•tablets and computers, namely, electronic financial platform that accommodates multiple types of 
+payment and debt transactions in an integrated mobile device and web based environment; Downloadable 
+mobile applications for mobile devices, tablets and computers for computer antivirus software; 
+Downloadable mobile applications for mobile devices, tablets and computers, namely, chatbot software 
+for simulating conversations; downloadable cloud computing software for mobile devices, tablets and 
+computers for encryption; downloadable cloud computing software for mobile devices, tablets and 
+computers for document management; downloadable cloud computing software for mobile devices, 
+tablets and computers for database management; Downloadable cloud computing software for mobile 
+devices, tablets and computers for producing financial models; Downloadable cloud computing software 
+for mobile devices, tablets and computers for authorizing access to databases; Downloadable cloud 
+computing software for mobile devices, tablets and computers for spreadsheet management; 
+Downloadable cloud computing software for mobile devices, tablets and computers for use as a 
+cryptocurrency wallet; Downloadable cloud computing software for mobile devices, tablets and 
+computers, namely, software development tools for the creation of mobile internet applications and client 
+interfaces; Downloadable cloud computing software for mobile devices, tablets and computers, namely, 
+computer e-commerce software to allow users to perform electronic business transactions via a global 
+computer network; Downloadable cloud computing software for mobile devices, tablets and computers, 
+namely, electronic financial platform that accommodates multiple types of payment and debt transactions 
+in an integrated mobile device and web based environment; Downloadable cloud computing software for 
+mobile devices, tablets and computers for computer antivirus software; Downloadable cloud computing 
+software for mobile devices, tablets and computers, namely, chatbot software for simulating 
+conversations; downloadable software for mobile devices, tablets and computers for encryption; 
+downloadable software for mobile devices, tablets and computers for document management; 
+downloadable software for mobile devices, tablets and computers for database management; 
+Downloadable software for mobile devices, tablets and computers for producing financial models; 
+Downloadable software for mobile devices, tablets and computers for authorizing access to databases; 
+Downloadable software for mobile devices, tablets and computers for spreadsheet management; 
+Downloadable software for mobile devices, tablets and computers for use as a cryptocurrency wallet; 
+Downloadable software for mobile devices, tablets and computers, namely, software development tools 
+for the creation of mobile internet applications and client interfaces; Downloadable software for mobile 
+devices, tablets and computers, namely, computer e-commerce software to allow users to perform 
+electronic business transactions via a global computer network; Downloadable software for mobile 
+devices, tablets and computers, namely, electronic financial platform that accommodates multiple types 
+of payment and debt transactions in an integrated mobile device and web based environment; 
+Downloadable software for mobile devices, tablets and computers for computer antivirus software; 
+Downloadable software for mobile devices, tablets and computers, namely, chatbot software for 
+simulating conversations; downloadable databases in the field of banking, finance and business. FIRST 
+USE: 20180328. FIRST USE IN COMMERCE: 20180328
+IC 035. US 100 101 102.G & S: Advertising services; Business management; Business administration 
+services; Providing office functions; Advisory services for business management for the finance, business 
+and banking industries; Business management assistance; Business management and organization 
+consultancy; Business auditing; Financial auditing; Taxation consultation, namely, tax and taxation 
+planning, advice, information and consultancy services; Price comparison services; Market research 
+studies; Economic forecasting services; Promotion of goods and services through sponsorship of sports 
+events; Financial records management; Business strategic planning services; Organization and 
+management of customer loyalty programs, namely, administration of a customer loyalty program which 
+provides free or discounted goods and services, issuance of loyalty points and rewards for purchase of a 
+company's goods and services; credit card registration services. FIRST USE: 20180328. FIRST USE IN 
+COMMERCE: 20180328
+•IC 036. US 100 101 102.G & S: Insurance, namely, insurance brokerage, insurance consultancy, and 
+insurance administration; Financial affairs, namely, financial information, management and analysis 
+services; Monetary affairs, namely, financial information, management and analysis services; Real estate 
+affairs, namely, real estate agency services, real estate consultancy, real estate appraisal, and real estate 
+management services; Insurance consultancy; Insurance brokerage; insurance administration, namely, 
+administration of insurance plans; Arranging of insurance, namely, insurance consultancy; Hire-purchase 
+financing; Provision of financial information and data, advice, and consultancy services; Financial 
+evaluation for insurance purposes; Capital investment services for money, hedge funds and private equity 
+fund; Trust advice, namely, financial trust planning; Financial banking; Banking services; Online banking 
+and private banking services; Safe deposit box services; Financial sponsorship of educational, 
+entertainment, sporting and cultural events and activities Providing educational scholarships; Issuance of 
+credit and prepaid debit cards; Cheque verification; Debt recovery and credit factoring services; Credit 
+card factoring services; Crowdfunding services in the nature of providing financing from money collected 
+from individuals; Charitable fund raising; Currency trading and exchange services; Actuarial services; 
+Stock and trading, namely, financial administration of stock exchange trading of shares and other 
+financial securities in financial markets; Brokerage services, namely, insurance, securities, financial 
+investment, and stock brokerage services; Real estate brokerage service; Securities brokerage services; 
+Stock brokerage services; Stocks and bonds brokerage services; Deposits of valuables, namely, safe 
+deposit box services; Clearing house services, financial; Real estate consultancy; Real estate appraisal. 
+FIRST USE: 20180328. FIRST USE IN COMMERCE: 20180328
+•
+IC 041. US 100 101 107.G & S: Education services, namely, providing classes, seminars, workshops and 
+lectures in the field of finance, wellbeing, innovation, sustainability, culture and education; Entertainment 
+services in the nature of organizing and conducting social entertainment events, namely, football games, 
+art exhibitions, parties, and exhibitions for musical entertainment; Sporting and cultural activities, 
+namely, organizing cultural and arts events, conducting of sports competitions; Providing information 
+about education; Organizing lectures in the field of finance, wellbeing, innovation, sustainability, culture 
+and education for educational purposes; Entertainment services, namely, arranging and conducting of 
+competitions in the field of finance, wellbeing, innovation, sustainability, culture and education; 
+Organizing conferences and symposia banking, finance, wellbeing, innovation, sustainability, culture and 
+education for educational, cultural, sporting, or entertainment purposes; Training services, namely, 
+provision of training courses, in the field of banking, business and finance; Educational services, namely, 
+conducting training courses in the fields of finance, wellbeing, innovation, sustainability, culture and 
+education and distribution of training materials in connection therewith; Publication of books; Non-
+downloadable electronic publications in the nature of books, magazines, newsletters and websites in the 
+field of finance, wellbeing, innovation, sustainability, culture and education; Publication of texts, other 
+than publicity texts; Publishing of electronic publications, namely, on-line publication of electronic books 
+and journals; Conducting entertainment exhibitions in the nature of athletic events and tournaments, 
+plays, concerts, lectures and educational performances, namely, film screenings, art exhibitions, live 
+music concerts, theater and dance productions, and author and artist discussions for recreation purposes; 
+Conducting of educational, cultural, live sport and entertainment events in the nature of plays, concerts, 
+lectures and educational performances; Entertainment information; Recreational activity services in the 
+nature of, namely, organization of community cultural events; Recreation information. FIRST USE: 
+20180328. FIRST USE IN COMMERCE: 20180328
+•
+IC 042. US 100 101.G & S: Design and development of computer hardware and software; Programming, 
+implementation, installation and maintenance of computer software; Computer software consultancy; 
+Rental of computer software; Computer programming; Development, updating and maintenance of 
+database systems; Data security consultancy, namely, data management, data processing and electronic 
+data storage services for archiving electronic data; Technical support services, namely, troubleshooting of 
+computer software problems; Server hosting; Hosting computer sites, namely, hosting the web sites of 
+•others on a computer server for a global computer network; Creating and maintaining websites for others; 
+Website design consultancy, namely, web portal design and hosting; Industrial design; Computer security 
+services, namely, hard drive erasure, administering digital certificates, restricting unauthorized access to 
+hard drives, computer networks, websites and applications; Monitoring of computer systems to detect 
+breakdowns; Recovery of computer data; Providing online, non-downloadable software, namely, 
+providing temporary use of non-downloadable cloud-based software for banking, finance and business; 
+Design, programming and integration of applications for smartphones and tablets for banking, finance 
+and business; Development of computer software for banking, finance and business; Design and 
+development of computers, namely, smartphones and tablets; Information Technology (IT), services 
+namely, information technology training, consulting, and integration services; Providing information in 
+the technology field; Scientific and technological services, namely, research in the field of computer 
+software and hardware; Research services in the field of information technology. FIRST USE: 20180328. 
+FIRST USE IN COMMERCE: 20180328
+Mark Drawing Code
+(2) DESIGN ONLY
+Design Code
+011515 260121
+Serial Number
+87845489
+Filing Date
+20180322
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20181127
+Registration Number
+5835629
+Date Registered
+20190813
+Owner
+(REGISTRANT) BANCO SANTANDER, S.A. CORPORATION SPAIN Paseo de Pereda, 9-12 39004 
+Santander SPAIN 39004
+Priority Date
+Disclaimer Statement
+Description of Mark
+Color is not claimed as a feature of the mark. The mark consists of a figure of a flame.
+Type of Mark
+TRADEMARK. SERVICE MARK
+Register
+PRINCIPALLive Dead Indicator
+LIVE
+Attorney of Record
+John E. Ottaviani, Esq.United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 22, 2022 for  
+U.S. Trademark Application Serial No.  97118941
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•

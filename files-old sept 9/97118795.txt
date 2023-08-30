@@ -1,0 +1,281 @@
+To:
+Mark A. Goodman, Esq.(mark@goodmanlawnevada.com)
+Subject:
+U.S. Trademark Application Serial No. 97118795 - BL - 1383-Bell
+Sent:
+August 27, 2022 12:26:41 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+4168118
+screencapture-ahdictionary-com-word-search-html-16616156126281
+screencapture-en-wikipedia-org-wiki-Search_engine_optimization-16616156307471
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118795
+Mark:  BL
+Correspondence Address:  
+MARK A. GOODMAN, ESQ. 
+GOODMAN LAW CENTER 
+401 RYLAND STREET 
+RENO NV 89502 UNITED STATES
+Applicant:  Blastoff Labs
+Reference/Docket No. 1383-Bell
+Correspondence Email Address:  mark@goodmanlawnevada.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 27, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a),2.65(a); TMEP §§711, 718.03.
+ 
+SEARCH OF USPTO DATABASE OF MARKS
+ 
+The trademark examining attorney has searched the USPTO database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d). 15 
+U.S.C. §1052(d); TMEP §704.02.
+ 
+SUMMARY OF ISSUES:
+ 
+Amended Identification of Services Required 
+•
+     
+AMENDED IDENTIFICATION OF SERVICES REQUIRED
+ 
+A written application must specify the particular goods and/or services on or in connection with which 
+the applicant uses, or has a bona fide intention to use, the mark in commerce. 15 U.S.C. §§1051(a)(2), 
+1051(b)(2); 37 C.F.R. §2.32(a)(6). To “specify” means to name in an explicit manner. TMEP §1402.01. 
+An identification that fails to identify the goods and services with specificity is indefinite, either 
+because the nature of the goods or services is not clear or because the wording is so broad that it may 
+include goods or services in more than one class. Id. The applicant must identify the goods and services 
+specifically to provide public notice and to enable the USPTO to classify the goods and services 
+properly and to reach informed judgments concerning likelihood of confusion under 15 U.S.C. 
+§1052(d). Id.
+ 
+In the present case, the following entries in the identification of services in International Class 
+35 require clarification:
+ 
+Marketing services in the nature of Internet marketing services including all methods of bringing 
+traffic to business websites and mobile applications including designing, optimizing, and 
+managing all types of Google AdWords pay per click (PPC) campaigns; 
+•
+email automation (marketing) campaigns, conversion rate optimization (CRO) including site 
+architecture and landing page analysis; 
+•
+search engine engineering services (SEO); 
+•
+and all non-Google PPC advertising campaigns targeting popular desktop and mobile operating 
+systems; 
+•
+ 
+This wording is indefinite, as an initial matter, because it appears that applicant has incorrectly used 
+semicolons to separate wording that should be separated by commas. By doing so, applicant has 
+separated what appear to be related internet marketing services into multiple, separate services. 
+ 
+Applicant must correct the punctuation in the identification to clarify the individual items in the list of 
+services. See 37 C.F.R. §2.32(a)(6); TMEP §1402.01(a). Proper punctuation in identifications is 
+necessary to delineate explicitly each product or service within a list and to avoid ambiguity. In general, 
+commas should be used in an identification (1) to separate a series of related items identified within a 
+particular category of goods or services, (2) before and after “namely,” and (3) between each item in a 
+list of goods or services following “namely” (e.g., personal care products, namely, body lotion, bar 
+soap, shampoo). Id. Semicolons generally should be used to separate a series of distinct categories of 
+goods or services within an international class (e.g., personal care products, namely, body lotion; 
+deodorizers for pets; glass cleaners). Id. Thus, applicant should replace the semicolons in thewording with commas, if appropriate, or rewrite the identification with the semicolons deleted and the 
+services specified using definite and unambiguous language.
+ 
+This wording also requires clarification because the term "including" appears twice. The wording 
+"including" in the identification of services is indefinite and must be deleted and replaced with a 
+definite term, such as “namely,” “consisting of,” “particularly,” or “in particular.” See 37 C.F.R. 
+§2.32(a)(6); TMEP §§1402.01, 1402.03(a). The identification must be specific and all-inclusive. 
+"Including" is an open-ended term that is not acceptable because it fails to identify specific services. 
+See TMEP §1402.03(a).
+ 
+This wording must also be revised to remove references to third-party registered marks. The wording 
+“Google” in the identification of services is a registered mark not owned by applicant; accordingly, 
+applicant must amend the identification to delete this wording and, if not already included in the 
+identification, provide the common commercial or generic name of the services. TMEP §1402.09; see 
+37 C.F.R. §2.32(a)(6); Camloc Fastener Corp. v. Grant, 119 USPQ 264, 264 n.1 (TTAB 1958). See, 
+e.g., attached U.S. Registration No. 4168118.
+ 
+Identifications of goods and/or services should generally be comprised of generic everyday wording for 
+the goods and/or services, and exclude proprietary or potentially-proprietary wording, such as a 
+registered term. See TMEP §§1402.01, 1402.09. The misspelling or phonetic equivalent of a registered 
+mark should similarly be excluded, unless it is the common name of the goods and/or services. TMEP 
+§1402.09. A registered mark indicates origin in one particular party and so may not be used to identify 
+goods and/or services that originate in a party other than that registrant. TMEP §1402.09 (citing 
+Camloc Fastener Corp. v. Grant, 119 USPQ at 264 n.1).
+ 
+In addition, the wording "search engine engineering services (SEO)" appears to be a scrivener's error. 
+The acronym "SEO" is commonly used to denote "search engine optimization" services. See attached 
+definitions from American Heritage Dictionary and Wikipedia. Further, the wording "search engine 
+engineering services" is indefinite and potentially overbroad. To the extent that applicant provides 
+search engine optimization services, applicant must revise this wording accordingly and provide 
+additional detail as to the purpose of the optimization services to ensure proper classification in 
+International Class 35 (e.g., "for sales promotion," or "for promoting the websites of others"). To the 
+extent that applicant "engineers" or creates search engines for others, this service appears to constitute a 
+technological service in International Class 42. See ID Manual, Term ID Nos. 035-2590 (explaining 
+why the entry for "search engine optimization" was deleted), 042-1396 (listing "Provision of Internet 
+search engines" in Class 42).   
+ 
+For each instance requiring additional clarification, the examining attorney has provided an example of 
+an acceptable amendment below. If the suggestions below are not accurate, applicant is encouraged to 
+use the USPTO’s online Identification Manual (see ID Manual link below) to search for acceptable 
+wording to properly identify the intended services.
+ 
+EXAMPLE IDENTIFICATION OF SERVICES:  The following is an example of an acceptable 
+identification of services that applicant may adopt, if accurate (additions in bold and deletions in 
+strikethrough).
+ 
+Class 35
+ 
+Marketing services in the field of web site traffic optimization; Marketing services in the natureof Internet marketing services including all being methods of bringing traffic to business 
+websites and mobile applications including, in particular, designing, optimizing, and managing 
+all types of Google AdWords pay per click (PPC) advertising campaigns;, email 
+marketing automation (marketing) campaigns, conversion rate optimization (CRO) including 
+through website architecture and landing page analysis;, search engine engineering 
+optimization services (SEO) for promoting the websites of others;, and all non-Google PPC 
+advertising campaigns targeting popular desktop and mobile operating systems; Advertising and 
+marketing services provided by means of indirect methods of marketing communications, 
+namely, social media, search engine marketing, inquiry marketing, internet marketing, mobile 
+marketing, blogging and other forms of passive, sharable or viral communications 
+channels; Consulting services in the field of internet marketing 
+ 
+SCOPE ADVISORY:  Applicant may amend the identification to clarify or limit the goods and/or 
+services, but not to broaden or expand the goods and/or services beyond those in the original 
+application or as acceptably amended.  See 37 C.F.R. §2.71(a); TMEP §1402.06.  Generally, any 
+deleted goods and/or services may not later be reinserted.  See TMEP §1402.07(e).
+ 
+ONLINE ID MANUAL:  For assistance with identifying and classifying goods and services in 
+trademark applications, please see the USPTO’s online searchable U.S. Acceptable Identification of 
+Goods and Services Manual.  See TMEP §1402.04.
+ 
+For information on how to identify the goods and services in an application, applicant is encouraged to 
+view the USPTO’s Trademark Information Network Video Number 6, “Goods and Services.”  
+ 
+RESPONDING TO THIS OFFICE ACTION 
+ 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+How to respond.  Click to file a response to this nonfinal Office action./Todd Lewellen/
+Todd Lewellen
+Trademark Examining Attorney 
+Law Office 110
+(571) 272-3199
+todd.lewellen@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•Print: Sat Aug 27 2022
+85531517
+(5) WORDS, LETTERS, AND/OR NUMBERS IN STYLIZED FORM
+Mark Punctuated
+GOOGLE
+Translation
+Goods/Services
+IC 042. US 100 101.G & S: Provision of Internet search engines. FIRST USE: 20000401. FIRST USE IN 
+COMMERCE: 20000401
+•
+Mark Drawing Code
+(5) WORDS, LETTERS, AND/OR NUMBERS IN STYLIZED FORM
+Design Code
+Serial Number
+85531517
+Filing Date
+20120201
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20120417
+Registration Number
+4168118
+Date Registered
+20120703
+Owner
+(REGISTRANT) Google Inc. CORPORATION DELAWARE 1600 Amphitheatre Pkwy. Mountain View 
+CALIFORNIA 94043 (LAST LISTED OWNER) GOOGLE LLC LIMITED LIABILITY COMPANY 
+DELAWARE 1600 AMPHITHEATRE PARKWAY MOUNTAIN VIEW CALIFORNIA 94043
+Priority Date
+Disclaimer Statement
+Description of Mark
+The color(s) blue, red, yellow, and green is/are claimed as a feature of the mark. The mark consists of the first 
+letter "G" which is blue; the second letter "O" is red; the third letter "O" is yellow; the fourth letter "G" is blue; 
+the fifth letter "L" is green; and the sixth letter "E" is red.
+Type of MarkSERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Monique E. LiburdUnited States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 27, 2022 for  
+U.S. Trademark Application Serial No.  97118795
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•

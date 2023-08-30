@@ -1,0 +1,792 @@
+To:
+TheeTechnology, Inc.(richard@theedigital.com)
+Subject:
+U.S. Trademark Application Serial No. 97118540 - E THEEDIGITAL
+Sent:
+August 23, 2022 03:20:55 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118540
+Mark:  E THEEDIGITAL
+Correspondence Address:  
+THEETECHNOLOGY, INC. 
+7901 STRICKLAND RD, UNIT 112 
+RALEIGH NC 27615 UNITED STATES
+Applicant:  TheeTechnology, Inc.
+Reference/Docket No. N/A
+Correspondence Email Address:  richard@theedigital.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+INTRODUCTION
+ 
+The referenced application has been reviewed by the assigned trademark examining attorney.  
+Applicant must respond timely and completely to the issue(s) below.  15 U.S.C. §1062(b); 37 C.F.R. 
+§§2.62(a), 2.65(a); TMEP §§711, 718.03.SEARCH OF OFFICE’S DATABASE OF MARKS
+ 
+The trademark examining attorney has searched the Office’s database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d).  
+TMEP §704.02; see 15 U.S.C. §1052(d).
+ 
+SUMMARY OF ISSUES:
+REFUSAL - MARK DIFFERS ON DRAWING AND SPECIMEN
+•
+REQUIREMENT - CLASSIFICATION AND IDENTIFICATION OF SERVICES
+•
+REQUIREMENT - COLOR CLAIM AND MARK DESCRIPTION
+•
+ 
+REFUSAL - MARK DIFFERS ON DRAWING AND SPECIMEN
+ 
+Mark shown on drawing does not match mark on specimen. Registration is refused because the 
+specimen does not show the mark in the drawing in use in commerce, which is required in the 
+application or amendment to allege use. Trademark Act Sections 1 and 45, 15 U.S.C. §§1051, 1127; 37 
+C.F.R. §§2.34(a)(1)(iv), 2.56(a); TMEP §§904, 904.07(a), 1301.04(g)(i). The mark appearing on the 
+specimen and in the drawing must match; that is, the mark in the drawing “must be a substantially exact 
+representation of the mark” on the specimen. See 37 C.F.R. §2.51(a)-(b); TMEP §807.12(a).
+ 
+In this case, the specimen displays the mark as a blue square shape featuring a cut-out forming the letter 
+"E". However, the drawing displays the mark as a blue square shape featuring a cut-out forming the 
+letter "E" with the black wording "THEEDIGITAL" appearing to the right of the square shape. The 
+mark on the specimen does not match the mark in the drawing because the mark in the specimen does 
+not contain the black "THEEDIGITAL" wording. Applicant has thus failed to provide the required 
+evidence of use of the mark in commerce. See TMEP §807.12(a).
+ 
+Response options. Applicant may respond to this refusal by satisfying one of the following:
+ 
+(1)        Submit a different specimen (a verified “substitute” specimen) for each 
+applicable international class that (a) shows the mark in the drawing in actual use in 
+commerce for the goods and/or services in the application or amendment to allege use, and 
+(b) was in actual use in commerce at least as early as the filing date of the application or 
+prior to the filing of an amendment to allege use.
+ 
+Examples of specimens.  Specimens for services must show a direct association between 
+the mark and the services and include: (1) copies of advertising and marketing material, (2) 
+a photograph of business signage or billboards, or (3) materials showing the mark in the 
+sale, rendering, or advertising of the services.  See 37 C.F.R. §2.56(b)(1), (c); TMEP 
+§1301.04(a), (h)(iv)(C). 
+ 
+Any webpage printout or screenshot submitted as a specimen must include the webpage’s 
+URL and the date it was accessed or printed on the specimen itself, within the TEAS form 
+that submits the specimen, or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. 
+§1746 in a later-filed response.  See 37 C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+(2)        Submit a request to amend the filing basis to intent to use under Section 
+1(b) (which includes withdrawing an amendment to allege use, if one was filed), as no 
+specimen is required before publication. This option will later necessitate additional fee(s)and filing requirements such as providing a specimen.
+ 
+The USPTO will not accept an amended drawing submitted in response to this refusal because the 
+changes would materially alter the drawing of the mark in the original application or as previously 
+acceptably amended. See 37 C.F.R. §2.72(a)-(b); TMEP §807.14. Specifically, the marks in the 
+specimen does not include the black "THEEDIGITAL" wording. This wording is highly distinctive and 
+contributes greatly the commercial impression of the mark. Deletion of distinctive matter from a  mark 
+results in a material alteration of the mark. See In re Dillard Dep't Stores, Inc., 33 USPQ2d 1052 
+(Comm’r Pats. 1993). For more information about drawings and instructions on how to satisfy these 
+response options using the online Trademark Electronic Application System (TEAS) form, see the 
+Drawing webpage.
+ 
+Although applicant’s mark has been refused registration, applicant may respond to the refusal(s) by 
+submitting evidence and arguments in support of registration. However, if applicant responds to the 
+refusal(s), applicant must also respond to the requirement(s) set forth below.
+ 
+REQUIREMENT - CLASSIFICATION AND IDENTIFICATION OF SERVICES
+ 
+The wording “Web Design” in the identification of services is indefinite and must be clarified because 
+the specific type of web design service must be indicated for example, website design, homepage and 
+webpage design, design of computer website design software. See 37 C.F.R. §2.32(a)(6); TMEP 
+§1402.01.  
+ 
+The services "Digital Marketing Services" are classified incorrectly. Applicant must amend the 
+application to classify the goods and/or services in International Class 35. See 37 C.F.R. §§2.32(a)(7), 
+2.85; TMEP §§1401.02(a), 1401.03(b).
+ 
+Applicant should note that any wording in bold, in italics, underlined and/or in ALL CAPS below 
+offers guidance and/or shows the changes being proposed for the identification of goods and/or 
+services.  If there is wording in the applicant’s version of the identification of goods and/or services 
+which should be removed, it will be shown with a line through it such as this: strikethrough.  When 
+making its amendments, applicant should enter them in standard font, not in bold, in italics, underlined 
+or in ALL CAPS.
+ 
+Applicant may substitute the following wording, if accurate: 
+ 
+Class 35: Digital marketing services
+ 
+Class 
+42: Web 
+design services, 
+namely, 
+___ 
+{indicate 
+particular 
+services, 
+e.g.,website 
+design, homepage and webpage design, design of computer website design software} and Digital 
+Marketing Services
+ 
+See TMEP §§1402.01, 1402.03.
+ 
+An applicant may only amend an identification to clarify or limit the services, but not to add to or 
+broaden the scope of the services.  37 C.F.R. §2.71(a); see TMEP §§1402.06 et seq., 1402.07. 
+Generally, any deleted services may not later be reinserted.  See TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please seethe USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual.  See 
+TMEP §1402.04. 
+ 
+Advisory – Multiple Class Application
+ 
+The application references goods and/or services based on use in commerce in more than one 
+international class; therefore, applicant must satisfy all the requirements below for each international 
+class:
+ 
+(1)        List the goods and/or services by their international class number in 
+consecutive numerical order, starting with the lowest numbered class (for example, 
+International Class 3: perfume; International Class 18: cosmetic bags sold empty).
+ 
+(2)        Submit a filing fee for each international class not covered by the fee(s) 
+already paid (view the USPTO’s current fee schedule). Specifically, the application 
+identifies goods and/or services based on use in commerce that are classified in at least 2 
+classes; however, applicant submitted a fee(s) sufficient for only 1 class(es). Applicant 
+must either (a) submit the filing fees for the classes not covered by the submitted fees or 
+(b) restrict the application to the number of classes covered by the fees already paid.
+ 
+(3)        Submit verified dates of first use of the mark anywhere and in commerce 
+for each international class. See more information about verified dates of use.
+ 
+(4)        Submit a specimen for each international class. The current specimen is 
+not acceptable for any international class. See more information about specimens.
+ 
+Examples of specimens.  Specimens for services must show a direct association between 
+the mark and the services and include: (1) copies of advertising and marketing material, (2) 
+a photograph of business signage or billboards, or (3) materials showing the mark in the 
+sale, rendering, or advertising of the services.  See 37 C.F.R. §2.56(b)(2), (c); TMEP 
+§1301.04(a), (h)(iv)(C). 
+ 
+Any webpage printout or screenshot submitted as a specimen must include the webpage’s 
+URL and the date it was accessed or printed on the specimen itself, within the TEAS form 
+that submits the specimen, or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. 
+§1746 in a later-filed response. See 37 C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+(5)        Submit a verified statement that “The specimen was in use in commerce 
+on or in connection with the goods and/or services listed in the application at least as 
+early as the filing date of the application.” See more information about verification.
+ 
+See 37 C.F.R. §2.86(a); TMEP §§1403.01, 1403.02(c).
+ 
+For an overview of the requirements for a Section 1(a) multiple-class application and how to satisfy the 
+requirements online using the Trademark Electronic Application System (TEAS) form, see the 
+Multiple-class Application webpage.
+ 
+REQUIREMENT - COLOR CLAIM AND MARK DESCRIPTIONApplicant must clarify whether color is a feature of the mark because, although the drawing shows the 
+mark in color, the application does not state whether color is a feature of the mark. 37 C.F.R. §§2.37, 
+2.52(b)(1), 2.61(b); see TMEP §807.07(a)-(a)(ii). Applicant must also submit an amended description 
+of the mark because the current one is incomplete and does not describe all the significant aspects of 
+the mark, in particular the design element forming the letter "E". 37 C.F.R. §2.37; see TMEP §§808.01, 
+808.02. Descriptions must be accurate and identify all the literal and design elements in the mark. See 
+37 C.F.R. §2.37; TMEP §§808 et seq.
+ 
+ 
+Applicant may respond to this requirement by satisfying one of the following:
+ 
+(1)       If color is not a feature of the mark, applicant must submit a black-and-
+white drawing of the mark to replace the color drawing. See TMEP §807.07(a)(i). 
+However, any other amendments to the drawing will not be accepted if they materially 
+alter the mark. 37 C.F.R. §2.72; see TMEP §§807.14 et seq. Applicant must also submit a 
+revised description of all literal and design elements in the mark, deleting any reference to 
+color, if appropriate. 37 C.F.R. §2.37; see TMEP §§808.01, 808.02. The following 
+description is suggested, if accurate: The mark consists of a square shape that has a cut-
+out forming the letter "E". To the right of the square shape is the stylized wording 
+"THEEDIGITAL".
+ 
+(2)       If color is a feature of the mark, applicant must submit a statement (a) 
+listing all the colors that are claimed as a feature of the mark and (b) describing all the 
+literal and design elements in the mark that specifies where each color appears in those 
+elements. 37 C.F.R. §§2.37, 2.52(b)(1); TMEP §807.07(a)-(a)(ii). Generic color names 
+must be used to describe the colors in the mark, e.g., red, yellow, blue. TMEP 
+§807.07(a)(i)-(ii). If black, white, and/or gray represent background, outlining, shading, 
+and/or transparent areas and are not part of the mark, applicant must so specify in the 
+description. See TMEP §807.07(d). The following color claim and description are 
+suggested, if accurate: 
+ 
+Color claim: The colors blue and black are claimed as a feature of the mark.
+ 
+Description: The mark consists of a blue square shape that has a cut-out forming the 
+letter "E". To the right of the square shape is the stylized black wording 
+"THEEDIGITAL". The color white indicates transparent area and is not a part of 
+the mark.
+ 
+See TMEP §807.07(b).
+ 
+CONCLUSION
+ 
+Response guidelines.  For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action.  For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above.  For a 
+requirement, applicant should set forth the changes or statements.  Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.If applicant has questions regarding this Office action, please telephone or e-mail the assigned 
+trademark examining attorney.  All relevant e-mail communications will be placed in the official 
+application record; however, an e-mail communication will not be accepted as a response to this Office 
+action and will not extend the deadline for filing a proper response.  See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.  Further, although the trademark examining attorney may provide 
+additional explanation pertaining to the refusal(s) and/or requirement(s) in this Office action, the 
+trademark examining attorney may not provide legal advice or statements about applicant’s rights.  See 
+TMEP §§705.02, 709.06. 
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Stefan Oehrlein/
+Trademark Examining Attorney
+Law Office 115
+(571) 272-1308
+stefan.oehrlein@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97118540
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•*** User:soehrlein ***
+#
+Total
+Dead
+Live
+Live
+Status/
+Search
+Marks
+Marks
+Viewed
+Viewed
+Search
+Docs
+Images
+Duration
+01
+1
+0
+1
+1
+0:01
+97118540[SN]
+02
+1
+0
+1
+1
+0:01
+TheeTechnology[on]
+03
+4086035
+N/A
+0
+0
+0:02
+"042"[cc]
+04
+1195280
+N/A
+0
+0
+0:02
+"035"[ic]("a" "B" "200")[ic]
+05
+979108
+N/A
+0
+0
+0:02
+"042"[ic]("a" "B" "200")[ic]
+06
+1563315
+N/A
+0
+0
+0:02
+"009"[ic]("a" "B" "200")[ic]
+07
+2912313
+N/A
+0
+0
+0:03
+*E*[bi,ti] not dead[ld]
+08
+17752
+N/A
+0
+0
+0:02
+e[bi,ti] not dead[ld]
+09
+1562
+N/A
+0
+0
+0:02
+e[fm] not dead[ld]
+10
+37904
+N/A
+0
+0
+0:01
+(270301 geoletters)[dc] not dead[ld]
+11
+2252
+N/A
+0
+0
+0:01
+(260909 squaregeo)[dc] not dead[ld]
+12
+1914
+N/A
+0
+0
+0:01
+(260928 miscsqure)[dc] not dead[ld]
+13
+3802
+N/A
+0
+0
+0:01
+(260903 incsquare)[dc] not dead[ld]
+14
+3891
+N/A
+0
+0
+0:01
+(261103 increct)[dc] not dead[ld]
+15
+9185
+N/A
+0
+0
+0:01
+(261725 otherlines)[dc] not dead[ld]
+16
+36644
+N/A
+0
+2
+0:01
+7 and (10 11 12 13 14 15)
+17
+834
+0
+17
+834
+0:01
+8 and (10 11 12 13 14 15)
+18
+645
+0
+11
+645
+0:01
+((4 5 6) and 9) not (17)
+19
+267
+0
+15
+267
+0:01
+((3) and 9) not (17 18)
+20
+33
+0
+8
+33
+0:01
+(10 and (11 12) and (13 14 15)) not (17 18 19)
+21
+1486
+N/A
+0
+0
+0:01
+(10 and (11 12 13 14 15)) not (17 18 19 20)
+22
+908
+0
+10
+908
+0:01
+7 and 21
+23
+578
+0
+13
+578
+0:01
+21 not 22
+24
+473
+0
+12
+473
+0:01
+( (11 12) and (13 14 15)) not (17 18 19 20 21)
+25
+98
+0
+10
+98
+0:01
+( (13 and 14 )) not (17 18 19 20 21 24)
+26
+114
+0
+15
+114
+0:01
+( (11 and 12 )) not (17 18 19 20 21 24 25)
+27
+98
+0
+9
+98
+0:01
+( (15 and (13 14) )) not (17 18 19 20 21 24 25 26)
+28
+0
+0
+0
+0
+0:01
+( (10 and (260931[dc] not dead[ld]) )) not (17 18 19 20 21 24 25 26 27)
+29
+1908
+N/A
+0
+0
+0:01
+( (10 and (260921[dc] not dead[ld]) )) not (17 18 19 20 21 24 25 26 27)
+30
+1224
+N/A
+0
+0
+0:01
+7 and 29
+31
+582
+0
+14
+582
+0:01
+(4 5 6) and 30
+32
+2283
+N/A
+0
+0
+0:01
+(4 and 8) not (17 18 19 20 21 24 25 26 27 31)
+33
+1822
+N/A
+0
+0
+0:01
+(5 and 8) not (17 18 19 20 21 24 25 26 27 31)
+34
+0
+0
+0
+0
+0:01
+(29 and 8) not (17 18 19 20 21 24 25 26 27 31)
+ 
+Session started 8/23/2022 2:17:14 PM
+Session finished 8/23/2022 2:36:21 PM
+Total search duration 0 minutes 42 seconds
+Session duration 19 minutes 7 seconds
+Defaut NEAR limit=1ADJ limit=1
+Sent to TICRS as Serial Number: 97118540*** User:soehrlein ***
+#
+Total
+Dead
+Live
+Live
+Status/
+Search
+Marks
+Marks Viewed Viewed Search
+Docs
+Images Duration
+01 1
+0
+1
+1
+0:01
+97118540[SN]
+02 1
+0
+1
+1
+0:01
+TheeTechnology[on]
+03 4086035 N/A
+0
+0
+0:01
+"042"[cc]
+04 1195280 N/A
+0
+0
+0:01
+"035"[ic]("a" "B" "200")[ic]
+05 979108
+N/A
+0
+0
+0:01
+"042"[ic]("a" "B" "200")[ic]
+06 1563315 N/A
+0
+0
+0:02
+"009"[ic]("a" "B" "200")[ic]
+07 296
+N/A
+0
+0
+0:01
+(*THEE* "the e")[bi,ti] not dead[ld]
+08 4731
+N/A
+0
+0
+0:02
+*D{V0:2}{"GJ"1:2}{V0:2}{"T"1:2}{V0:2}L*[bi,ti] not dead[ld]
+09 26
+0
+26
+26
+0:01
+*eD{V0:2}{"GJ"1:2}{V0:2}{"T"1:2}{V0:2}L*[bi,ti] not dead[ld]
+10 1
+0
+1
+1
+0:01
+"e digital"[bi,ti] not dead[ld]
+11 1
+0
+1
+1
+0:01
+8 and 7
+12 47
+0
+6
+47
+0:01
+(4 and 7)
+13 120
+0
+15
+120
+0:01
+"the digital"[bi,ti] not dead[ld]
+14 2
+0
+2
+2
+0:01
+*thedigital*[bi,ti] not dead[ld]
+15 14
+0
+14
+13
+0:01
+(5 and 7) not (12)
+16 21
+0
+21
+20
+0:01
+(6 and 7) not (12 15)
+17 67
+0
+67
+66
+0:02
+(3 and 7) not (12 15 16)
+18 147
+0
+14
+147
+0:01
+( 7) not (12 15 16 17)
+19 1322
+N/A
+0
+0
+0:01
+(4 and 8) not (7 13)
+20 769376
+N/A
+0
+0
+0:02
+*TH{"IYE"}*[bi,ti] not dead[ld]
+21 352
+N/A
+1
+1
+0:01
+8 and 20
+22 231
+0
+16
+231
+0:01
+21 not (7 13)
+23 548
+N/A
+0
+1
+0:01
+(*th{"i"0:1}{"E"1:3}{"iyeah"0:1}d* *th{"E"1:2}{"IY"1:2}{"iye"0:2}d* *th{"E"0:2}{"IY"1:2}{"iye"1:2}d*)[bi,ti] not
+dead[ld]
+24 541
+0
+14
+541
+0:01
+23 not (7 13 22)
+25 4570
+N/A
+0
+0
+0:01
+digital[bi,ti] not dead[ld]
+26 319459
+N/A
+0
+0
+0:03
+(web$ marketin$)[gs] not dead[ld]
+27 1466
+N/A
+0
+0
+0:01
+8 and 26
+28 1176
+N/A
+0
+1
+0:01
+((4 5 6) and 27) not (7 13 22 24)
+29 750
+0
+18
+750
+0:01
+((4 ) and 27) not (7 13 22 24)
+30 426
+0
+17
+426
+0:01
+((5 6 ) and 27) not (7 13 22 24 29)
+31 701251
+N/A
+0
+5
+0:03
+(th{"i"0:1}{"E"1:3}{"iyeah"0:1} th{"E"1:2}{"IY"1:2}{"iye"0:2} th{"E"0:2}{"IY"1:2}{"iye"1:2})[bi,ti] not dead[ld]
+32 41
+0
+41
+41
+0:02
+(th{"i"0:1}{"E"1:3}{"iyeah"0:1} th{"E"1:2}{"IY"1:2}{"iye"0:2} th{"E"0:2}{"IY"1:2}{"iye"1:2})[fm] not dead[ld]
+33 840
+N/A
+0
+0
+0:01
+((5 ) and 8) not (7 13 22 24 29 30 32)
+34 500
+0
+12
+500
+0:01
+((4 ) and 8) not (7 13 22 24 29 30 32)
+35 704
+0
+18
+704
+0:01
+((5 ) and 8) not (7 13 22 24 29 30 32 34)
+ 
+Session started 8/23/2022 2:43:07 PM
+Session finished 8/23/2022 3:03:11 PM
+Total search duration 0 minutes 44 seconds
+Session duration 20 minutes 4 seconds
+Defaut NEAR limit=1ADJ limit=1
+Sent to TICRS as Serial Number: 97118540

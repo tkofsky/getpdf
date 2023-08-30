@@ -1,0 +1,386 @@
+To:
+Jason Gersting(efiling@knobbe.com)
+Subject:
+U.S. Trademark Application Serial No. 97118572 - MOSAICA - ARVTS.002T
+Sent:
+August 23, 2022 05:27:24 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+screencapture-translate-google-com-16612865688861
+screencapture-www-translate-com-portuguese-english-16612866690071
+screencapture-dictionary-reverso-net-portuguese-english-mosaica-forced-16612867040041
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118572
+Mark:  MOSAICA
+Correspondence Address:  
+JASON GERSTING 
+KNOBBE, MARTENS, OLSON & BEAR, LLP 
+2040 MAIN STREET, 14TH FLOOR 
+IRVINE CA 92614 UNITED STATES
+Applicant:  Arvetas Biosciences, Inc.
+Reference/Docket No. ARVTS.002T
+Correspondence Email Address:  efiling@knobbe.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a),2.65(a); TMEP §§711, 718.03.
+ 
+Summary of Issues: 
+Requirement - Identification of Goods / Recitation of Services
+•
+Requirement - Insufficient Fees
+•
+Requirement - Translation
+•
+ 
+1.  Advisory - Search for References DEFERRED: 
+The trademark examining attorney will defer a search of the USPTO database of registered and pending 
+marks for potentially conflicting marks until applicant responds to the issues raised in this Office 
+action. TMEP §704.02.
+ 
+2.  Requirement - Identification of Goods / Recitation of Services: 
+A written application must specify the particular goods and/or services on or in connection with which 
+the applicant uses, or has a bona fide intention to use, the mark in commerce.  15 U.S.C. §§1051(a)(2)  
+and 1051(b)(2); 37 C.F.R. §2.32(a)(6).  To "specify" means to name in an explicit manner.  The 
+identification should set forth common names, using terminology that is generally understood.  The 
+identification of goods and/or services must be specific, definite, clear, accurate, and concise.   See In 
+re Societe Generale des Eaux Minerales de Vittel S.A., 1 USPQ2d 1296 (TTAB 1986) , rev’d on other 
+grounds, 824 F.2d 957, 3 USPQ2d 1450 (Fed. Cir. 1987); The Procter & Gamble Co. v. Economics 
+Laboratory, Inc., 175 USPQ 505 (TTAB 1972), modified without opinion, 498 F.2d 1406, 181 USPQ 
+722 (C.C.P.A. 1974); In re Cardinal Laboratories, Inc., 149 USPQ 709 (TTAB 1966) ; California 
+Spray-Chemical Corp. v. Osmose Wood Preserving Co. of America, Inc., 102 USPQ 321 (Comm’r 
+Pats. 1954); Ex parte The A.C. Gilbert Co., 99 USPQ 344 (Comm’r Pats. 1953).  TMEP §1402.01. 
+ 
+As to International Class 001: 
+The wording “Diagnostic reagents and diagnostic reagents for analytical, scientific and industrial use” 
+in the identification of goods for International Class 001 must be clarified because it is unclear what 
+goods the applicant is providing. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.01, 1402.03. Specifically, 
+the wording "diagnostic reagents" is repeated in the identification.  Please delete the duplicate wording 
+for the record.  Additionally, this clause is written broadly enough to be for a medical purpose.  Please 
+note that diagnostic reagents for medical use are properly classified in Class 005. Specifically, the 
+wording "analytical" is unclear.  Applicant may state, "Diagnostic reagents for analytical, scientific 
+and industrial use, except for medical or veterinary use" in Class 001, if accurate.
+ 
+As to International Classes 009 and 042: 
+The wording “Downloadable or non-downloadable software” in the identification of goods and 
+recitation of services in Classes 009 and 042 must be clarified because it is too broad and could include 
+goods and/or services in other international classes. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.01, 
+1402.03. Specifically, software that is downloadable is properly classified in Class 009.  If applicant is 
+providing temporary use of on-line non-downloadable software, these services are properly classified in 
+Class 042.  For both forms of software, applicant must provide the purpose or function of the software 
+and its content or field of use, if content- or field- specific.  See 37 C.F.R. §2.32(a)(6); TMEP 
+§§1402.03(d), 1402.11(a). The USPTO requires such specificity in order for a trademark examining 
+attorney to examine the application properly and make appropriate decisions concerning possible 
+conflicts between the applicant’s mark and other marks. See In re N.A.D. Inc., 57 USPQ2d 1872, 1874 
+(TTAB 2000); TMEP §1402.03(d).
+ 
+As to International Class 009:The wording “imaging devices” in the identification of goods for International Class 009 must be 
+clarified because it is too broad and could include goods in other international classes. See 37 C.F.R. 
+§2.32(a)(6); TMEP §§1402.01, 1402.03.  For example, "imaging apparatus for the study of proteins for 
+agricultural purposes" are properly classified in Class 009, however, the wording "medical imaging 
+apparatus" is properly classified in Class 010.  Please clarify the wording "imaging devices" for the 
+record and classify appropriately. 
+ 
+The wording “imaging devices and related software, peripherals and accessories” in the identification 
+of goods for International Class 009 must be clarified because it is too broad and could include goods in 
+other international classes. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.01, 1402.03.  Specifically, as 
+discussed above, the wording "Imaging devices" is not acceptable.  The wording "related software, 
+peripherals and accessories" is also unacceptable.  Specifically, applicant must identify the format of 
+the software as well as the function or purpose of the software and classify the software appropriately.  
+Additionally, applicant must identify the peripherals and accessories by common commercial or 
+generic name and classify appropriately.  
+ 
+As to International Class 010: 
+The wording “medical imaging devices” in the identification of goods for International Class 010 must 
+be clarified. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.01, 1402.03. Specifically, for proper 
+classification in Class 010, applicant may state, "medical imaging apparatus" if accurate.
+ 
+The wording “medical imaging devices and related software, peripherals and accessories.” in the 
+identification of goods for International Class 010 must be clarified because it is too broad and could 
+include goods in other international classes. See 37 C.F.R. §2.32(a)(6); TMEP §§1402.01, 
+1402.03.  Specifically, the wording "medical imaging devices" is indefinite.  However, applicant may 
+state, "medical imaging apparatus" in Class 010, if accurate.  Additionally, the wording "related 
+software, peripherals and accessories" is also unacceptable.  Specifically, applicant must identify the 
+format of the software as well as the function or purpose of the software and classify the software 
+appropriately.  Additionally, applicant must identify the peripherals and accessories by common 
+commercial or generic name and classify appropriately. 
+ 
+Applicant may substitute the following wording, if accurate:  
+International Class 001:
+Diagnostic reagents for analytical, scientific and industrial use, except for medical or veterinary use; 
+Diagnostic reagents and preparations, except for medical or veterinary use; Diagnostic reagents for 
+scientific or research use.
+ 
+International Class 005:
+Diagnostic reagents for medical use; chemical reagents for medical diagnosis and analysis.
+ 
+International Class 009:
+Downloadable software for {please provide the function or purpose of the software, e.g., for 
+processing images, graphics and text; for downloading and organizing music files; for 
+authenticating user identification, etc.}; imaging apparatus for the study of proteins for 
+agricultural purposes; imaging apparatus for the study of proteins for agricultural purposes and 
+related 
+software, 
+namely, 
+downloadable 
+software 
+for 
+processing 
+digital 
+images, 
+computer peripherals and accessories, namely, {please identify the accessories by common 
+commercial or generic name}; Downloadable software for operating medical imaging apparatus.International Class 010:
+Medical apparatus and instrument for diagnostic use, namely, apparatus for medical diagnostic testing 
+in the fields of cancer or other tissue-based diagnostic testing, cytology and cell-based testing; medical 
+imaging apparatus. 
+ 
+International Class 042:
+Providing temporary use of online non-downloadable software for {please provide the function or 
+purpose of the software, e.g., for processing images, graphics and text; for downloading and 
+organizing music files; for authenticating user identification, etc.}. 
+ 
+Applicant’s goods and/or services may be clarified or limited, but may not be expanded beyond those 
+originally itemized in the application or as acceptably amended. See 37 C.F.R. §2.71(a); TMEP 
+§1402.06. Applicant may clarify or limit the identification by inserting qualifying language or deleting 
+items to result in a more specific identification; however, applicant may not substitute different goods 
+and/or services or add goods and/or services not found or encompassed by those in the original 
+application or as acceptably amended. See TMEP §1402.06(a)-(b). The scope of the goods and/or 
+services sets the outer limit for any changes to the identification and is generally determined by the 
+ordinary meaning of the wording in the identification. TMEP §§1402.06(b), 1402.07(a)-(b). Any 
+acceptable changes to the goods and/or services will further limit scope, and once goods and/or services 
+are deleted, they are not permitted to be reinserted. TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please see 
+the USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual. See 
+TMEP §1402.04.
+ 
+3.  Requirement - Insufficient Fee: 
+The application identifies goods and/or services that are classified in at least five classes; however, 
+applicant submitted a fee(s) sufficient for only one class. In a multiple-class application, a fee for each 
+class is required. 37 C.F.R. §2.86(a)(2), (b)(2); TMEP §§810.01, 1403.01. For more information about 
+adding classes to an application, see the Multiple-class Application webpage.
+ 
+Therefore, applicant must either (1) restrict the application to the number of classes covered by the fees 
+already paid, or (2) submit the fees for each additional class.
+ 
+The fee for adding classes to a TEAS Standard application is $350 per class. See 37 C.F.R. 
+§2.6(a)(1)(iii). For more information about adding classes to an application, see the Multiple-class 
+Application webpage.
+ 
+4.  Requirement - Translation: 
+To permit proper examination of the application, applicant must submit an English translation of the 
+foreign wording in the mark. 37 C.F.R. §§2.32(a)(9), 2.61(b); see TMEP §809.
+ 
+     The following is suggested: The English translation of “MOSAICA” in the mark is “MOSAIC”.
+ 
+TMEP §809.03. See attached translation evidence. To respond to this requirement for information, 
+open the appropriate Trademark Electronic Application System (TEAS) response form and enter the 
+serial number, answer “yes” to question 3, and provide the information on the “Additional 
+Statement(s)” page in the “Translation” text box(es) in the form.Applicant has a duty to respond directly and completely to this requirement for information. See In re 
+Ocean Tech., Inc., 2019 USPQ2d 450686, at *2 (TTAB 2019) (citing In re AOP LLC, 107 USPQ2d 
+1644, 1651 (TTAB 2013)); TMEP §814. Failure to comply with a requirement for information is an 
+independent ground for refusing registration. In re SICPA Holding SA, 2021 USPQ2d 613, at *6 
+(TTAB 2021) (citing In re Cheezwhse.com, Inc., 85 USPQ2d 1917, 1919 (TTAB 2008); In re DTI 
+P’ship LLP, 67 USPQ2d 1699, 1701-02 (TTAB 2003); TMEP §814).
+ 
+5.  Advisory - Assistance: 
+Please email the assigned trademark examining attorney at colleen.dombrow@uspto.gov with questions 
+about this Office action. Although an examining attorney cannot provide legal advice, the examining 
+attorney can provide additional explanation about the refusal(s) and/or requirement(s) in this Office 
+action. See TMEP §§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+PLEASE NOTE:  If applicant requires assistance navigating the online response form, applicant should 
+contact the Trademark Assistance Center at 571-272-9250.  The Examining Attorney cannot assist the 
+applicant with the online response form.
+ 
+6.  Advisory - How to Respond: 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Colleen Dombrow/
+Trademark Examining Attorney
+Law Office 101
+(571) 272-8262
+colleen.dombrow@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97118572
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: Colleen Dombrow
+Statistics for Case
+97118572
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97118572[sn]
+1
+0
+1
+1
+0:00
+2
+"arvetas biosciences"[on]
+1
+0
+1
+1
+0:00
+3
+*mosaica*[bi,ti] and live[ld]
+5
+0
+5
+5
+0:01
+4
+*mosaic*[bi,ti] and live[ld]
+431
+0
+431
+431
+0:01
+5
+*m{v1:2}{"szc"1:2}{v1:3}{"ckqx"}*[bi,ti] an
+d live[ld]
+7998
+0
+0
+0
+0:02
+6
+5 not 4
+7567
+0
+0
+0
+0:01
+7
+6 and ("001" "005" "009" "010")[cc]
+6137
+0
+0
+0
+0:01
+8
+6 and ("001" "005" "009" "010" "042" a b "20
+0")[ic]
+2122
+0
+35
+35
+0:02
+9
+6 and ("035" a b "200")[ic]
+1151
+0
+0
+0
+0:02
+Session started 08/23/2022 11:24 am
+Session ended 08/23/2022 3:59 pm
+Total search duration 10.00
+Session duration 4 hours 35 minutes 18 seconds
+Adjacency Level 1
+Near Level 1Note To The File
+MOSAICA
+Searched
+Google
+•
+Lexis Nexis
+•
+OneLook
+•
+Acronym Finder
+•
+wikipedia.org
+•
+Checked
+Geo. Sig.
+•
+Surname
+•
+Translation
+•
+ 
+Serial Number: 97118572  
+Date: 08/23/2022 11:38 am  
+Created by: Colleen Dombrow

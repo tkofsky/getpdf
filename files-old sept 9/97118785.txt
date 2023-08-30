@@ -1,0 +1,422 @@
+To:
+Peter J. Phillips(info@lmiplaw.com)
+Subject:
+U.S. Trademark Application Serial No. 97118785 - A PFINGST PRODUCT - 
+PF-19-TM
+Sent:
+August 28, 2022 04:31:07 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+screencapture-ahdictionary-com-word-search-html-16617178434491
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118785
+Mark:  A PFINGST PRODUCT
+Correspondence Address:  
+PETER J. PHILLIPS 
+LUCAS & MERCANTI, LLP 
+30 BROAD STREET 
+21ST FLOOR 
+NEW YORK NY 10004 UNITED STATES
+Applicant:  Pfingst & Company, Inc.
+Reference/Docket No. PF-19-TM
+Correspondence Email Address:  info@lmiplaw.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 28, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a), 
+2.65(a); TMEP §§711, 718.03.SEARCH OF USPTO DATABASE OF MARKS
+ 
+The trademark examining attorney has searched the USPTO database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d). 15 
+U.S.C. §1052(d); TMEP §704.02.
+ 
+SUMMARY OF ISSUES:
+ 
+    A.    Specimen Refusal -- Website Displays Are Not Point-of-Sale in Nature for Classes 8, 9, and 10
+    B.    Amended Identification of Goods and Services Required 
+    C.    Multiple-Class Application Requirements 
+    D.    Disclaimer Required 
+    E.    Amended Mark Description Required 
+ 
+A.    SPECIMEN REFUSAL -- WEBSITE DISPLAYS ARE NOT POINT-OF-SALE IN 
+NATURE FOR CLASSES 8, 9, AND 10
+ 
+This refusal applies to Classes 8, 9, and 10 and does not bar registration in the other class.
+ 
+Specimen is not an acceptable webpage display. Registration is refused because the specimen in 
+International Classes 8, 9, and 10 is not acceptable as a display associated with the goods and does not 
+show the applied-for mark as actually used in commerce. Trademark Act Sections 1 and 45, 15 U.S.C. 
+§§1051, 1127; 37 C.F.R. §2.56(a), (b)(1); see TMEP §§904, 904.03(g)-(i), 904.07(a). An application 
+based on Trademark Act Section 1(a) must include a specimen showing the applied-for mark as 
+actually used in commerce for each international class of goods identified in the application or 
+amendment to allege use. 15 U.S.C. §1051(a)(1); 37 C.F.R. §§2.34(a)(1)(iv), 2.56(a); TMEP §§904, 
+904.07(a).
+ 
+A webpage or catalog display specimen (1) must show use of the mark directly associated with the 
+goods and (2) such use must be of a point-of-sale nature. 37 C.F.R. §2.56(b)(1). This means that this 
+type of display specimen must include the following:
+ 
+(1)      A picture or sufficient textual description of the goods;
+ 
+(2)      The mark associated with the goods; and
+ 
+(3)      A means for ordering the goods such as a “shopping cart” button/link, an 
+order form, or a telephone number for placing orders.
+ 
+See In re Sones, 590 F.3d 1282, 1286-89, 93 USPQ2d 1118, 1122-24 (Fed. Cir. 2009); In re Azteca 
+Sys., Inc., 102 USPQ2d 1955, 1957-58 (TTAB 2012); In re Dell Inc., 71 USPQ2d 1725, 1727 (TTAB 
+2004); Lands’ End v. Manbeck, 797 F. Supp. 511, 514, 24 USPQ2d 1314, 1316 (E.D. Va. 1992); 
+TMEP §904.03(h), (i)-.03(i)(D).
+ 
+In this case, the specimen does not show sufficient means for ordering the goods. Specifically, while 
+the specimens show the applied-for mark and various goods, the specimens do not show any means by 
+which consumers may immediately consummate a purchase of the goods, such as a "shopping cart" 
+button/link, "Add to Cart" button, or "Buy Now" button.Accordingly, such material is mere advertising, which is not acceptable as a specimen for goods. See In 
+re Yarnell Ice Cream, LLC, 2019 USPQ2d 265039, at *15-16 (TTAB 2019) (quoting In re Siny Corp., 
+920 F.3d 1331, 1336, 2019 USPQ2d 127099, at *2-3 (Fed. Cir. 2019)); see also Avakoff v. S. Pac. Co., 
+765 F.2d 1097, 1098, 226 USPQ 435, 436 (Fed. Cir. 1985); TMEP §904.04(b), (c).
+ 
+Examples of specimens.  Specimens for goods include a photograph of (1) the actual goods bearing 
+the mark; (2) an actual container, packaging, tag or label for the goods bearing the mark; or (3) a point-
+of-sale display showing the mark directly associated with the goods.  See 37 C.F.R. §2.56(b)(1), (c); 
+TMEP §904.03(a)-(m).  As specified above, a webpage specimen submitted as a display associated 
+with the goods must show the mark in association with a picture or textual description of the goods and 
+include information necessary for ordering the goods.  TMEP §904.03(i); see 37 C.F.R. §2.56(b)(1), 
+(c).  Any webpage printout or screenshot submitted as a specimen must include the webpage’s URL 
+and the date it was accessed or printed on the specimen itself, within the TEAS form that submits the 
+specimen, or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. §1746 in a later-filed 
+response.  See 37 C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+Response options. Applicant may respond to this refusal by satisfying one of the following for each 
+applicable international class:
+ 
+(1)        Submit a different specimen (a verified “substitute” specimen) that (a) was 
+in actual use in commerce at least as early as the filing date of the application or prior to 
+the filing of an amendment to allege use and (b) shows the mark in actual use in commerce 
+for the goods identified in the application or amendment to allege use. A “verified 
+substitute specimen” is a specimen that is accompanied by the following statement made in 
+a signed affidavit or supported by a declaration under 37 C.F.R. §2.20: “The substitute (or 
+new, or originally submitted, if appropriate) specimen(s) was/were in use in commerce at 
+least as early as the filing date of the application or prior to the filing of the amendment to 
+allege use.” The substitute specimen cannot be accepted without this statement.
+ 
+(2)        Amend the filing basis to intent to use under Section 1(b) (which includes 
+withdrawing an amendment to allege use, if one was filed), as no specimen is required 
+before publication. This option will later necessitate additional fee(s) and filing 
+requirements, including a specimen.
+ 
+For an overview of the response options referenced above and instructions on how to satisfy these 
+options using the online Trademark Electronic Application System (TEAS) form, see the Specimen 
+webpage.
+ 
+ADVISORY -- APPLICANT'S OPTIONS WHEN REFUSAL APPLIES TO SPECIFIC CLASSES
+ 
+The stated refusal applies to Classes 8, 9, and 10 and does not bar registration in the other class.
+ 
+Applicant may respond to the stated refusal by submitting evidence and arguments against the refusal.  
+In addition, applicant may respond by doing one of the following:
+ 
+(1)  Deleting the classes to which the refusal pertains;
+ 
+(2)  Filing a Request to Divide Application form (form #3) to divide out the services that havenot been refused registration, so that the mark may proceed toward publication for opposition in 
+the class to which the refusal does not pertain.  See 37 C.F.R. §2.87.  See generally TMEP 
+§§1110 et seq. (regarding the requirements for filing a request to divide).  If applicant files a 
+request to divide, then to avoid abandonment, applicant must also file a timely response to all 
+outstanding issues in this Office action, including the refusal.  37 C.F.R. §2.87(e).; or
+ 
+(3)  Amending the basis for such classes, if appropriate.  TMEP §806.03(h).  (The basis cannot 
+be changed for applications filed under Trademark Act Section 66(a).  TMEP §1904.01(a).)
+ 
+If applicant responds to the refusal(s), applicant must also respond to the requirement(s) set forth 
+below.
+ 
+B.    AMENDED IDENTIFICATION OF GOODS AND SERVICES REQUIRED
+ 
+A written application must specify the particular goods and/or services on or in connection with which 
+the applicant uses, or has a bona fide intention to use, the mark in commerce. 15 U.S.C. §§1051(a)(2), 
+1051(b)(2); 37 C.F.R. §2.32(a)(6). To “specify” means to name in an explicit manner. TMEP §1402.01. 
+An identification that fails to identify the goods and services with specificity is indefinite, either 
+because the nature of the goods or services is not clear or because the wording is so broad that it may 
+include goods or services in more than one class. Id. The applicant must identify the goods and services 
+specifically to provide public notice and to enable the USPTO to classify the goods and services 
+properly and to reach informed judgments concerning likelihood of confusion under 15 U.S.C. 
+§1052(d). Id.
+ 
+International Class 8
+ 
+In this case, the entry for "tools for use in the field of metalworking by hobbyists" in International Class 
+8 is indefinite and too broad. This wording is indefinite because it does not clearly describe applicant's 
+goods. In addition, this wording could identify goods in more than one international class. Class 8 
+includes hand-operated tools and implements. Motor-driven tools, such as power tools, are usually in 
+Class 7. Thus, because a "tool for use in the field of metalworking by hobbyists" may be motor-driven 
+or hand-operated, this wording by itself is not sufficient to ensure proper classification. Applicant must 
+identify the particular tools using their common commercial or generic name. If the tool has no 
+common commercial or generic name, applicant must describe the tool(s), its main purpose, and its 
+intended uses.   
+ 
+International Class 9
+ 
+The entry for "tools for use in the field of jewelry" in International Class 9 is indefinite. Applicant must 
+specify the particular tools in Class 9 that it provides, using their common commercial or generic name. 
+If the tool has no common commercial or generic name, applicant must describe the tool(s), its main 
+purpose, and its intended uses.  
+ 
+International Class 10
+ 
+Similarly, the entry for "tools for use in the fields of dentistry, podiatry, and pedicure" is indefinite. 
+Applicant must specify the particular tools in Class 10 that it provides, using their common commercial 
+or generic name. If the tool has no common commercial or generic name, applicant must describe the 
+tool(s), its main purpose, and its intended uses.International Class 35
+ 
+The entries for "distributorship services in the fields of jeweler tools and equipment; dental tools and 
+equipment; podiatry tools and equipment; pedicure tools and equipment; and hobbyist tools and 
+equipment" are indefinite because it appears that applicant has incorrectly used semicolons instead of 
+commas to separate the various fields of its distributorship services.  
+ 
+Applicant must correct the punctuation in the identification to clarify the individual items in the list of 
+services. See 37 C.F.R. §2.32(a)(6); TMEP §1402.01(a). Proper punctuation in identifications is 
+necessary to delineate explicitly each product or service within a list and to avoid ambiguity. In general, 
+commas should be used in an identification (1) to separate a series of related items identified within a 
+particular category of goods or services, (2) before and after “namely,” and (3) between each item in a 
+list of goods or services following “namely” (e.g., personal care products, namely, body lotion, bar 
+soap, shampoo). Id. Semicolons generally should be used to separate a series of distinct categories of 
+goods or services within an international class (e.g., personal care products, namely, body lotion; 
+deodorizers for pets; glass cleaners). Id.
+ 
+Thus, applicant should replace the semicolons in this entry with commas, if appropriate.
+ 
+For each instance requiring additional clarification, the examining attorney has provided an example of 
+an acceptable amendment (or the format therefor) below.  If the suggestions below are not accurate, 
+applicant is encouraged to use the USPTO’s online Identification Manual (see ID Manual link below) 
+to search for acceptable wording to properly identify the intended goods and services.
+ 
+EXAMPLE IDENTIFICATION OF GOODS AND SERVICES:  The following is an example of an 
+acceptable identification of goods and services that applicant may adopt, if accurate (additions in bold).
+ 
+Class 7
+ 
+Power-operated tools for use in the field of metalworking by hobbyists, namely, {specify the 
+particular power tools in Class 7, e.g., bits for power drills} 
+ 
+Class 8
+ 
+Hand-operated tools for use in the field of metalworking by hobbyists, namely, {specify the 
+particular hand-operated tools in Class 8, e.g., files being hand-operated tools for smoothing 
+surfaces of metal} 
+ 
+Class 9
+ 
+Tools for use in the field of jewelry, namely, {specify the particular tools in Class 9, e.g., 
+jewelers loupes} 
+ 
+Class 10  
+ 
+Tools for use in the fields of dentistry, podiatry, and pedicure, namely, {specify the particular 
+tools in Class 10, e.g., dental burs}Class 35 
+ 
+Distributorship services in the fields of jeweler tools and equipment, dental tools and 
+equipment, podiatry tools and equipment, pedicure tools and equipment, and hobbyist tools and 
+equipment 
+ 
+NOTE:  Where brackets and bracketed guidance appear in the above example, input from applicant is 
+required.  Any amendments proposed by applicant in response to the requirement for an acceptable 
+identification of goods and/or services must not contain brackets.  
+ 
+SCOPE ADVISORY:  Applicant may amend the identification to clarify or limit the goods and/or 
+services, but not to broaden or expand the goods and/or services beyond those in the original 
+application or as acceptably amended.  See 37 C.F.R. §2.71(a); TMEP §1402.06.  Generally, any 
+deleted goods and/or services may not later be reinserted.  See TMEP §1402.07(e).
+ 
+ONLINE ID MANUAL:  For assistance with identifying and classifying goods and services in 
+trademark applications, please see the USPTO’s online searchable U.S. Acceptable Identification of 
+Goods and Services Manual.  See TMEP §1402.04.
+ 
+For information on how to identify the goods and services in an application, applicant is encouraged to 
+view the USPTO’s Trademark Information Network Video Number 6, “Goods and Services.”
+ 
+C.    MULTIPLE-CLASS APPLICATION REQUIREMENTS 
+ 
+The application references goods and/or services based on use in commerce in more than one 
+international class; therefore, applicant must satisfy all the requirements below for each international 
+class:
+ 
+(1)        List the goods and/or services by their international class number in 
+consecutive numerical order, starting with the lowest numbered class (for example, 
+International Class 3: perfume; International Class 18: cosmetic bags sold empty).
+ 
+(2)        Submit a filing fee for each international class not covered by the 
+fees already paid (view the USPTO’s current fee schedule). Specifically, the application 
+identifies goods and services based on use in commerce that are classified in at least five 
+classes; however, applicant submitted fees sufficient for only four classes. Applicant must 
+either (a) submit the filing fees for the classes not covered by the submitted fees or (b) 
+restrict the application to the number of classes covered by the fees already paid.
+ 
+(3)        Submit verified dates of first use of the mark anywhere and in commerce 
+for each international class. See more information about verified dates of use.
+ 
+(4)        Submit a specimen for each international class. The current specimen is 
+acceptable for Class 35; and applicant needs a specimen for Classes 7, 8, 9, and 10. See 
+more information about specimens.
+ 
+Examples of specimens.  Specimens for goods include a photograph of (1) the actual 
+goods bearing the mark; (2) an actual container, packaging, tag or label for the goods 
+bearing the mark; or (3) a point-of-sale display showing the mark directly associated withthe goods.  See 37 C.F.R. §2.56(b)(1), (c); TMEP §904.03(a)-(m).  A webpage specimen 
+submitted as a display associated with the goods must show the mark in association with a 
+picture or textual description of the goods and include information necessary for ordering 
+the goods.  TMEP §904.03(i); see 37 C.F.R. §2.56(b)(1), (c). 
+ 
+Specimens for services must show a direct association between the mark and the services 
+and include: (1) copies of advertising and marketing material, (2) a photograph of business 
+signage or billboards, or (3) materials showing the mark in the sale, rendering, or 
+advertising of the services.  See 37 C.F.R. §2.56(b)(2), (c); TMEP §1301.04(a), (h)(iv)(C). 
+ 
+Any webpage printout or screenshot submitted as a specimen must include the webpage’s 
+URL and the date it was accessed or printed on the specimen itself, within the TEAS form 
+that submits the specimen, or in a verified statement under 37 C.F.R. §2.20 or 28 U.S.C. 
+§1746 in a later-filed response. See 37 C.F.R. §2.56(c); TMEP §§904.03(i), 1301.04(a).
+ 
+(5)        Submit a verified statement that “The specimen was in use in commerce 
+on or in connection with the goods and/or services listed in the application at least as 
+early as the filing date of the application.” See more information about verification.
+ 
+See 37 C.F.R. §2.86(a); TMEP §§1403.01, 1403.02(c).
+ 
+For an overview of the requirements for a Section 1(a) multiple-class application and how to satisfy the 
+requirements online using the Trademark Electronic Application System (TEAS) form, see the 
+Multiple-class Application webpage.
+ 
+D.    DISCLAIMER REQUIRED 
+ 
+Applicant must disclaim the word “PRODUCT” because it is merely descriptive of a characteristic of 
+applicant’s goods and services.  See 15 U.S.C. §1052(e)(1); DuoProSS Meditech Corp. v. Inviro Med. 
+Devices, Ltd., 695 F.3d 1247, 1251, 103 USPQ2d 1753, 1755 (Fed. Cir. 2012); TMEP §§1213, 
+1213.03(a). 
+ 
+A “disclaimer” is a statement in the application record that an applicant does not claim exclusive rights 
+to an unregistrable component of the mark. See Schwarzkopf v. John H. Breck, Inc., 340 F.2d 978, 979-
+80, 144 USPQ 433, 433 (C.C.P.A. 1965); TMEP §1213. A disclaimer does not physically remove the 
+disclaimed matter from the mark or otherwise affect the appearance of the mark. See Schwarzkopf v. 
+John H. Breck, Inc., 340 F.2d at 979, 144 USPQ2d at 433; TMEP §1213.
+ 
+The word "PRODUCT" in the applied for mark means "an item that is made or refined and marketed: 
+farm products; soaps, detergents, and similar products." See attached definition from American 
+Heritage Dictionary.
+ 
+The application identifies applicant's goods as various tools and distributorship services in the field of 
+tools.
+ 
+Thus, the word "PRODUCT" merely describes a characteristic of applicant's goods and services 
+because applicant's tools are made or refined and marketed, and applicant's distributorship services 
+feature tools that are made or refined and marketed.Applicant may respond to this issue by submitting a disclaimer in the following format: 
+ 
+No claim is made to the exclusive right to use “PRODUCT” apart from the mark as shown. 
+ 
+For an overview of disclaimers and instructions on how to provide one using the Trademark Electronic 
+Application System (TEAS), see the Disclaimer webpage. 
+ 
+If applicant does not provide the required disclaimer, the USPTO may refuse to register the entire mark. 
+See In re Stereotaxis Inc., 429 F.3d 1039, 1041, 77 USPQ2d 1087, 1089 (Fed. Cir. 2005); TMEP 
+§1213.01(b).
+ 
+E.    AMENDED MARK DESCRIPTION REQUIRED
+ 
+Applicant must submit an amended description of the mark because the current one is incomplete and 
+does not describe all the significant aspects of the mark. 37 C.F.R. §2.37; see TMEP §§808.01, 808.02. 
+Descriptions must be accurate and identify all the literal and design elements in the mark. See 37 C.F.R. 
+§2.37; TMEP §§808 et seq.
+ 
+The following description is suggested, if accurate: The mark consists of a stylized design of a bur 
+head shape inside a single-line circle, which is surrounded by a shaded, incomplete circle with 
+breaks at the left and right sides. The wording "A PFINGST" appears in the top portion of the 
+shaded, incomplete circle, and the word "PRODUCT" appears in the bottom portion of the 
+shaded, incomplete circle. Several small dots appear in the center of the bur head shape, forming 
+incomplete circles and having the appearance of a spiral. 
+ 
+RESPONDING TO THIS OFFICE ACTION 
+ 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+How to respond.  Click to file a response to this nonfinal Office action./Todd Lewellen/
+Todd Lewellen
+Trademark Examining Attorney 
+Law Office 110
+(571) 272-3199
+todd.lewellen@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 28, 2022 for  
+U.S. Trademark Application Serial No.  97118785
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•

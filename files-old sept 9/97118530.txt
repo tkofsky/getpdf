@@ -1,0 +1,358 @@
+To:
+Dmitri Dubograev(info@legal-counsels.com)
+Subject:
+U.S. Trademark Application Serial No. 97118530 - HELPWIRE
+Sent:
+August 23, 2022 09:42:31 AM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97118530
+Mark:  HELPWIRE
+Correspondence Address:  
+Dmitri Dubograev 
+901 N. PITT STREET, STE 325 
+ALEXANDRIA VA 22314 UNITED STATES
+Applicant:  HELPWIRE
+Reference/Docket No. N/A
+Correspondence Email Address:  info@legal-counsels.com
+ 
+ 
+NONFINAL OFFICE ACTION
+ 
+The USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a), 
+2.65(a); TMEP §§711, 718.03.
+ 
+Search ResultsThe trademark examining attorney has searched the Office’s database of registered and pending marks 
+and has found no conflicting marks that would bar registration under Trademark Act Section 2(d).  
+TMEP §704.02; see 15 U.S.C. §1052(d).
+ 
+Summary of Issues 
+ 
+Request to Change Applicant Name--No Assignment Filed/Recorded
+Definite Identification of Goods and Services Requirement 
+ 
+Request to Change Applicant Name--No Assignment Filed/Recorded 
+ 
+Applicant has requested that the applicant name in the application be amended; however, applicant has 
+not provided or recorded in the USPTO database ownership transfer documentation or any other 
+documentation showing transfer of title. Therefore, the request to amend the applicant name is denied 
+until applicant establishes clear chain of title to the new party. 37 C.F.R. §2.61(b); TMEP §814.
+ 
+If the application was filed by the owner and the original applicant has since changed its name or 
+transferred ownership of the mark to another entity, the new owner must file documentation to establish 
+its current ownership of the application by satisfying one of the following:
+ 
+(1)        The new owner must (a) record an assignment, name change, or other 
+documentation affecting title with the USPTO’s Assignment Recordation Branch showing 
+a clear chain of title to the mark in the new owner; and (b) promptly notify the trademark 
+examining attorney that the documentation has been recorded.; OR
+ 
+(2)        The new owner must file either (a) a written statement, verified with an 
+affidavit or signed declaration under 37 C.F.R. §2.20, explaining in detail the chain of title 
+to the new owner; or (b) documentation showing transfer of title to the new owner. 
+However, the registration will not issue in the name of the new owner without recording 
+chain of title documentation with the USPTO and notifying the trademark examining 
+attorney, as specified in (1) above.
+ 
+TMEP §502.01; see 15 U.S.C. §1060; 37 C.F.R. §§2.193(e)(1), 3.73(b)(1); TMEP §502.02(a).
+ 
+Assignments and other documents affecting title may be filed electronically. There is a fee for 
+recording ownership changes. 37 C.F.R. §§2.6(b)(6), 3.41(a); TMEP §503.03(d). Recording an 
+assignment or other ownership transfer document does not constitute a response to an Office action. 
+TMEP §503.01(d). Applicant must still file a separate response to this Office action. See id.
+ 
+If the application was filed by the owner and there is an inadvertent error in the applicant’s name, such 
+as a minor typographical error or misspelling, or the name identifies a party that did not exist as of the 
+application filing date, the application may be amended to correct the applicant’s name.  TMEP 
+§1201.02(c).  In either case, applicant should include in the amendment request the reason for the 
+correction (such as “ABC Corporation did not exist as of the filing date of the application,” or 
+“Company” was inadvertently omitted from the applicant’s name in the application).  Id.
+ 
+Definite Identification of Goods and Services Requirement
+ 
+The identification of services in Class 38 is accepted.Wording in the identification of goods and services is (1) indefinite and must be clarified, (2) overbroad 
+in that it encompasses goods/services in more than one international classification and/or (3) 
+misclassified. See TMEP §1402.01. Please see suggested identification below for specific wording that 
+requires clarification and/or reclassification. Please note that bolded wording/punctuation indicates a 
+suggested addition(s)/amendment(s) to applicant’s current identification to make it definite.   In 
+addition, please note that the bracketed entries below require applicant to insert information. 
+ 
+Applicant may substitute the following wording, if accurate: 
+ 
+Class 09:  Downloadable software for connecting computer network users and remote technical support 
+specialists, providing remote technical support, maintaining and operating computer systems, 
+connecting remotely to computers or computer networks, remote monitoring and analysis of computer 
+systems and devices, searching the contents of computers and computer networks by remote control; 
+downloadable 
+software 
+for 
+remote 
+monitoring 
+and 
+analysis 
+of 
+computer 
+systems; 
+downloadable computer programs for searching the contents of computers, computer networks, 
+USB/COM and mobile devices by remote control and accessing data stored thereon and 
+transferring data to other devices; downloadable software for connecting remotely to USB/COM and 
+mobile devices, remote monitoring and analysis of USB/COM and mobile devices, and searching the 
+contents of USB/COM and mobile devices by remote control; providing information and consultation 
+in the fields of remote computer access regarding [specify, e.g., access to local area computer 
+networks]
+ 
+Class 42:  Providing online non-downloadable software for connecting computer network users and 
+remote technical support specialists, providing remote technical support, maintaining and operating 
+computer systems, connecting remotely to computers or computer networks, remote monitoring and 
+analysis of computer systems, and searching the contents of computers, computer networks, USB/COM 
+and mobile devices by remote control and accessing data stored thereon and transferring data to other 
+devices; design, development, and testing of computer software; computer software development in the 
+field of mobile, desktop, and web applications; providing information and consultation in the fields of 
+computer technology, software development, and remote computer access regarding [specify, e.g., 
+remote computer backup services, monitoring computer systems by remote access to ensure 
+proper functioning]; providing online non-downloadable software for connecting remotely to 
+USB/COM and mobile devices, remote monitoring and analysis of USB/COM and mobile devices, and 
+searching the contents of USB/COM and mobile devices by remote control
+ 
+Additions to Identification Not Permitted
+Applicant’s goods and/or services may be clarified or limited, but may not be expanded beyond those 
+originally itemized in the application or as acceptably amended.  See 37 C.F.R. §2.71(a); TMEP 
+§1402.06.  Applicant may clarify or limit the identification by inserting qualifying language or deleting 
+items to result in a more specific identification; however, applicant may not substitute different goods 
+and/or services or add goods and/or services not found or encompassed by those in the original 
+application or as acceptably amended.  See TMEP §1402.06(a)-(b).  The scope of the goods and/or 
+services sets the outer limit for any changes to the identification and is generally determined by the 
+ordinary meaning of the wording in the identification.  TMEP §§1402.06(b), 1402.07(a)-(b).  Any 
+acceptable changes to the goods and/or services will further limit scope, and once goods and/or services 
+are deleted, they are not permitted to be reinserted.  TMEP §1402.07(e).
+ 
+For assistance with identifying and classifying goods and services in trademark applications, please seethe USPTO’s online searchable U.S. Acceptable Identification of Goods and Services Manual.  See 
+TMEP §1402.04.
+ 
+To expedite prosecution of this trademark application, when amending the identification as required 
+above, the Office strongly encourages the applicant to select pre-approved wording contained within 
+this manual that accurately describes the goods and/or services therein.  Failure to do so may result in 
+delay.
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/William Verhosek/
+William Verhosek
+Trademark Examining Attorney 
+Law Office 114
+(571) 272-9464
+william.verhosek@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•United States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97118530
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•User: William Verhosek
+Statistics for Case
+97118530
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97118530[sn]
+1
+0
+1
+1
+0:00
+2
+helpwire[ow]
+1
+0
+1
+1
+0:00
+3
+"electronic team inc"[ow]
+4
+0
+4
+4
+0:01
+4
+*help*[bi,ti] and live[ld]
+3398
+0
+0
+0
+0:01
+5
+*w{"iy"}r*[bi,ti] and live[ld]
+3516
+0
+0
+0
+0:01
+6
+4 and 5
+4
+0
+4
+4
+0:00
+7
+4 and "009"[cc]
+2070
+0
+0
+0
+0:00
+8
+5 and "009"[cc]
+2462
+0
+0
+0
+0:01
+9
+(help helps)[bi,ti] and live[ld]
+1707
+0
+0
+0
+0:01
+10 9 and "009"[cc]
+1070
+0
+0
+0
+0:01
+11 9 and ("009" A B "200")[ic]
+190
+0
+190
+190
+0:02
+12 9 and ("035" A B "200")[ic]
+392
+0
+392
+392
+0:02
+13 9 and ("038" A B "200")[ic]
+26
+0
+26
+26
+0:01
+14 9 and ("042" A B "200")[ic]
+217
+0
+217
+217
+0:02
+15 (wire wires)[bi,ti] and live[ld]
+1432
+0
+0
+0
+0:02
+16 15 and "009"[cc]
+1011
+0
+0
+0
+0:01
+17 15 and ("009" A B "200")[ic]
+447
+0
+447
+447
+0:01
+18 15 and ("035" A B "200")[ic]
+211
+0
+211
+211
+0:02
+19 15 and ("038" A B "200")[ic]
+88
+0
+88
+88
+0:01
+20 15 and ("042" A B "200")[ic]
+226
+0
+226
+226
+0:01
+Session started 08/23/2022 8:58 am
+Session ended 08/23/2022 9:19 am
+Total search duration 21.00
+Session duration 20 minutes 53 seconds
+Adjacency Level 1
+Near Level 1

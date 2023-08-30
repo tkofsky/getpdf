@@ -1,0 +1,1247 @@
+User: Elissa Kon
+Statistics for Case
+97119347
+#
+Search
+Total 
+Marks
+Dead 
+Marks
+Live Viewed 
+Docs
+Live Viewed 
+Images
+Status/Search 
+Duration
+1
+97119347[sn]
+1
+0
+1
+1
+0:00
+2
+*{"ckq"}r{"iye"}at{"iy"}v*[bi,ti] not dead[ld]
+3521
+0
+0
+0
+0:01
+3
+*grav{v}{"t"1:2}{"iye"}*[bi,ti] not dead[ld]
+665
+0
+0
+0
+0:01
+4
+2 and 3
+2
+0
+2
+2
+0:00
+5
+3 and "035"[cc]
+280
+0
+144
+144
+0:01
+6
+5 and (a b "200" "035")[ic]
+71
+0
+71
+71
+0:00
+7
+5 not 6
+209
+0
+73
+73
+0:00
+8
+"creative"[ds] and "035"[ic] not dead[ld] and 1
+a[cb] and registrant[on]
+275
+0
+0
+0
+0:01
+9
+"creative"[ds] and "035"[ic] not dead[ld] and 1
+a[cb] and registrant[on] and ("marketing" "bran
+d" "branding" "market" "development")[gs]
+224
+0
+15
+15
+0:01
+10 2454166[rn]
+1
+0
+1
+1
+0:00
+11 ("business consultation serviecs in the field of b
+rand")[gs]
+0
+0
+0
+0
+0:00
+12 ("business consultation services in the field of b
+rand")[gs]
+40
+0
+2
+2
+0:02
+13
+("business consultation services in the field of b
+rand" "marketing")[gs] and ("project managem
+ent" "accounting" "business development")[gs] 
+and "035"[ic] not dead[ld] and 1a[cb]
+5868
+0
+2
+2
+0:02
+14
+("business consultation" and "brand" and "mark
+eting")[gs] and ("project management" "accoun
+ting" "business development")[gs] and "035"[i
+c] not dead[ld] and 1a[cb]
+388
+0
+27
+27
+0:01
+15
+("business consultation" and "brand" and "mark
+eting")[gs] and ("project management" "accoun
+ting" "business development")[gs] and "035"[i
+c] not dead[ld] and 1a[cb] and registrant[on]
+305
+0
+26
+26
+0:00
+16
+("business consultation" and "brand" and "mark
+eting")[gs] and ("project management" and "ac
+counting" and "business development")[gs] and 
+"035"[ic] not dead[ld] and 1a[cb] and registran
+t[on]
+60
+0
+16
+16
+0:00
+Session started 08/23/2022 3:03 pm
+Session ended 08/23/2022 4:43 pm
+Total search duration 10.00Session duration 1 hours 40 minutes 30 seconds
+Adjacency Level 1
+Near Level 1To:
+Leland J. Mack Jr., Esq.(leland@mackesq.com)
+Subject:
+U.S. Trademark Application Serial No. 97119347 - CREATIVE GRAVITY
+Sent:
+August 23, 2022 04:38:36 PM EDT
+Sent As:
+tmng.notices@uspto.gov
+Attachments
+2454166
+5944417
+6467615
+6176840
+5132424
+6557264
+6513275
+6490696
+6023033
+6711890
+6595051
+screencapture-www-ahdictionary-com-word-search-html-16612869396621
+United States Patent and Trademark Office (USPTO) 
+Office Action (Official Letter) About Applicant’s Trademark Application
+ 
+U.S. Application Serial No. 97119347
+Mark:  CREATIVE GRAVITY
+Correspondence Address:  
+LELAND J. MACK JR., ESQ. 
+MACK LAW PLLC 
+305 BROADWAY, 7TH FLOOR 
+NEW YORK NY 10007 UNITED STATES
+Applicant:  Creative Gravity Consulting, LLC
+Reference/Docket No. N/A
+Correspondence Email Address:  leland@mackesq.com
+ 
+ 
+NONFINAL OFFICE ACTIONThe USPTO must receive applicant’s response to this letter within six months of the issue date 
+below or the application will be abandoned.  Respond using the Trademark Electronic Application 
+System (TEAS).  A link to the appropriate TEAS response form appears at the end of this Office 
+action.  
+Issue date:  August 23, 2022
+The referenced application has been reviewed by the assigned trademark examining attorney. Applicant 
+must respond timely and completely to the issue(s) below. 15 U.S.C. §1062(b); 37 C.F.R. §§2.62(a), 
+2.65(a); TMEP §§711, 718.03.
+ 
+SUMMARY OF ISSUES:
+ 
+Likelihood of Confusion Refusal
+•
+Requirement to Comply with Domicile Requirements
+•
+Disclaimer Requirement
+•
+ 
+ 
+Likelihood of Confusion Refusal
+ 
+ 
+Registration of the applied-for mark is refused because of a likelihood of confusion with the mark in 
+U.S. Registration No. 2454166. Trademark Act Section 2(d), 15 U.S.C. §1052(d); see TMEP 
+§§1207.01 et seq. See the attached registration.
+ 
+Applicant's mark is CREATIVE GRAVITY for: International Class 035 -  Development of marketing 
+strategies, concepts and tactics, namely, audience development, brand awareness, online community 
+building and digital word of mouth communications; Social media strategy and marketing consultancy 
+focusing on helping clients create and extend their product and brand strategies by building virally 
+engaging marketing solutions; Providing marketing consulting in the field of social media; Providing 
+online business management services including accounting, marketing, business project management, 
+and business development. 
+ 
+The registered mark is GRAVITY BRANDING (with BRANDING disclaimed) for: International Class 
+035 - Business consultation services in the field of brand and marketing strategy.   
+ 
+Trademark Act Section 2(d) bars registration of an applied-for mark that is so similar to a registered 
+mark that it is likely consumers would be confused, mistaken, or deceived as to the commercial source 
+of the services of the parties. See 15 U.S.C. §1052(d). Likelihood of confusion is determined on a case-
+by-case basis by applying the factors set forth in In re E. I. du Pont de Nemours & Co., 476 F.2d 1357, 
+1361, 177 USPQ 563, 567 (C.C.P.A. 1973) (called the “du Pont factors”). In re i.am.symbolic, llc, 866 
+F.3d 1315, 1322, 123 USPQ2d 1744, 1747 (Fed. Cir. 2017). Any evidence of record related to those 
+factors need be considered; however, “not all of the DuPont factors are relevant or of similar weight in 
+every case.” In re Guild Mortg. Co., 912 F.3d 1376, 1379, 129 USPQ2d 1160, 1162 (Fed. Cir. 2019) 
+(quoting In re Dixie Rests., Inc., 105 F.3d 1405, 1406, 41 USPQ2d 1531, 1533 (Fed. Cir. 1997)).
+ 
+Although not all du Pont factors may be relevant, there are generally two key considerations in any 
+likelihood of confusion analysis: (1) the similarities between the compared marks and (2) the 
+relatedness of the compared services. See In re i.am.symbolic, llc, 866 F.3d at 1322, 123 USPQ2d at1747 (quoting Herbko Int’l, Inc. v. Kappa Books, Inc., 308 F.3d 1156, 1164-65, 64 USPQ2d 1375, 
+1380 (Fed. Cir. 2002)); Federated Foods, Inc. v. Fort Howard Paper Co., 544 F.2d 1098, 1103, 192 
+USPQ 24, 29 (C.C.P.A. 1976) (“The fundamental inquiry mandated by [Section] 2(d) goes to the 
+cumulative effect of differences in the essential characteristics of the [services] and differences in the 
+marks.”); TMEP §1207.01.
+ 
+Comparison of the Marks 
+ 
+Marks are compared in their entireties for similarities in appearance, sound, connotation, and 
+commercial impression. Stone Lion Capital Partners, LP v. Lion Capital LLP, 746 F.3d 1317, 1321, 
+110 USPQ2d 1157, 1160 (Fed. Cir. 2014) (quoting Palm Bay Imps., Inc. v. Veuve Clicquot Ponsardin 
+Maison Fondee En 1772, 396 F.3d 1369, 1371, 73 USPQ2d 1689, 1691 (Fed. Cir. 2005)); TMEP 
+§1207.01(b)-(b)(v). “Similarity in any one of these elements may be sufficient to find the marks 
+confusingly similar.” In re Inn at St. John’s, LLC, 126 USPQ2d 1742, 1746 (TTAB 2018) (citing In re 
+Davia, 110 USPQ2d 1810, 1812 (TTAB 2014)), aff’d per curiam, 777 F. App’x 516, 2019 BL 343921 
+(Fed. Cir. 2019); TMEP §1207.01(b).
+ 
+In this case, the marks are similar because both marks feature the identical common term 
+GRAVITY.  Marks may be confusingly similar in appearance where similar terms or phrases or similar 
+parts of terms or phrases appear in the compared marks and create a similar overall commercial 
+impression. See Crocker Nat’l Bank v. Canadian Imperial Bank of Commerce, 228 USPQ 689, 690-91 
+(TTAB 1986), aff’d sub nom. Canadian Imperial Bank of Commerce v. Wells Fargo Bank, Nat’l Ass’n, 
+811 F.2d 1490, 1495, 1 USPQ2d 1813, 1817 (Fed. Cir. 1987) (holding COMMCASH and 
+COMMUNICASH confusingly similar); In re Corning Glass Works, 229 USPQ 65, 66 (TTAB 1985) 
+(holding CONFIRM and CONFIRMCELLS confusingly similar); In re Pellerin Milnor Corp., 221 
+USPQ 558, 560 (TTAB 1983) (holding MILTRON and MILLTRONICS confusingly similar); TMEP 
+§1207.01(b)(ii)-(iii).  
+ 
+GRAVITY is the dominant term in each mark. In the applicant's mark, the descriptive word 
+CREATIVE modifies GRAVITY. Although marks are compared in their entireties, one feature of a 
+mark may be more significant or dominant in creating a commercial impression. See In re Detroit 
+Athletic Co., 903 F.3d 1297, 1305, 128 USPQ2d 1047, 1050 (Fed. Cir. 2018) (citing In re Dixie Rests., 
+105 F.3d 1405, 1407, 41 USPQ2d 1531, 1533-34 (Fed. Cir. 1997)); TMEP §1207.01(b)(viii), (c)(ii). 
+Greater weight is often given to this dominant feature when determining whether marks are confusingly 
+similar. See In re Detroit Athletic Co., 903 F.3d at 1305, 128 USPQ2d at 1050 (citing In re Dixie Rests., 
+105 F.3d at 1407, 41 USPQ2d at 1533-34).
+ 
+Comparison of the Services 
+ 
+The services are compared to determine whether they are similar, commercially related, or travel in the 
+same trade channels. See Coach Servs., Inc. v. Triumph Learning LLC, 668 F.3d 1356, 1369-71, 101 
+USPQ2d 1713, 1722-23 (Fed. Cir. 2012); Herbko Int’l, Inc. v. Kappa Books, Inc., 308 F.3d 1156, 1165, 
+64 USPQ2d 1375, 1381 (Fed. Cir. 2002); TMEP §§1207.01, 1207.01(a)(vi).
+ 
+In this case, the services are related because both feature consultation to businesses about brand and 
+marketing strategies.  The registrant's listed services are broad enough to encompass the applicant's 
+services that focus on social media strategies.  Determining likelihood of confusion is based on the 
+description of the goods and/or services stated in the application and registration at issue, not on 
+extrinsic evidence of actual use.  See In re Detroit Athletic Co., 903 F.3d 1297, 1307, 128 USPQ2d1047, 1052 (Fed. Cir. 2018) (citing In re i.am.symbolic, llc, 866 F.3d 1315, 1325, 123 USPQ2d 1744, 
+1749 (Fed. Cir. 2017)).  
+ 
+In this case, the registration(s) use(s) broad wording to describe business consultation in the field of 
+brand and marketing strategy, which presumably encompasses all goods and/or services of the type 
+described, including applicant’s more narrow consultation and marketing strategy development that 
+focuses on social media.  See, e.g., In re Solid State Design Inc., 125 USPQ2d 1409, 1412-15 (TTAB 
+2018); Sw. Mgmt., Inc. v. Ocinomled, Ltd., 115 USPQ2d 1007, 1025 (TTAB 2015).  Thus, applicant’s 
+and registrant’s services are legally identical.  See, e.g., In re i.am.symbolic, llc, 127 USPQ2d 1627, 
+1629 (TTAB 2018) (citing Tuxedo Monopoly, Inc. v. Gen. Mills Fun Grp., Inc., 648 F.2d 1335, 1336, 
+209 USPQ 986, 988 (C.C.P.A. 1981); Inter IKEA Sys. B.V. v. Akea, LLC, 110 USPQ2d 1734, 1745 
+(TTAB 2014); Baseball Am. Inc. v. Powerplay Sports Ltd., 71 USPQ2d 1844, 1847 n.9 (TTAB 2004)).
+ 
+Additionally, the goods and/or services of the parties have no restrictions as to nature, type, channels of 
+trade, or classes of purchasers and are “presumed to travel in the same channels of trade to the same 
+class of purchasers.”  In re Viterra Inc., 671 F.3d 1358, 1362, 101 USPQ2d 1905, 1908 (Fed. Cir. 
+2012) (quoting Hewlett-Packard Co. v. Packard Press, Inc., 281 F.3d 1261, 1268, 62 USPQ2d 1001, 
+1005 (Fed. Cir. 2002)).  Thus, applicant’s and registrant’s goods and/or services are related.
+ 
+Further, the applicant's business management services including accounting, marketing, business 
+project management, and business development services are closely related to the registrant's business 
+consulting int he field of brand and marketing strategy because they are the types of services provided 
+from the same sources int he marketplace.The trademark examining attorney has attached evidence 
+from the USPTO’s X-Search database consisting of a number of third-party marks registered for use in 
+connection with the same or similar goods and/or services as those of both applicant and registrant in 
+this case. This evidence shows that the goods and/or services listed therein, namely business 
+consultation, branding marketing, as well as business development, accounting and project 
+management consultation, are of a kind that may emanate from a single source under a single mark. See 
+In re I-Coat Co., 126 USPQ2d 1730, 1737 (TTAB 2018) (citing In re Infinity Broad. Corp., 60 
+USPQ2d 1214, 1217-18 (TTAB 2001); In re Albert Trostel & Sons Co., 29 USPQ2d 1783, 1785-86 
+(TTAB 1993); In re Mucky Duck Mustard Co., 6 USPQ2d 1467, 1470 n.6 (TTAB 1988)); TMEP 
+§1207.01(d)(iii).  
+ 
+Therefore, upon encountering these marks used for  the listed services, consumers are likely to be 
+confused and mistakenly believe the respective services emanate from a common source. 
+Consequently, registration is refused under Section 2(d).
+ 
+Although applicant’s mark has been refused registration, applicant may respond to the refusal(s) by 
+submitting evidence and arguments in support of registration. However, if applicant responds to the 
+refusal(s), applicant must also respond to the requirement(s) set forth below.
+ 
+ 
+Requirement to Comply with Domicile Requirements
+ 
+ Applicant must clarify its domicile street address because the domicile address of record is for a 
+third-party commercial mail receiving agency and does not appear to be applicant’s permanent legal 
+place of residence or principal place of business. See 37 C.F.R. §§2.11(b), 2.189; TMEP §601.01(b)(1). 
+A domicile address must identify either (1) the permanent legal place of residence, which is the place 
+an individual applicant resides and intends to be the applicant’s principal home; or (2) the principalplace of business, which is the juristic applicant’s headquarters where its senior executives or officers 
+ordinarily direct and control the entity’s activities.  See 37 C.F.R. §2.2(o)-(p); TMEP §803.05(a).
+ 
+Applications must include an applicant’s domicile address because such domicile determines whether 
+an applicant is required to have a U.S.-licensed attorney represent it before the USPTO. See 37 C.F.R. 
+§§2.11(a), 2.32(a)(2); TMEP §§601, 803.05. An applicant whose domicile is located outside of the 
+United States or its territories must be represented at the USPTO by an attorney who is an active 
+member in good standing of the bar of the highest court of a U.S. state or territory. 37 C.F.R. §2.11(a); 
+TMEP §601.01(a).
+ 
+In this case, the application lists applicant as a juristic entity and specifies applicant’s domicile address 
+as follows: 34 Shining Willow Way #204, La Plata, MD. This address has been identified as a 
+commercial mail receiving agency by the U.S. Postal Service Coding Accuracy Support System 
+(CASS) and thus does not appear to be applicant’s headquarters where its senior executives or officers 
+ordinarily direct and control the entity’s activities. See 37 C.F.R. §2.2(o)-(p); TMEP §601.01(b)(1). A 
+commercial mail receiving agency is a private business that accepts mail from the U.S. Postal Service 
+on behalf of third parties.
+ 
+Response options. Applicant must provide its domicile street address. See 37 C.F.R. §§2.32(a)(2), 
+2.189; TMEP §803.05. Alternatively, applicant may provide (1) documentation showing that the listed 
+U.S. domicile address is, in fact, applicant’s domicile, or (2) a detailed explanation supporting that 
+applicant has no fixed physical address. See 37 C.F.R. §2.11(b); TMEP §§601.01(b)-(b)(1), 803.05.
+ 
+If applicant amends the application to list a domicile street address located outside of the United States 
+or its territories, applicant must appoint a U.S.-licensed attorney qualified under 37 C.F.R. §11.14 as its 
+representative before the application may proceed to registration. See 37 C.F.R. §2.11(a); TMEP 
+§601.01(a). See Hiring a U.S.-licensed trademark attorney for more information. However, if applicant 
+establishes its domicile street address is located within the United States or its territories, applicant is 
+not required to appoint a qualified U.S.-licensed attorney. See TMEP §601.01(b).
+ 
+To provide applicant’s domicile street address. After opening the correct Trademark Electronic 
+Application System (TEAS) response form and entering the serial number, (1) answer “yes” to question 
+5 and click “Continue;” (2) on the “Owner Information” page, in the “Domicile Address” field, 
+uncheck the box stating the domicile and mailing address are not the same; and (3) below the checkbox 
+provide applicant’s domicile street address. Applicant’s domicile street address will be hidden from 
+public view if it is entered into the “Domicile Address” field. However, any street address listed in the 
+“Mailing Address” field will be publicly viewable.
+ 
+To provide documentation to support a U.S. domicile address. Applicant should provide the most 
+recent documentation showing that the address is the applicant’s business headquarters, for example 
+one of the following: (1) the most recent final annual or quarterly report or other similar report; or (2) a 
+current, valid signed rental, lease, or mortgage agreement for office space. TMEP §601.01(b)-(b)(1); 
+see 37 C.F.R. §2.11(b). Submitted documentation must show the name, listed domicile address, and the 
+date of the document but should redact other personal and financial information.
+ 
+To provide this documentation, open the correct TEAS response form and enter the serial number, 
+answer “yes” to question 3, and on the “Additional Statement(s)” page, below the “Miscellaneous 
+Statement” field, click the button below the text box to attach documentation to support the U.S. street 
+address.To provide a detailed explanation that applicant has no fixed physical address. If applicant has no 
+physical headquarters where its senior executives or officers ordinarily direct and control the business 
+(e.g., because the business is conducted virtually), applicant should state for the record that applicant 
+has no fixed physical address and provide a detailed explanation of the circumstances.
+ 
+To provide this explanation, open the correct TEAS response form and enter the serial number, answer 
+“yes” to question 3, and on the “Additional Statement(s)” page, in the “Miscellaneous Statement” field, 
+enter the referenced explanation in the text box.
+ 
+To appoint a U.S.-licensed attorney in this application, applicant should submit a completed TEAS 
+Change Address or Representation form.  The newly-appointed attorney must submit a TEAS Response 
+to Examining Attorney Office Action form indicating that an appointment of attorney has been made 
+and address all other refusals or requirements in this action, if any.  Alternatively, if applicant retains an 
+attorney before filing the response, the attorney can respond to this Office action by using the 
+appropriate TEAS response form and provide his or her attorney information in the form and sign it as 
+applicant’s attorney.  See 37 C.F.R. §2.17(b)(1)(ii); TMEP §604.01.
+ 
+ 
+Disclaimer Requirement
+ 
+Applicant must disclaim the wording “CREATIVE” because it is merely descriptive of an ingredient, 
+quality, characteristic, function, feature, purpose, or use of applicant’s goods and/or services.  See 15 
+U.S.C. §1052(e)(1); DuoProSS Meditech Corp. v. Inviro Med. Devices, Ltd., 695 F.3d 1247, 1251, 103 
+USPQ2d 1753, 1755 (Fed. Cir. 2012); TMEP §§1213, 1213.03(a). 
+ 
+A “disclaimer” is a statement in the application record that an applicant does not claim exclusive rights 
+to an unregistrable component of the mark. See Schwarzkopf v. John H. Breck, Inc., 340 F.2d 978, 979-
+80, 144 USPQ 433, 433 (C.C.P.A. 1965); TMEP §1213. A disclaimer does not physically remove the 
+disclaimed matter from the mark or otherwise affect the appearance of the mark. See Schwarzkopf v. 
+John H. Breck, Inc., 340 F.2d at 979, 144 USPQ2d at 433; TMEP §1213.
+ 
+CREATIVE is defined as "characterized by originality and expressiveness; imaginative." See attached 
+definitions. This is a common, descriptive term used by others in the marketing industry to describe the 
+nature of creative work they perform for clients. The examining attorney has attached sample 
+registrations form the Office's database of registered marks in which CREATIVE was disclaimed for 
+related services, which shows descriptive use by others in this industry. Thus, the wording merely 
+describes a feature of the applicant’s  services.
+ 
+Applicant may respond to this issue by submitting a disclaimer in the following format: 
+ 
+No claim is made to the exclusive right to use “CREATIVE” apart from the mark as 
+shown. 
+ 
+For an overview of disclaimers and instructions on how to provide one using the Trademark Electronic 
+Application System (TEAS), see the Disclaimer webpage. 
+ 
+ Legal assistance advisory. Because of the legal technicalities and strict deadlines of the trademark 
+application process, applicant is encouraged to hire a private attorney who specializes in trademarkmatters to assist in this process. The assigned trademark examining attorney can provide only limited 
+assistance explaining the content of an Office action and the application process. USPTO staff cannot 
+provide legal advice or statements about an applicant’s legal rights. TMEP §§705.02, 709.06. See 
+Hiring a U.S.-licensed trademark attorney for more information.
+ 
+Response guidelines. For this application to proceed, applicant must explicitly address each refusal 
+and/or requirement in this Office action. For a refusal, applicant may provide written arguments and 
+evidence against the refusal, and may have other response options if specified above. For a 
+requirement, applicant should set forth the changes or statements. Please see “Responding to Office 
+Actions” and the informational video “Response to Office Action” for more information and tips on 
+responding.
+ 
+Please call or email the assigned trademark examining attorney with questions about this Office action. 
+Although an examining attorney cannot provide legal advice, the examining attorney can provide 
+additional explanation about the refusal(s) and/or requirement(s) in this Office action. See TMEP 
+§§705.02, 709.06.
+ 
+The USPTO does not accept emails as responses to Office actions; however, emails can be used for 
+informal communications and are included in the application record. See 37 C.F.R. §§2.62(c), 2.191; 
+TMEP §§304.01-.02, 709.04-.05.
+ 
+How to respond.  Click to file a response to this nonfinal Office action.
+ 
+ 
+/Elissa Garber Kon/
+Trademark Examining Attorney 
+Law Office 106
+(571) 272-9181
+elissagarber.kon@uspto.gov
+ 
+ 
+RESPONSE GUIDANCE
+Missing the response deadline to this letter will cause the application to abandon.  The 
+response must be received by the USPTO before midnight Eastern Time of the last day of the 
+response period.  TEAS maintenance or unforeseen circumstances could affect an applicant’s 
+ability to timely respond.
+•
+Responses signed by an unauthorized party are not accepted and can cause the application to 
+abandon.  If applicant does not have an attorney, the response must be signed by the individual 
+applicant, all joint applicants, or someone with legal authority to bind a juristic applicant.  If 
+applicant has an attorney, the response must be signed by the attorney.
+•
+If needed, find contact information for the supervisor of the office or unit listed in the 
+signature block.
+•Print: Tue Aug 23 2022
+75885246
+(1) TYPED DRAWING
+GRAVITY BRANDING
+Mark Punctuated
+GRAVITY BRANDING
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Business consultation services in the field of brand and marketing 
+strategy. FIRST USE: 20000101. FIRST USE IN COMMERCE: 20000101
+•
+Mark Drawing Code
+(1) TYPED DRAWING
+Design Code
+Serial Number
+75885246
+Filing Date
+20000107
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20000912
+Registration Number
+2454166
+Date Registered
+20010522
+Owner
+(REGISTRANT) Saenz, Edward INDIVIDUAL UNITED STATES #127 22 Skylark Drive Larkspur 
+CALIFORNIA 94939
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "BRANDING" APART FROM THE MARK 
+AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+RegisterPRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Angela C. WilcoxPrint: Tue Aug 23 2022
+87010148
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+CREATIVE FACTOR
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Business consulting services, namely, providing assistance in 
+development of business strategies and creative ideation. FIRST USE: 20191000. FIRST USE IN 
+COMMERCE: 20191000
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+87010148
+Filing Date
+20160422
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20160913
+Registration Number
+5944417
+Date Registered
+20191224
+Owner
+(REGISTRANT) Williams, Bartholomew R INDIVIDUAL UNITED STATES 2420 Skyline Drive West Bend 
+WISCONSIN 53090
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "CREATIVE" APART FROM THE MARK 
+AS SHOWN
+Description of Mark
+Type of MarkSERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Steven WeiglerPrint: Tue Aug 23 2022
+90301030
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Mark Punctuated
+CREATIVE MEDIA ENTERPRISES
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Advertising, marketing and promotion services; Marketing consulting; 
+Marketing research. FIRST USE: 20110523. FIRST USE IN COMMERCE: 20110523
+•
+IC 042. US 100 101.G & S: Computer graphics design services; Computer services, namely, designing 
+and implementing web sites for others; Consulting services in the field of architectural design; Graphic 
+design services; Multidisciplinary graphic design services; Multidisciplinary visual design services; 
+Providing graphic and multimedia design services for the purpose of promoting the goods and services of 
+others; Visual design services in the nature of designing visual elements for on-line, broadcast, print, 
+outdoor and other communication media. FIRST USE: 20110523. FIRST USE IN COMMERCE: 
+20110523
+•
+Mark Drawing Code
+(3) DESIGN PLUS WORDS, LETTERS, AND/OR NUMBERS
+Design Code
+010702 011524 021107 260921 261709
+Serial Number
+90301030
+Filing Date
+20201105
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20210615
+Registration Number
+6467615
+Date Registered
+20210831Owner
+(REGISTRANT) Creative Media Enterprises, LLC DBA Creative Media Enterprises LIMITED LIABILITY 
+COMPANY NEW YORK 206A Dryden Road, #402 Ithaca NEW YORK 14850
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "CREATIVE MEDIA ENTERPRISES" 
+APART FROM THE MARK AS SHOWN
+Description of Mark
+The mark consists of a shaded square with the words "CREATIVE MEDIA ENTERPRISES" written in capital 
+letters. Below the square is a globe with meridians and parallels only. Curved lines radiate from the left and 
+right sides of the globe and form a stand underneath the globe.
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Hayden R. Brainard, Jr.Print: Tue Aug 23 2022
+88978620
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+CREATIVE FACTORY
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Advertising services; Marketing consulting; Marketing services; 
+Business marketing consulting services; Creative marketing design services; Rental of office equipment 
+in co-working facilities. FIRST USE: 20200210. FIRST USE IN COMMERCE: 20200210
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+88978620
+Filing Date
+20190121
+Current Filing Basis
+1A
+Original Filing Basis
+1B
+Publication for Opposition Date
+20190528
+Registration Number
+6176840
+Date Registered
+20201013
+Owner
+(REGISTRANT) John Gadd INDIVIDUAL UNITED STATES Floor 2 22 N. Main Street Chagrin Falls OHIO 
+44022
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "CREATIVE" APART FROM THE MARK 
+AS SHOWN
+Description of Mark
+Type of MarkSERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Nathan Gugliotta, Esq.Print: Tue Aug 23 2022
+87057955
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+CREATIVE MARKETING SPOT
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Digital marketing consultation services, namely, creative and strategic 
+consultation regarding development and production of marketing campaigns for others in the field of the 
+creation and management of social media marketing, web log marketing, marketing via branded content 
+and brand forums with the following all being available via all digital media used by consumers to 
+interact with brands; Public relations services; advertising and marketing services, namely, promoting the 
+goods, services, brand identity and commercial information and news of third parties through print, audio, 
+video, digital and online mediums; Branding services, namely, consulting, development, management, 
+and marketing of brands for businesses and individuals; Brand concept and brand development services 
+for corporate and individual clients; Providing marketing consulting in the field of social media; Market 
+research; Preparing advertisements for others, namely, preparing video advertising and promotional 
+videos for commercial use. FIRST USE: 20160512. FIRST USE IN COMMERCE: 20160516
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+87057955
+Filing Date
+20160602
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20161115
+Registration Number
+5132424
+Date Registered
+20170131
+Owner
+(REGISTRANT) Francisco Martinez DBA Creative Marketing Spot INDIVIDUAL UNITED STATES 14145 
+Peachtree Lane Poway CALIFORNIA 92064Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "CREATIVE MARKETING" APART FROM 
+THE MARK AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Eric LovellPrint: Tue Aug 23 2022
+90556366
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+YOUR MARKETING COACH
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Market analysis; Market analysis and research services; Market 
+assessment services; Market reports and studies; Market research; Market research and market 
+intelligence services; Market research and business analyses; Market research consultation; Market 
+research services; Market research studies; Market segmentation consultation; Market study and analysis 
+of market studies; Marketing advisory services; Marketing analysis services; Marketing consulting; 
+Marketing consulting, namely, development of marketing campaigns for others; Marketing plan 
+development; Marketing research; Marketing research services; Marketing services; Marketing services 
+in the nature of promotion of third-party goods and services by social media influencers; Marketing 
+services, namely, conducting consumer tracking behavior research and consumer trend analysis; 
+Marketing the goods and services of others; Advertising agencies specializing in marketing strategies to 
+promote businesses; Advertising agency specializing in the development and execution of word of mouth, 
+viral, buzz and experiential marketing programs; Advertising and marketing; Advertising and marketing 
+consultancy; Advertising and marketing services provided by means of indirect methods of marketing 
+communications, namely, social media, search engine marketing, inquiry marketing, internet marketing, 
+mobile marketing, blogging and other forms of passive, sharable or viral communications channels; 
+Advertising and marketing services, namely, promoting the goods and services of others; Advertising 
+services, namely, promoting and marketing the goods and services of others through all public 
+communication means; Advice in the field of business management and marketing; Assistance, advisory 
+services and consultancy with regard to business planning, business analysis, business management, 
+business organization, marketing and customer analysis; Business marketing consulting services; 
+Business marketing services; Business consultation and management regarding marketing activities and 
+launching of new products; Business management consulting with relation to strategy, marketing, 
+production, personnel and retail sale matters; Business to business direct marketing services; Collection 
+of market research information; Conducting market surveys; Conducting marketing studies; Consultation 
+services, namely, creative and strategic consultation regarding development and production of marketing 
+campaigns for others; Consulting services in the field of marketing of educational training; Consulting 
+services in the field of internet marketing; Creative marketing plan development services; Custom writing 
+services comprising public relations and marketing materials for the audio, video and technology 
+industries; Development of marketing concepts; Development of marketing strategies and concepts; 
+Development of marketing strategies, concepts and tactics, namely, audience development, brand 
+awareness, online community building and digital word of mouth communications; Direct marketing 
+consulting services; Direct marketing services; On-line advertising and marketing services; On-line 
+customer-based social media brand marketing services; Planning, development, maintenance, tracking 
+and reporting of online marketing activities for third parties; Preparation of marketing surveys; Preparing 
+audiovisual presentations for use in marketing; Promoting and marketing the goods and services of others 
+•by distributing advertising material, coupons and discount offers via text messages; Promoting the goods 
+and services of others by means of word-of-mouth and nontraditional marketing programs; Promoting, 
+marketing and advertising the brands and goods of others related to all industries, through all public and 
+private communication means, namely, promoting the brands and goods of others made in the United 
+States; Promoting, advertising and marketing of the brands, products, services and online websites of 
+individuals, businesses and nonprofit organizations; Promoting, advertising and marketing on-line web 
+sites of others; Providing advertising, marketing and promotional services, namely, development of 
+advertising campaigns provided through cable television broadcast, web casts, radio broadcasts, 
+newspapers, magazines, online banners, outdoor billboards, wild postings, bus and subway ads; Providing 
+information in the field of marketing; Providing online business management services including 
+accounting, marketing, business project management, and business development; Provision of market 
+research information; Provision of marketing reports; Provision of technical information in the field of 
+marketing; Social media strategy and marketing consultancy focusing on helping clients create and 
+extend their product and brand strategies by building virally engaging marketing solutions; Statistical 
+evaluations of marketing data; Targeted marketing services; Technical consulting in the field of 
+marketing. FIRST USE: 20210301. FIRST USE IN COMMERCE: 20210301
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+90556366
+Filing Date
+20210302
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+Registration Number
+6557264
+Date Registered
+20211109
+Owner
+(REGISTRANT) Angelica Productions DBA JustAdMe CORPORATION CALIFORNIA 2142 Hathaway Ave 
+#2 Long Beach CALIFORNIA 90815
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "MARKETING COACH" APART FROM 
+THE MARK AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+RegisterSUPPLEMENTAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Theodore SievingPrint: Tue Aug 23 2022
+88946894
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+ROI PROJECT
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Advice relating to the organisation and management of business; 
+Assistance and advice regarding business organization and management; Brand imagery consulting 
+services; Branding services, namely, consulting, development, management and marketing of brands for 
+businesses and/or individuals; Business consulting services in business leadership development and 
+business management; Business consulting services in the field of organizational change management; 
+Business management consultancy as well as development of processes for the analysis and the 
+implementation of strategy plans and management projects; Business marketing consulting services; 
+Business organisation and management consulting services; Business organization advice; Business 
+organization consultancy; Business organization and management consultancy including personnel 
+management; Business organization and management consulting; Business organization and operation 
+consultancy; Business organizational consultation; Business strategic planning services; Business strategy 
+development services; Business consultation in the field of business leadership development; Business 
+management and enterprise organization consultancy; Business management and organization 
+consultancy; Business management consultation in the field of executive and leadership development; 
+Consulting services in business organization and management; Consulting services in the fields of 
+business management, human resources, and business organizational design; Human resource analysis 
+and consulting services; Management consulting and advisory services in the areas of corporate growth 
+strategy, innovation and growth processes, organizational transformation, and talent management and 
+development strategies; New business venture development and formation consulting services; 
+Organizational services for business purposes; Professional business consulting; Providing business 
+management information in connection with consulting and advisory services in the field of strategic 
+planning; Providing organizational development consulting services; Business development consulting 
+services; Business development services; Business project management services; Matching consumers 
+with professionals in the field of real estate; Providing business planning and marketing solutions for real 
+estate professionals; Providing online business management services including accounting, marketing, 
+business project management, and business development. FIRST USE: 20180410. FIRST USE IN 
+COMMERCE: 20180410
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+88946894
+Filing Date
+20200603Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+Registration Number
+6513275
+Date Registered
+20211005
+Owner
+(REGISTRANT) Equip3000 LIMITED LIABILITY COMPANY GEORGIA Suite 102 4514 Chamblee 
+Dunwoody Rd Atlanta GEORGIA 30338
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "PROJECT" APART FROM THE MARK AS 
+SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+SUPPLEMENTAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Rosezena J PiercePrint: Tue Aug 23 2022
+90359126
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+P.M. MEDIA & MARKETING
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Market analysis; Market analysis and research services; Market 
+assessment services; Market manipulation research and analysis, whether or not via the internet; Market 
+opinion polling studies; Market reports and studies; Market research; Market research and market 
+intelligence services; Market research and business analyses; Market research by means of a computer 
+database; Market research consultation; Market research services; Market research studies; Market 
+research using focus groups; Market segmentation consultation; Market study and analysis of market 
+studies; Marketing advisory services; Marketing analysis services; Marketing and branding services, 
+namely, providing customized communication programs to obtain consumer insights and develop 
+branding strategies; Marketing consulting; Marketing consulting services relating to long-term business 
+strategy development for non-profit organizations; Marketing consulting, namely, development of 
+marketing campaigns for others; Marketing plan development; Marketing research; Marketing research in 
+the fields of cosmetics, perfumery and beauty products; Marketing research services; Marketing services; 
+Marketing services in the field of web site traffic optimization; Marketing services in the nature of 
+promotion of third-party goods and services by brand ambassadors; Marketing services in the nature of 
+promotion of third-party goods and services by social media influencers; Marketing services, namely, 
+consumer marketing research; Marketing services, namely, creating corporate logos for others; Marketing 
+services, namely, promoting or advertising the goods and services of others; Marketing services, namely, 
+promotional services for the memorabilia and collectables of others; Marketing the goods and services of 
+others; Marketing the goods and services of others by means of location-based messaging; Marketing the 
+goods and services of others by means of push notification technology; Marketing, promotional and 
+advertising services provided by mobile telephone connections; Advertising agencies specializing in 
+marketing strategies to promote businesses; Advertising agency specializing in the development and 
+execution of word of mouth, viral, buzz and experiential marketing programs; Advertising and marketing; 
+Advertising and marketing consultancy; Advertising and marketing services provided by means of 
+indirect methods of marketing communications, namely, social media, search engine marketing, inquiry 
+marketing, internet marketing, mobile marketing, blogging and other forms of passive, sharable or viral 
+communications channels; Advertising and marketing services, namely, promoting the goods and services 
+of others; Advertising services, namely, promoting and marketing the goods and services of others 
+through all public communication means; Advertising services, public relations and marketing services, 
+namely, promoting and marketing the goods and services of others through all public communication 
+means; Advertising, marketing and promoting the goods and services of others using kiosks; Advertising, 
+marketing and promotion services; Advertising, marketing and promotion services, namely, promoting 
+the goods and services of others by providing customized exhibits; Advertising, marketing and 
+promotional services for automotive dealerships; Advertising, promotion and marketing services in the 
+nature of e-mail blast campaigns for others; Advice in the field of business management and marketing; 
+•Affiliate marketing; Analysis of market research data and statistics; Analyzing and compiling data for 
+measuring the performance of financial markets; Arranging and conducting marketing promotional events 
+for others; Branding services, namely, consulting, development, management and marketing of brands for 
+businesses and/or individuals; Business marketing consulting services; Business marketing services; 
+Business advice and analysis of markets; Business consultation and management regarding marketing 
+activities and launching of new products; Business management and consulting services for the health 
+care industry, namely, customer service, accounting services, and marketing services; Business to 
+business direct marketing services; Collection of market research information; Compiling financial, 
+securities, stock exchange, trade and quote, index value and other financial market information for 
+business purposes; Computerized market research services; Conducting market surveys; Conducting 
+marketing studies; Consultation services, namely, creative and strategic consultation regarding 
+development and production of marketing campaigns for others; Consulting services in the field of 
+marketing of educational training; Consulting services in the field of internet marketing; Consumer 
+marketing research and consulting related thereto; Consumer profiling for commercial or marketing 
+purposes; Cooperative advertising and marketing; Cooperative advertising and marketing services by way 
+of solicitation, customer service and providing marketing information via web sites on a global computer 
+network; Cooperative advertising and marketing services, namely, offering discounts to clients through 
+the joint participation of member beauty salons; Creative marketing plan development services; Custom 
+writing services comprising public relations and marketing materials for the audio, video and technology 
+industries; Development and production of the advertising content of banners and signs for advertising, 
+promotional, or marketing purposes; Development of marketing concepts; Development of marketing 
+strategies and concepts; Development of marketing strategies, concepts and tactics, namely, audience 
+development, brand awareness, customer relations, online community building and digital word of mouth 
+communications; Direct marketing advertising for others; Direct marketing consulting services; Direct 
+marketing services; Entertainment marketing services, namely, marketing, promotion and advertising for 
+independent recording artists; Entertainment marketing services, namely, marketing, promotion and 
+advertising for recording and performing artists; Event planning and management for marketing, 
+branding, promoting or advertising the goods and services of others; Media planning, namely, advising 
+the client on the correct times and stations to advertise based on media analysis of the market for that 
+media; On-line advertising and marketing services; On-line customer-based social media brand marketing 
+services; Online business research services that allow users to share opinions with a marketing research 
+company related to everyday consumer products and services; Planning, development, maintenance, 
+tracking and reporting of online marketing activities for third parties; Preparation of marketing surveys; 
+Preparing audiovisual presentations for use in marketing; Preparing speeches and oral presentations for 
+others for use in marketing; Promoting and marketing the goods and services of others by distributing 
+advertising material, coupons and discount offers via text messages; Promoting the goods and services of 
+others by means of word-of-mouth and nontraditional marketing programs; Promoting, advertising and 
+marketing of the brands, products, services and online websites of individuals, businesses and nonprofit 
+organizations; Promoting, advertising and marketing on-line web sites of others; Promoting, advertising 
+and marketing the on-line databases and electronic publications of others; Promotion and marketing 
+services and related consulting; Promotion, advertising and marketing of on-line websites; Promotional 
+marketing and representation services for sales to the public sector; Promotional marketing services using 
+audiovisual media; Promotional services, namely, guerrilla marketing services; Providing marketing and 
+promotion of special events; Providing marketing consulting in the field of social media; Providing a web 
+site featuring a directory of market research panels for consumers; Providing a website featuring content 
+on news relating to philanthropy marketing strategies, covering monetary giving trends and statistics, 
+volunteer/career opportunities and best practices for successful digital philanthropy efforts; Providing 
+business marketing information; Providing information in the field of marketing; Providing information 
+in the field of marketing and on-line marketing media via the Internet; Providing online businessmanagement services including accounting, marketing, business project management, and business 
+development; Providing public sector go-to-market advice and strategies; Provision of market research 
+information; Provision of marketing reports; Provision of databases featuring listings of marketers for use 
+by others in identifying and contacting marketers for promotional purposes; Provision of technical 
+information in the field of marketing; Social media strategy and marketing consultancy focusing on 
+helping clients create and extend their product and brand strategies by building virally engaging 
+marketing solutions; Statistical evaluations of marketing data; Targeted marketing services; Technical 
+consulting in the field of marketing. FIRST USE: 20200401. FIRST USE IN COMMERCE: 20200405
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+90359126
+Filing Date
+20201204
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20210706
+Registration Number
+6490696
+Date Registered
+20210921
+Owner
+(REGISTRANT) Hall, Porche Madre INDIVIDUAL UNITED STATES 4412 Newton Estates Trail Ellenwood 
+GEORGIA 30294
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "MEDIA & MARKETING" APART FROM 
+THE MARK AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of RecordPrint: Tue Aug 23 2022
+88596795
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+S.O. WORLDWIDE GROUP
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Advertising and marketing; Advertising and marketing consultancy; 
+Assistance, advisory services and consultancy with regard to business planning, business analysis, 
+business management, and business organization; Brand imagery consulting services; Business 
+consultation; Business development services; Business management; Business management advice; 
+Business marketing services; Business consultation in the field of business leadership development; 
+Business consulting services in business leadership development and business management; Business 
+development consulting services; Business management consultation; Business management consulting; 
+Business management and consultation; Business marketing consulting services; Business organisation 
+consulting; Business organization consultancy; Business organization consulting; Business organizational 
+consultation; Business strategy development services; Management services, namely, on-line business 
+development services, namely, providing start-up support for businesses of others; Marketing advisory 
+services; Marketing consulting; Marketing plan development; Marketing services; Providing online 
+business management services including accounting, marketing, business project management, and 
+business development; Real estate advertising services; Real estate marketing services; Advice relating to 
+the organisation and management of business; Business networking; Business organisation and 
+management consulting services; Business organization advice; Business organization and management 
+consulting; Business organization and operation consultancy; Business consulting services relating to the 
+integration of the areas of business process technology, organizational learning, change management, and 
+operational sustainability; Business monitoring and consulting services, namely, tracking web sites and 
+applications of others to provide strategy, insight, marketing, sales, operation, product design, particularly 
+specializing in the use of analytic and statistic models for the understanding and predicting of consumers, 
+businesses, and market trends and actions; Business services, namely, structuring, optimizing and change 
+management consulting related to corporate in-house intellectual property departments and intellectual 
+property asset management programs; Consulting services in business organization and management; 
+Consulting services in the fields of business management, human resources, and business organizational 
+design; Management consulting and advisory services in the areas of corporate growth strategy, 
+innovation and growth processes, organizational transformation, and talent management and development 
+strategies; Professional business consultancy; Professional business consulting; Providing organizational 
+development consulting services; Providing business marketing information; Providing information in the 
+field of marketing. FIRST USE: 20161122. FIRST USE IN COMMERCE: 20190521
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number88596795
+Filing Date
+20190828
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20200114
+Registration Number
+6023033
+Date Registered
+20200331
+Owner
+(REGISTRANT) S.O. Worldwide Group, LLC LIMITED LIABILITY COMPANY GEORGIA P.O Box 
+551023 Atlanta GEORGIA 30355
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "WORLDWIDE GROUP" APART FROM 
+THE MARK AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Rosezena J. Pierce, Esq.Print: Tue Aug 23 2022
+90682097
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+TLH GLOBAL GROUP
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Advertising agency specializing in the development and execution of 
+word of mouth, viral, buzz and experiential marketing programs; Brand concept and brand development 
+services for corporate and individual clients; Brand concept and brand development services for corporate 
+clients; Branding services, namely, consulting, development, management and marketing of brands for 
+businesses and/or individuals; Business consultancy; Business consultation; Business consultation 
+services; Business consultation in the field of business development, digital marketing strategies, 
+marketing strategies and sales strategies; Business consulting services in business leadership development 
+and business management; Business consulting services in the field of business development, digital 
+marketing strategies, marketing strategies and sales strategies; Business consulting services, namely, 
+providing assistance in development of business strategies and creative ideation; Business consulting, 
+management, and planning services in the field of business development, digital marketing strategies, 
+marketing strategies and sales strategies; Business development consulting services; Business 
+development services; Business development services, namely, providing start-up support for businesses 
+of others; Business marketing consulting services; Business organisation and management consulting 
+services; Business organization and operation consultancy; Business organizational consultation; 
+Business strategy development services; Concept and brand development services for corporate clients; 
+Consulting services in business organization and management; Consulting services in the area of 
+sustainable business solutions; Consulting services in the field of internet marketing; Corporate image 
+consulting services; Creative marketing plan development services; Development of marketing concepts; 
+Development of marketing strategies, concepts and tactics, namely, audience development, brand 
+awareness, customer relations, online community building and digital word of mouth communications; 
+Development of marketing strategies, concepts and tactics, namely, audience development, brand 
+awareness, online community building and digital word of mouth communications; Development of 
+marketing strategies and concepts; Direct marketing consulting services; Marketing consultation in the 
+field of business development, digital marketing strategies, marketing strategies and sales strategies; 
+Marketing consulting; Marketing consulting, namely, development of marketing campaigns for others; 
+Marketing plan development; Marketing services in the nature of developing marketing campaigns; 
+Marketing and branding services, namely, providing customized communication programs to obtain 
+consumer insights and develop branding strategies; Membership club services, namely, providing on-line 
+information to members in the fields of branding, business development, business marketing, and 
+marketing; On-line retail store services featuring a wide variety of consumer goods of others; On-line 
+retail store services featuring clothing, mugs, books and Popscokets; Online business development 
+services; Planning, development, maintenance, tracking and reporting of online marketing activities for 
+third parties; Professional business consulting; Providing advertising, marketing and promotional 
+services, namely, development of advertising campaigns for individuals and businesses; Providing 
+•marketing consulting in the field of social media; Providing online business management services 
+including accounting, marketing, business project management, and business development; Providing 
+organizational development consulting services; Retail clothing boutiques; Retail clothing stores; Retail 
+general store services; Social media strategy and marketing consultancy focusing on helping clients create 
+and extend their product and brand strategies by building virally engaging marketing solutions; 
+Advertising and marketing services provided by means of indirect methods of marketing 
+communications, namely, social media, search engine marketing, inquiry marketing, internet marketing, 
+mobile marketing, blogging and other forms of passive, sharable or viral communications channels; On-
+line customer-based social media brand marketing services; Providing business information in the field of 
+social media. FIRST USE: 20180315. FIRST USE IN COMMERCE: 20180315
+Mark Drawing Code
+(4) STANDARD CHARACTER MARK
+Design Code
+Serial Number
+90682097
+Filing Date
+20210429
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20220208
+Registration Number
+6711890
+Date Registered
+20220426
+Owner
+(REGISTRANT) Tyron L. Harris INDIVIDUAL UNITED STATES PO Box 378394 Chicago ILLINOIS 
+606379998
+Priority Date
+Disclaimer Statement
+NO CLAIM IS MADE TO THE EXCLUSIVE RIGHT TO USE "GLOBAL GROUP" APART FROM THE 
+MARK AS SHOWN
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of RecordRosezena J. PiercePrint: Tue Aug 23 2022
+90504049
+(4) STANDARD CHARACTER MARK
+Mark Punctuated
+HOUSE OF FOFANAH
+Translation
+Goods/Services
+IC 035. US 100 101 102.G & S: Business consultation in the field of business leadership development; 
+Business consulting and business information for enterprises; Business consulting services in business 
+leadership development and business management; Business planning; Marketing analysis services; 
+Marketing consulting; Marketing research; Marketing services; Advertising and marketing; Advertising 
+and marketing consultancy; Advertising and marketing services provided by means of indirect methods of 
+marketing communications, namely, social media, search engine marketing, inquiry marketing, internet 
+marketing, mobile marketing, blogging and other forms of passive, sharable or viral communications 
+channels; Assistance, advice and consultancy with regard to business planning, business analysis, 
+business management and business organization relating to purchasing functions; Brand imagery 
+consulting services; Business marketing services; Business consultation and management regarding 
+marketing activities and launching of new products; Business development consulting services; 
+Consulting services in the field of internet marketing; Development of marketing concepts; Development 
+of marketing strategies, concepts and tactics, namely, audience development, brand awareness, online 
+community building and digital word of mouth communications; Membership club services, namely, 
+providing on-line information to members in the fields of branding, business development, business 
+marketing, and marketing; On-line advertising and marketing services; Providing business information in 
+the field of social media; Providing information in the field of marketing; Providing information in the 
+field of marketing and on-line marketing media via the Internet; Providing marketing consulting in the 
+field of social media; Providing online business management services including accounting, marketing, 
+business project management, and business development; Social media strategy and marketing 
+consultancy focusing on helping clients create and extend their product and brand strategies by building 
+virally engaging marketing solutions. FIRST USE: 20180306. FIRST USE IN COMMERCE: 20180306
+•
+IC 041. US 100 101 107.G & S: Business training; Educational services, namely, conducting online 
+courses, classes, workshops, conferences in the field of branding, digital marketing, social media strategy, 
+content and product creation, monetization, business development and business restructuring and 
+distribution of training material in connection therewith; Arranging and conducting of workshops in the 
+field of branding, digital marketing, social media strategy, content and product creation, monetization, 
+business development and business restructuring; Business training in the field of branding, marketing, 
+advertising; Conducting of business conferences in the field of branding, digital marketing, social media 
+strategy, content and product creation, monetization, business development and business restructuring; 
+Providing group coaching and in-person learning forums in the field of leadership development; Training 
+courses in strategic planning relating to advertising, promotion, marketing and business. FIRST USE: 
+20180306. FIRST USE IN COMMERCE: 20180306
+•
+Mark Drawing Code
+(4) STANDARD CHARACTER MARKDesign Code
+Serial Number
+90504049
+Filing Date
+20210202
+Current Filing Basis
+1A
+Original Filing Basis
+1A
+Publication for Opposition Date
+20211005
+Registration Number
+6595051
+Date Registered
+20211221
+Owner
+(REGISTRANT) House of Fofanah IP Holding Company, Inc. CORPORATION DELAWARE #237 2045 
+Biscayne Blvd. Miami FLORIDA 33137
+Priority Date
+Disclaimer Statement
+Description of Mark
+Type of Mark
+SERVICE MARK
+Register
+PRINCIPAL
+Live Dead Indicator
+LIVE
+Attorney of Record
+Ticora E. DavisUnited States Patent and Trademark Office (USPTO)
+USPTO OFFICIAL NOTICE
+Office Action (Official Letter) has issued  
+on August 23, 2022 for  
+U.S. Trademark Application Serial No.  97119347
+A USPTO examining attorney has reviewed your trademark application and issued an Office 
+action.  You must respond to this Office action in order to avoid your application 
+abandoning.  Follow the steps below.
+(1)  Read the Office action. This email is NOT the Office action.
+(2)  Respond to the Office action by the deadline using the Trademark Electronic Application 
+System (TEAS). Your response must be received by the USPTO on or before 11:59 p.m. 
+Eastern Time of the last day of the response period. Otherwise, your application will be 
+abandoned. See the Office action itself regarding how to respond.
+(3)  Direct general questions about using USPTO electronic forms, the USPTO website, the 
+application process, the status of your application, and whether there are outstanding deadlines 
+to the Trademark Assistance Center (TAC).
+After reading the Office action, address any question(s) regarding the specific content to the 
+USPTO examining attorney identified in the Office action.
+GENERAL GUIDANCE
+Check the status of your application periodically in the Trademark Status & 
+Document Retrieval (TSDR) database to avoid missing critical deadlines.
+•
+Update your correspondence email address to ensure you receive important USPTO 
+notices about your application.
+•
+Beware of trademark-related scams. Protect yourself from people and companies that 
+may try to take financial advantage of you. Private companies may call you and pretend 
+to be the USPTO or may send you communications that resemble official USPTO 
+documents to trick you. We will never request your credit card number or social security 
+number over the phone. And all official USPTO correspondence will only be emailed 
+from the domain “@uspto.gov.” Verify the correspondence originated from us by using 
+your Serial Number in our database, TSDR, to confirm that it appears under the 
+“Documents” tab, or contact the Trademark Assistance Center. 
+•Hiring a U.S.-licensed attorney. If you do not have an attorney and are not required to 
+have one under the trademark rules, we encourage you to hire a U.S.-licensed attorney 
+specializing in trademark law to help guide you through the registration process. The 
+USPTO examining attorney is not your attorney and cannot give you legal advice, but 
+rather works for and represents the USPTO in trademark matters.
+•Note To The File
+CREATIVE GRAVITY
+Searched
+Google
+•
+ 
+Serial Number: 97119347  
+Date: 08/23/2022 2:56 pm  
+Created by: Elissa Kon
